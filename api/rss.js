@@ -41,7 +41,7 @@ export default async function handler(req, res) {
             const results = await Promise.all(fetchPromises);
 
             res.setHeader('Content-Type', 'application/json; charset=utf-8');
-            res.setHeader('Cache-Control', 's-maxage=900, stale-while-revalidate=1800');
+            res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=7200');
 
             return res.status(200).json({ feeds: results });
         } catch (error) {
@@ -70,7 +70,7 @@ export default async function handler(req, res) {
         const text = await response.text();
 
         res.setHeader('Content-Type', 'application/xml; charset=utf-8');
-        res.setHeader('Cache-Control', 's-maxage=900, stale-while-revalidate=1800');
+        res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate=7200');
 
         return res.status(200).send(text);
     } catch (error) {
