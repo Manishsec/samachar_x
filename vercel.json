@@ -1,19 +1,23 @@
 {
-    "buildCommand": "cd frontend && pnpm install && pnpm run build",
+    "version": 2,
+    "installCommand": "cd frontend && npm install",
+    "buildCommand": "cd frontend && npm run build",
     "outputDirectory": "frontend/dist",
-    "framework": "vite",
-    "rewrites": [
+    "routes": [
         {
-            "source": "/api/:path*",
-            "destination": "/api/:path*"
+            "src": "/api/(.*)",
+            "dest": "/api/$1"
         },
         {
-            "source": "/((?!api|assets|static|_next|favicon.ico|.*\\..*).*)",
-            "destination": "/index.html"
+            "handle": "filesystem"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "/index.html"
         }
     ],
     "functions": {
-        "api/rss.js": {
+        "api/*.js": {
             "memory": 256,
             "maxDuration": 10
         }
