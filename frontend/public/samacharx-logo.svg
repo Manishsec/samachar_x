@@ -1,0 +1,12 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Samachar text -->
+  <text x="50" y="200" font-family="'Inter', Arial, sans-serif" font-size="120" font-weight="800" fill="#1e3a8a" letter-spacing="-3">Samachar</text>
+  
+  <!-- X with gradient effect -->
+  <g transform="translate(840, 70)">
+    <!-- Orange part of X (top right and bottom left) -->
+    <path d="M10 0 L90 130 L110 130 L30 0 Z" fill="#f97316"/>
+    <!-- Red part of X (top left and bottom right) -->
+    <path d="M110 0 L30 130 L10 130 L90 0 Z" fill="#dc2626"/>
+  </g>
+</svg>

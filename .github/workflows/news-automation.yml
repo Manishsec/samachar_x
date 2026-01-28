@@ -1,0 +1,80 @@
+name: 📰 Fetch News
+
+on:
+  schedule:
+    # 8 runs per day - one category each (times in UTC, IST = UTC+5:30)
+    - cron: '30 0 * * *'   # 6:00 AM IST - Breaking News
+    - cron: '30 2 * * *'   # 8:00 AM IST - Technology
+    - cron: '30 4 * * *'   # 10:00 AM IST - Business
+    - cron: '30 6 * * *'   # 12:00 PM IST - Sports
+    - cron: '30 8 * * *'   # 2:00 PM IST - Entertainment
+    - cron: '30 10 * * *'  # 4:00 PM IST - International
+    - cron: '30 12 * * *'  # 6:00 PM IST - National
+    - cron: '30 16 * * *'  # 10:00 PM IST - Cybersecurity
+  workflow_dispatch:
+    inputs:
+      category_index:
+        description: 'Category index (0-7): 0=Breaking, 1=Tech, 2=Business, 3=Sports, 4=Entertainment, 5=International, 6=National, 7=Cybersecurity'
+        required: false
+        default: '0'
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0
+      
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: 📦 Install dependencies
+        run: |
+          pip install -r automation/requirements.txt
+      
+      - name: 🔢 Determine category index
+        id: category
+        run: |
+          if [ -n "${{ github.event.inputs.category_index }}" ]; then
+            echo "index=${{ github.event.inputs.category_index }}" >> $GITHUB_OUTPUT
+          else
+            # Auto-detect based on UTC hour
+            HOUR=$(date -u +%H)
+            case $HOUR in
+              00|01) INDEX=0 ;;  # Breaking
+              02|03) INDEX=1 ;;  # Technology
+              04|05) INDEX=2 ;;  # Business
+              06|07) INDEX=3 ;;  # Sports
+              08|09) INDEX=4 ;;  # Entertainment
+              10|11) INDEX=5 ;;  # International
+              12|13) INDEX=6 ;;  # National
+              *) INDEX=7 ;;      # Cybersecurity
+            esac
+            echo "index=$INDEX" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: 📰 Fetch & Generate News
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          CATEGORY_INDEX: ${{ steps.category.outputs.index }}
+        run: python automation/fetch_news.py
+      
+      - name: 📤 Commit and Push
+        run: |
+          git config user.name "SamacharX Bot"
+          git config user.email "bot@samacharx.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📰 Update news - Category ${{ steps.category.outputs.index }} - $(date '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
