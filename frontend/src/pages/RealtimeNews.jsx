@@ -39,13 +39,8 @@ const RealtimeNews = () => {
         loadNews();
     }, [loadNews]);
 
-    useEffect(() => {
-        const interval = setInterval(() => {
-            loadNews(true);
-        }, 5 * 60 * 1000);
-
-        return () => clearInterval(interval);
-    }, [loadNews]);
+    // Auto-refresh removed to minimize API usage
+    // Users can manually refresh using the refresh button
 
     const handleSourceToggle = (sourceId) => {
         setSelectedSources(prev => {

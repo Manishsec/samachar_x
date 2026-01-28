@@ -188,66 +188,65 @@ const parseRSSItem = (item, source) => {
     };
 };
 
-const fetchRSSFeed = async (source) => {
-    try {
-        const apiUrl = getApiUrl();
-        const response = await fetch(`${apiUrl}?url=${encodeURIComponent(source.url)}`);
+const parseXMLFeed = (xmlText, source) => {
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(xmlText, 'text/xml');
 
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-        }
-
-        const text = await response.text();
-
-        if (!text || text.length < 100) {
-            throw new Error('Empty response');
-        }
-
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(text, 'text/xml');
-
-        const parseError = xml.querySelector('parsererror');
-        if (parseError) {
-            throw new Error('Failed to parse RSS feed');
-        }
-
-        const items = xml.querySelectorAll('item');
-        const parsedItems = [];
-
-        items.forEach((item, index) => {
-            if (index < 15) {
-                const parsed = parseRSSItem(item, source);
-                if (parsed.title && parsed.link && parsed.imageUrl) {
-                    parsedItems.push(parsed);
-                }
-            }
-        });
-
-        return parsedItems;
-    } catch (error) {
-        console.error(`Error fetching ${source.name}:`, error.message);
+    const parseError = xml.querySelector('parsererror');
+    if (parseError) {
         return [];
     }
+
+    const items = xml.querySelectorAll('item');
+    const parsedItems = [];
+
+    items.forEach((item, index) => {
+        if (index < 15) {
+            const parsed = parseRSSItem(item, source);
+            if (parsed.title && parsed.link && parsed.imageUrl) {
+                parsedItems.push(parsed);
+            }
+        }
+    });
+
+    return parsedItems;
 };
 
+// Use batch API to fetch all feeds in ONE request
 export const fetchAllRSSFeeds = async (selectedSources = null) => {
     const sourcesToFetch = selectedSources
         ? RSS_SOURCES.filter(s => selectedSources.includes(s.id))
         : RSS_SOURCES;
 
-    const feedPromises = sourcesToFetch.map(source => fetchRSSFeed(source));
-    const results = await Promise.allSettled(feedPromises);
+    const apiUrl = getApiUrl();
+    const urls = sourcesToFetch.map(s => s.url).join(',');
 
-    const allItems = [];
-    results.forEach((result) => {
-        if (result.status === 'fulfilled' && result.value) {
-            allItems.push(...result.value);
+    try {
+        const response = await fetch(`${apiUrl}?batch=true&urls=${encodeURIComponent(urls)}`);
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
         }
-    });
 
-    allItems.sort((a, b) => b.pubDate - a.pubDate);
+        const result = await response.json();
+        const allItems = [];
 
-    return allItems;
+        result.feeds.forEach((feed) => {
+            if (feed.data && !feed.error) {
+                const source = sourcesToFetch.find(s => s.url === feed.url);
+                if (source) {
+                    const items = parseXMLFeed(feed.data, source);
+                    allItems.push(...items);
+                }
+            }
+        });
+
+        allItems.sort((a, b) => b.pubDate - a.pubDate);
+        return allItems;
+    } catch (error) {
+        console.error('Error fetching feeds:', error.message);
+        return [];
+    }
 };
 
 export const fetchSingleFeed = async (sourceId) => {
@@ -255,7 +254,22 @@ export const fetchSingleFeed = async (sourceId) => {
     if (!source) {
         throw new Error(`Source ${sourceId} not found`);
     }
-    return await fetchRSSFeed(source);
+
+    const apiUrl = getApiUrl();
+
+    try {
+        const response = await fetch(`${apiUrl}?url=${encodeURIComponent(source.url)}`);
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        const text = await response.text();
+        return parseXMLFeed(text, source);
+    } catch (error) {
+        console.error(`Error fetching ${source.name}:`, error.message);
+        return [];
+    }
 };
 
 export const getRSSSources = () => RSS_SOURCES;
