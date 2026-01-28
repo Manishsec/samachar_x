@@ -97,45 +97,11 @@ const RSS_SOURCES = [
     }
 ];
 
-const CORS_PROXIES = [
-    (url) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
-    (url) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-    (url) => `https://thingproxy.freeboard.io/fetch/${url}`,
-    (url) => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}`,
-];
-
-let currentProxyIndex = 0;
-
-const fetchWithProxy = async (url, proxyIndex = 0) => {
-    if (proxyIndex >= CORS_PROXIES.length) {
-        throw new Error('All proxies failed');
+const getApiUrl = () => {
+    if (typeof window !== 'undefined') {
+        return window.location.origin + '/api/rss';
     }
-
-    const proxyUrl = CORS_PROXIES[proxyIndex](url);
-
-    try {
-        const response = await fetch(proxyUrl, {
-            headers: {
-                'Accept': 'application/rss+xml, application/xml, text/xml, */*'
-            }
-        });
-
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-        }
-
-        const text = await response.text();
-
-        if (!text || text.length < 100) {
-            throw new Error('Empty response');
-        }
-
-        currentProxyIndex = proxyIndex;
-        return text;
-    } catch (error) {
-        console.log(`Proxy ${proxyIndex} failed for ${url}, trying next...`);
-        return fetchWithProxy(url, proxyIndex + 1);
-    }
+    return '/api/rss';
 };
 
 const parseRSSItem = (item, source) => {
@@ -148,24 +114,36 @@ const parseRSSItem = (item, source) => {
         const mediaContent = item.querySelector('media\\:content, content');
         if (mediaContent) {
             const url = mediaContent.getAttribute('url');
-            if (url) return url;
+            if (url && url.startsWith('http')) return url;
         }
 
         const mediaThumbnail = item.querySelector('media\\:thumbnail, thumbnail');
         if (mediaThumbnail) {
             const url = mediaThumbnail.getAttribute('url');
-            if (url) return url;
+            if (url && url.startsWith('http')) return url;
         }
 
         const enclosure = item.querySelector('enclosure');
-        if (enclosure && enclosure.getAttribute('type')?.startsWith('image')) {
-            return enclosure.getAttribute('url') || '';
+        if (enclosure) {
+            const type = enclosure.getAttribute('type') || '';
+            if (type.startsWith('image')) {
+                const url = enclosure.getAttribute('url');
+                if (url) return url;
+            }
         }
 
         const description = getTextContent(item, 'description');
         const imgMatch = description.match(/<img[^>]+src=["']([^"']+)["']/i);
-        if (imgMatch) {
+        if (imgMatch && imgMatch[1].startsWith('http')) {
             return imgMatch[1];
+        }
+
+        const content = getTextContent(item, 'content\\:encoded');
+        if (content) {
+            const contentImgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/i);
+            if (contentImgMatch && contentImgMatch[1].startsWith('http')) {
+                return contentImgMatch[1];
+            }
         }
 
         return '';
@@ -212,7 +190,18 @@ const parseRSSItem = (item, source) => {
 
 const fetchRSSFeed = async (source) => {
     try {
-        const text = await fetchWithProxy(source.url, currentProxyIndex);
+        const apiUrl = getApiUrl();
+        const response = await fetch(`${apiUrl}?url=${encodeURIComponent(source.url)}`);
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        const text = await response.text();
+
+        if (!text || text.length < 100) {
+            throw new Error('Empty response');
+        }
 
         const parser = new DOMParser();
         const xml = parser.parseFromString(text, 'text/xml');
@@ -226,9 +215,9 @@ const fetchRSSFeed = async (source) => {
         const parsedItems = [];
 
         items.forEach((item, index) => {
-            if (index < 10) {
+            if (index < 15) {
                 const parsed = parseRSSItem(item, source);
-                if (parsed.title && parsed.link) {
+                if (parsed.title && parsed.link && parsed.imageUrl) {
                     parsedItems.push(parsed);
                 }
             }
@@ -245,8 +234,6 @@ export const fetchAllRSSFeeds = async (selectedSources = null) => {
     const sourcesToFetch = selectedSources
         ? RSS_SOURCES.filter(s => selectedSources.includes(s.id))
         : RSS_SOURCES;
-
-    currentProxyIndex = 0;
 
     const feedPromises = sourcesToFetch.map(source => fetchRSSFeed(source));
     const results = await Promise.allSettled(feedPromises);
