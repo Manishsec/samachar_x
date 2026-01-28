@@ -41,6 +41,10 @@ A fully automated news website that fetches, generates, and publishes news artic
 - Engaging and informative articles
 - Auto-generated excerpts
 
+### 📅 Daily Briefing
+- **Today's Quote** - Daily inspirational quote
+- **On This Day** - Historical events from today's date
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React + Vite

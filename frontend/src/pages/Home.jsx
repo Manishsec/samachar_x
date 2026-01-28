@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Hero from '../components/Hero';
 import NewsCard from '../components/NewsCard';
 import Sidebar from '../components/Sidebar';
+import DailyBriefing from '../components/DailyBriefing';
 import { getNews } from '../data/news';
 
 const Home = () => {
@@ -37,6 +38,7 @@ const Home = () => {
       <div className="home-page">
         <div className="content-wrapper">
           <main className="main-content-area">
+            <DailyBriefing />
             <div className="no-news-welcome">
               <div className="welcome-icon">📰</div>
               <h1>Welcome to SamacharX</h1>
@@ -60,6 +62,7 @@ const Home = () => {
 
       <div className="content-wrapper">
         <main className="main-content-area">
+          <DailyBriefing />
           <div className="section-header">
             <h2 className="section-title-modern">Latest News</h2>
             <div className="section-divider"></div>
