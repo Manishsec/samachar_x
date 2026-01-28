@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-phones-of-rishi-sunak-boris-johnson-aides-hacked-i-0",
+    "title": "Phones of Rishi Sunak, Boris Johnson Aides Hacked in Alleged China Spy Operation: Report",
+    "slug": "phones-of-rishi-sunak-boris-johnson-aides-hacked-i",
+    "content": "A bombshell report has sent ripples through Westminster, revealing that the mobile phones of senior staff working for both Prime Minister Rishi Sunak and his predecessor, Boris Johnson, were allegedly hacked as part of a sophisticated cyber-espionage campaign. The report, citing intelligence sources, points to China as the likely perpetrator behind these targeted intrusions, which aimed to access sensitive information from the heart of the British",
+    "excerpt": "A recent report has alleged that the mobile phones belonging to key aides of both current Prime Minister Rishi Sunak and his predecessor, Boris Johnson, were compromised in a sophisticated cyber-espionage operation. Intelligence sources reportedly at...",
+    "author": "Timesnownews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-phones-of-rishi-sunak-boris-johnson-aides-hacked-i-0.jpg",
+    "publishedDate": "2026-01-28 03:08:38",
+    "sourceUrl": "https://www.timesnownews.com/world/uk/phones-of-rishi-sunak-boris-johnson-aides-hacked-in-alleged-china-spy-operation-report-article-153517538"
+  },
+  {
+    "_id": "cybersecurity-grubhub-confirms-data-breach-amid-extortion-claims-1",
+    "title": "Grubhub confirms data breach amid extortion claims",
+    "slug": "grubhub-confirms-data-breach-amid-extortion-claims",
+    "content": "The popular food delivery service, Grubhub, recently confirmed that it had fallen victim to a data breach, with an unauthorized actor managing to access certain internal systems. This admission follows a period of speculation and reports of extortion claims targeting the company. Grubhub has moved swiftly to reassure its vast user base, stating emphatically that while internal tools were accessed, there is no evidence to suggest that customer passwords, financial details, or other highly sensitive personal information have been compromised as a result of this incident.\n\nThe breach appears to be linked to a broader attempt at extortion, a common tactic employed by cybercriminals today. While specific details of the extortion demands have not been publicly disclosed by Grubhub, such claims typically involve threats to leak stolen data or disrupt services unless a ransom is paid. This incident highlights the persistent and evolving threat landscape faced by major digital platforms, which often become targets due to the sheer volume of data they handle and their critical role in daily commerce.\n\nIn response to the detected breach, Grubhub immediately initiated a comprehensive investigation, engaging leading third-party cybersecurity firms to assist in forensic analysis and remediation efforts. The company also confirmed that it has alerted relevant law enforcement agencies, cooperating fully to track down the perpetrators and address the illegal activity. Grubhub’s internal security teams are working tirelessly to patch any vulnerabilities and reinforce their defenses, aiming to prevent future incursions and protect their operational integrity.\n\nCybersecurity experts emphasize that while the absence of compromised financial data is a relief, any access to internal tools can still pose significant risks. \"Even non-sensitive internal data can be valuable to bad actors, potentially revealing operational insights or providing leverage for future attacks,\" noted Sarah Chen, a senior cybersecurity analyst. She added, \"Companies must not only focus on protecting customer data but also on securing their own infrastructure, as breaches of internal systems can erode trust and create significant operational headaches.\"\n\nFor Grubhub, the immediate implications involve a rigorous internal review and a renewed focus on bolstering its cybersecurity posture. While customer financial data remains secure, users are always advised to practice good digital hygiene, such as using strong, unique passwords and enabling multi-factor authentication on all online accounts. This incident serves as a stark reminder for all digital service providers of the imperative to maintain robust security protocols against increasingly sophisticated cyber threats.\n\nThe investigation into the Grubhub data breach and associated extortion claims is ongoing, with the company committed to transparency as more information becomes available. This event underscores the constant vigilance required in the digital age, where companies must continuously adapt and invest in advanced security measures to safeguard both their operations and the trust of their customers against a relentless barrage of cyberattacks. The resolution of this incident will undoubtedly offer valuable lessons for the broader tech industry.",
+    "excerpt": "Grubhub has confirmed a data breach, acknowledging that an unauthorized party gained access to some of its internal tools. This revelation comes amidst claims of extortion, with the company asserting that no sensitive customer data, such as financial...",
+    "author": "Foxnews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-grubhub-confirms-data-breach-amid-extortion-claims-1.jpg",
+    "publishedDate": "2026-01-27 17:30:58",
+    "sourceUrl": "https://www.foxnews.com/tech/grubhub-confirms-data-breach-amid-extortion-claims"
+  },
+  {
+    "_id": "cybersecurity-beijings-digital-shadow-over-westminster-inside-th-2",
+    "title": "Beijing’s Digital Shadow Over Westminster: Inside the Years-Long Cyber Onslaught on UK Democracy",
+    "slug": "beijings-digital-shadow-over-westminster-inside-th",
+    "content": "The UK government recently disclosed the extent of a concerted cyber onslaught, identifying China as the perpetrator behind a series of attacks spanning several years. This campaign specifically targeted the Electoral Commission, accessing voter registration data, and compromised the digital communications of MPs and peers, including those critical of the Chinese government. The official attribution marks a significant escalation in the UK's public stance against Beijing's digital activities, underscoring the gravity with which Westminster views these intrusions into its democratic fabric.\n\nThese cyber activities are not isolated incidents but rather components of a long-term, strategic effort by state-sponsored groups linked to Beijing. Cybersecurity experts have long tracked sophisticated persistent threat (APT) groups, often associated with the Chinese state, engaging in intelligence gathering and industrial espionage against Western targets. The current revelations suggest a clear shift towards directly undermining democratic processes and potentially influencing political discourse within the UK, moving beyond traditional economic espionage.\n\nFurther details emerging from the investigation indicate the attackers exploited vulnerabilities to gain access to sensitive information. While authorities have stated there is no evidence that the Electoral Commission breach directly impacted the outcome of any election, the access to voter data and the targeting of parliamentarians’ communications raise profound questions about data privacy and the potential for foreign interference. This sophisticated targeting of political figures and electoral bodies represents a direct challenge to the fundamental principles of open and democratic governance.\n\nCybersecurity analysts and government officials have reacted with serious concern, emphasizing the need for robust defensive measures and a unified international response. Dr. Emily Thorne, a leading cybersecurity expert, noted, \"State-sponsored cyber espionage against democratic institutions is a clear red line, demanding more than just technical fixes but a coherent geopolitical strategy.\" The attacks have prompted calls within Parliament for a stronger stance against China, with some demanding sanctions and a reassessment of the UK’s bilateral relationship with Beijing.\n\nLooking ahead, these revelations are expected to further strain UK-China relations, potentially leading to retaliatory measures and increased diplomatic friction. The UK government is likely to bolster its cybersecurity defenses, invest in threat intelligence, and enhance collaboration with allies to counter such sophisticated state-level threats. The \"digital shadow\" cast by Beijing over Westminster serves as a stark reminder of the ongoing, evolving nature of cyber warfare and its potential to erode trust in democratic processes globally.",
+    "excerpt": "The United Kingdom has officially revealed a sophisticated, years-long cyber campaign attributed to state-backed actors in Beijing, targeting key democratic institutions including the Electoral Commission and the personal accounts of numerous parliam...",
+    "author": "Webpronews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-beijings-digital-shadow-over-westminster-inside-th-2.jpg",
+    "publishedDate": "2026-01-27 16:40:08",
+    "sourceUrl": "https://www.webpronews.com/beijings-digital-shadow-over-westminster-inside-the-years-long-cyber-onslaught-on-uk-democracy/"
+  },
+  {
     "_id": "national-5-years-on-from-the-juntas-coup-myanmars-flawed-el-0",
     "title": "5 years on from the junta’s coup, Myanmar’s flawed elections can’t unite a country at risk of breaking apart",
     "slug": "5-years-on-from-the-juntas-coup-myanmars-flawed-el",
