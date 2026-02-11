@@ -69,8 +69,8 @@ jobs:
       
       - name: 📤 Commit and Push
         run: |
-          git config user.name "SamacharX Bot"
-          git config user.email "bot@samacharx.com"
+          git config user.name "Manishsec"
+          git config user.email "yadavnikhil7425@gmail.com"
           git add -A
           if git diff --staged --quiet; then
             echo "No changes to commit"
