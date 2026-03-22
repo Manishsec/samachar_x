@@ -1,5 +1,56 @@
 [
   {
+    "_id": "technology-major-launch-fudan-university-school-of-management-0",
+    "title": "Major Launch! Fudan University School of Management Unveils the Global MBA Program",
+    "slug": "major-launch-fudan-university-school-of-management",
+    "content": "Fudan University School of Management officially inaugurated its cutting-edge Global MBA program today, March 21, 2026, a move poised to reshape the landscape of international business education. The program aims to attract a diverse cohort of professionals from across the globe, offering a rigorous curriculum that blends Fudan's deep understanding of the Asian business environment with Western management principles. This strategic launch underscores Fudan's commitment to fostering high-caliber talent capable of driving innovation and sustainable growth in an increasingly globalized and technologically advanced economy.\n\nThe introduction of the Global MBA program arrives at a pivotal moment, as businesses worldwide grapple with rapid technological advancements, geopolitical shifts, and the imperative for sustainable practices. Fudan University, renowned for its academic excellence and influential role within China's top-tier education system, has consistently adapted its offerings to meet contemporary challenges. This new GMBA builds upon Fudan's established legacy, leveraging its strong connections to China's burgeoning economy and its vibrant innovation ecosystems, particularly in areas like fintech, AI, and e-commerce.\n\nDistinguishing itself from traditional MBA programs, Fudan's Global MBA curriculum places a strong emphasis on digital transformation, cross-cultural leadership, and global innovation strategies. Modules are expected to cover topics such as advanced analytics, blockchain for business, sustainable supply chains, and navigating international tech markets. The program is designed to integrate experiential learning opportunities, including global immersion trips and partnerships with leading multinational corporations and tech giants, providing students with invaluable real-world exposure and networking prospects.\n\nAccording to Professor Chen Zhang, Dean of Fudan University School of Management, this GMBA is a direct response to the urgent demand for leaders who can bridge cultural divides and harness technological disruption for competitive advantage. \"Our Global MBA is not just about business acumen; it's about developing agile, ethical leaders who can drive innovation across borders, particularly in sectors being reshaped by technology,\" Professor Zhang stated in a press release. Industry analysts echo this sentiment, highlighting the program's potential to become a key incubator for talent in global technology management and cross-border ventures.\n\nThe implications of Fudan's Global MBA extend beyond its immediate cohort, potentially influencing how future business leaders approach global commerce and technological integration. By attracting a diverse international student body to Shanghai, the program is set to become a melting pot of ideas, fostering cross-cultural understanding and collaboration essential for navigating the complexities of modern global business. It also reinforces China's growing role as a hub for business education and innovation, challenging established paradigms in the Western world.\n\nUltimately, the Global MBA program at Fudan University School of Management represents a forward-thinking initiative designed to equip professionals with the strategic insights and practical skills necessary for leadership in the 21st century. As the world continues its rapid convergence of technology and business, Fudan's new offering aims to cultivate a generation of leaders ready to drive impactful change, foster innovation, and shape the future of global enterprise across diverse industries. Its launch solidifies Fudan's commitment to academic excellence and its vision for a globally connected, technologically advanced business world.",
+    "excerpt": "Shanghai, China – Fudan University School of Management has announced the official launch of its highly anticipated Global MBA (GMBA) program, marking a significant milestone in international business education. Unveiled on March 21, 2026, the new cu...",
+    "author": "Manilatimes",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-major-launch-fudan-university-school-of-management-0.jpg",
+    "publishedDate": "2026-03-21 15:24:56",
+    "sourceUrl": "https://www.manilatimes.net/2026/03/21/tmt-newswire/pr-newswire/major-launch-fudan-university-school-of-management-unveils-the-global-mba-program/2304886"
+  },
+  {
+    "_id": "technology-biohacking-trends-in-2026-exploring-risks-benefits-1",
+    "title": "Biohacking Trends in 2026: Exploring Risks, Benefits, and Safety of Popular Health Hacks",
+    "slug": "biohacking-trends-in-2026-exploring-risks-benefits",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Biohacking health trend explained: benefits, risks, and safety tips. Learn if biohacking is safe, how wearables and AI shape health optimization.",
+    "author": "Medicaldaily",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-biohacking-trends-in-2026-exploring-risks-benefits-1.jpg",
+    "publishedDate": "2026-03-21 15:22:00",
+    "sourceUrl": "https://www.medicaldaily.com/biohacking-trends-2026-exploring-risks-benefits-safety-popular-health-hacks-475000"
+  },
+  {
+    "_id": "technology-nigerias-celestine-achi-named-among-top-25-global--2",
+    "title": "Nigeria’s Celestine Achi named among top 25 global AI trainers",
+    "slug": "nigerias-celestine-achi-named-among-top-25-global-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "A poll by renowned American technologist, educator and LinkedIn top voice, Nick Martin has revealed that Nigeria’s foremost AI educator and digital communications strategist, Dr. Celestine Achi is amo",
+    "author": "Promptnewsonline",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-nigerias-celestine-achi-named-among-top-25-global--2.jpg",
+    "publishedDate": "2026-03-21 15:21:00",
+    "sourceUrl": "https://promptnewsonline.com/nigerias-celestine-achi-named-among-top-25-global-ai-trainers/"
+  },
+  {
     "_id": "cybersecurity-us-accuses-irans-government-of-operating-hacktivis-0",
     "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker | TechCrunch",
     "slug": "us-accuses-irans-government-of-operating-hacktivis",
@@ -287,56 +338,5 @@
     "imageUrl": "/news-images/business-brazils-new-finance-minister-to-delay-divisive-tax-2.jpg",
     "publishedDate": "2026-03-20 17:06:33",
     "sourceUrl": "https://www.investing.com/news/economy-news/brazils-new-finance-minister-to-delay-divisive-tax-plans-ahead-of-election-sources-say-4573395"
-  },
-  {
-    "_id": "technology-kenya-and-eu-strengthen-digital-partnership-at-tec-0",
-    "title": "Kenya and EU Strengthen Digital Partnership at Tech Forum, With Focus on AI Policy and Infrastructure",
-    "slug": "kenya-and-eu-strengthen-digital-partnership-at-tec",
-    "content": "The recent Tech Forum, held in Nairobi, served as a pivotal platform for top officials from both Kenya and the European Union to solidify their shared vision for digital cooperation. Key discussions revolved around leveraging digital technologies to drive economic growth, enhance public services, and create opportunities across the continent. Kenya’s Cabinet Secretary for Information, Communications and the Digital Economy, alongside high-ranking EU Commissioners, emphasized the necessity of a harmonized approach to digital governance and investment, particularly in areas like artificial intelligence and connectivity, to ensure sustainable and equitable development.\n\nThis enhanced partnership builds upon existing dialogues and initiatives aimed at bridging the global digital divide, a cornerstone of the EU's Global Gateway strategy. For Kenya, a recognized leader in digital innovation in East Africa, this collaboration is poised to further cement its position as a regional tech hub, attracting investment and fostering local talent. The partnership seeks to address critical gaps in digital infrastructure, including expanding broadband access to underserved communities and developing secure data centers, which are fundamental for supporting a thriving digital economy and the deployment of advanced AI applications.\n\nA core tenet of the reinforced partnership is the joint development of ethical and responsible AI policy. Both Kenya and the EU recognize the transformative power of artificial intelligence but also the imperative to establish robust governance frameworks that protect data privacy, ensure algorithmic fairness, and prevent misuse. This includes working together on regulatory standards, capacity building for AI literacy, and promoting research and development into human-centric AI solutions. Such policies are crucial for fostering public trust and ensuring that AI technologies serve societal good rather than exacerbating existing inequalities.\n\nIndustry experts and analysts have lauded the partnership as a significant step towards a more integrated and digitally empowered Africa. Dr. Aisha Mohamed, a Nairobi-based technology policy analyst, noted that \"the emphasis on both policy and infrastructure is crucial. You can't have one without the other for sustainable digital growth. Ethical AI policies will provide the guardrails, while robust infrastructure will provide the superhighway for innovation.\" She added that this collaboration could serve as a blueprint for other African nations seeking to navigate the complex landscape of digital transformation with international partners.\n\nLooking ahead, the collaboration is expected to translate into concrete projects and initiatives over the coming months and years. This includes joint funding for digital infrastructure projects, knowledge transfer programs on AI governance, and collaborative research efforts. The partnership is also anticipated to stimulate job creation, enhance digital skills among the youth, and foster a vibrant ecosystem for tech startups in Kenya. Ultimately, it aims to create a digital environment that is not only technologically advanced but also inclusive, secure, and resilient, setting a precedent for future global digital collaborations.",
-    "excerpt": "Nairobi, Kenya – Kenya and the European Union have significantly reinforced their digital partnership following a high-level Tech Forum, signaling a joint commitment to advancing Africa's digital transformation. The collaboration will primarily focus...",
-    "author": "Iafrica",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-kenya-and-eu-strengthen-digital-partnership-at-tec-0.jpg",
-    "publishedDate": "2026-03-20 15:07:10",
-    "sourceUrl": "https://iafrica.com/kenya-and-eu-strengthen-digital-partnership-at-tech-forum-with-focus-on-ai-policy-and-infrastructure/"
-  },
-  {
-    "_id": "technology-yes-ai-could-boost-productivity-but-work-is-about--1",
-    "title": "Yes, AI Could Boost Productivity, But Work Is About More Than Maximising Output #Yes, #Boost #Productivity, #Work #About #More #Than #Maximising #Output #Inflation #Currency #US #Dollar #Exchange #Recessions",
-    "slug": "yes-ai-could-boost-productivity-but-work-is-about-",
-    "content": "The widespread adoption of Artificial Intelligence across various sectors is largely fueled by the compelling narrative of enhanced productivity and operational efficiency. From automating repetitive tasks to optimizing complex processes and providing sophisticated data analytics, AI tools are poised to revolutionize how work is performed, promising significant gains for companies seeking to streamline operations and reduce costs. This technological push comes at a crucial juncture, with global economies facing headwinds from supply chain disruptions, energy price volatility, and a tight labor market, making the allure of AI-driven efficiency almost irresistible for corporate leaders.\n\nThis fervent pursuit of productivity gains is inextricably linked to the current global economic climate. Nations worldwide are contending with elevated inflation rates, eroding purchasing power and increasing the cost of doing business, which in turn puts immense pressure on profit margins. Furthermore, fears of an impending global recession, coupled with fluctuating currency exchange rates – particularly the strength of the US dollar impacting international trade – compel businesses to seek every possible advantage to remain competitive and resilient. In this environment, AI is often presented as a vital tool to not only survive but thrive by doing more with less.\n\nHowever, a counter-narrative is gaining traction, suggesting that an exclusive focus on output maximization risks overlooking the deeper, human dimensions of work. Experts in organizational behavior and futurists argue that work provides not just income, but also meaning, social connection, opportunities for creativity, and personal development. A singular drive for efficiency, if unchecked, could lead to job dissatisfaction, burnout, and the potential erosion of human skills, transforming employees into mere cogs in an AI-optimized machine rather than valued contributors. This perspective emphasizes that genuine productivity should also encompass employee engagement, innovation, and long-term organizational health.\n\nDr. Anya Sharma, a prominent economist specializing in labor markets, recently commented, \"While AI can undoubtedly supercharge our capacity for output, we must remember that human capital is not just a resource to be optimized. The real challenge is to deploy AI in a way that augments human capabilities, frees up time for more creative and strategic tasks, and ultimately enriches the work experience, rather than diminishing it.\" This sentiment is echoed by many who advocate for a human-centric AI strategy that prioritizes ethical implementation, continuous skill development for the workforce, and the redesign of jobs to leverage unique human strengths alongside AI efficiencies.\n\nThe ongoing discourse suggests that the future of work in an AI-driven world will require careful navigation. Businesses and policymakers must strive for a delicate balance: harnessing AI's immense potential to boost productivity and navigate economic challenges, while simultaneously safeguarding and enhancing the human element of work. This involves fostering environments where AI supports creativity, collaboration, and purpose, rather than merely driving a relentless pursuit of output. The conversation is not about rejecting AI, but rather about consciously shaping its role to build a more resilient, equitable, and fulfilling future of work for all, even amidst economic uncertainties.",
-    "excerpt": "As businesses globally grapple with persistent inflation and the looming specter of recessions, the promise of Artificial Intelligence to dramatically boost productivity has become a central focus. However, a growing chorus of experts and thought lea...",
-    "author": "Menafn",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-yes-ai-could-boost-productivity-but-work-is-about--1.jpg",
-    "publishedDate": "2026-03-20 15:06:10",
-    "sourceUrl": "https://menafn.com/1110888942/Yes-AI-Could-Boost-Productivity-But-Work-Is-About-More-Than-Maximising-Output"
-  },
-  {
-    "_id": "technology-rwanda-launches-digital-public-infrastructure-stra-2",
-    "title": "Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth",
-    "slug": "rwanda-launches-digital-public-infrastructure-stra",
-    "content": "The newly launched DPI Strategy is designed to create a unified digital ecosystem, streamlining access to essential services and data for citizens and businesses alike. At its core, the strategy encompasses key components such as a national digital identity system, secure digital payment platforms, and interoperable data exchange frameworks. This integrated approach is envisioned to unlock significant efficiencies, reduce transaction costs, and enhance transparency, laying the crucial groundwork for the seamless adoption and integration of advanced AI applications into public services and private enterprises across the nation.\n\nRwanda has long been recognized for its forward-thinking digital agenda, consistently investing in technology and innovation to drive socio-economic development. From early initiatives in broadband connectivity to promoting digital literacy, the nation has steadily built a reputation as a digital pioneer in Africa. This latest DPI strategy builds upon that strong foundation, signaling a deliberate shift towards creating an enabling environment where AI can flourish responsibly, ensuring that technological advancements benefit all segments of the population, not just a select few.\n\nExperts in digital development and technology policy have lauded Rwanda's strategic foresight, highlighting the importance of a well-structured DPI in realizing the full potential of AI. \"A robust digital public infrastructure is not just about technology; it's about building trust and creating an equitable playing field,\" noted one industry analyst. \"Rwanda's commitment to foundational elements like digital identity and secure payments will be instrumental in ensuring that AI adoption is both efficient and inclusive, preventing a digital divide from widening within the country.\" The strategy is expected to attract further foreign investment and partnerships, as global tech companies seek stable and digitally advanced environments for innovation.\n\nThe implications of this strategy are far-reaching, potentially transforming how Rwandans interact with government services, access financial products, and participate in the digital economy. By providing a secure and reliable digital backbone, the government aims to spur innovation in various sectors, from healthcare and education to agriculture and finance. Furthermore, the emphasis on inclusive growth means that efforts will be made to ensure digital literacy and access extend to rural areas and underserved communities, bridging existing gaps and fostering a truly nationwide digital transformation.\n\nUltimately, Rwanda's Digital Public Infrastructure Strategy represents a bold commitment to a future where technology serves as a powerful catalyst for national development and prosperity. By meticulously building the digital rails necessary for AI and broad-based inclusion, the nation is not only charting its own course but also setting a compelling example for other developing economies. The success of this ambitious undertaking will depend on sustained investment, continuous innovation, and a firm commitment to ensuring that the digital revolution truly leaves no one behind.",
-    "excerpt": "Rwanda has unveiled a comprehensive Digital Public Infrastructure (DPI) Strategy, marking a pivotal step in its ambitious journey towards becoming a leading digital economy. This strategic initiative aims to establish a robust digital foundation, ess...",
-    "author": "Iafrica",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-rwanda-launches-digital-public-infrastructure-stra-2.jpg",
-    "publishedDate": "2026-03-20 15:06:00",
-    "sourceUrl": "https://iafrica.com/rwanda-launches-digital-public-infrastructure-strategy-to-lay-groundwork-for-ai-and-inclusive-growth/"
   }
 ]
