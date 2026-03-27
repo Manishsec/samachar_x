@@ -1,5 +1,56 @@
 [
   {
+    "_id": "technology-ge-vernova-ais-thirst-for-power-creates-a-new-clas-0",
+    "title": "GE Vernova: AI’s Thirst for Power Creates a New Class of Winner",
+    "slug": "ge-vernova-ais-thirst-for-power-creates-a-new-clas",
+    "content": "The relentless march of artificial intelligence, from large language models to complex machine learning applications, is predicated on an insatiable hunger for computational power, which in turn translates directly into a massive demand for electricity. Global data centers, the nerve centers of the AI revolution, are projected to consume exponentially more energy in the coming years, placing immense strain on existing power grids and accelerating the need for new, resilient generation and transmission solutions. This escalating energy requirement is fundamentally reshaping the investment landscape, pushing companies like GE Vernova, with its deep roots in the energy industry, to the forefront of an unfolding industrial transformation.\n\nHistorically, the energy sector has focused on meeting the needs of industrialization and residential consumption, but the advent of AI introduces a new, highly concentrated, and rapidly expanding load profile. Training a single large AI model can consume as much energy as hundreds of homes in a year, and with AI adoption accelerating across industries, the energy footprint is becoming a critical bottleneck. This unprecedented demand necessitates not just more power, but power that is reliable, dispatchable, and increasingly sustainable, prompting a strategic pivot towards solutions that can integrate diverse energy sources while maintaining grid stability.\n\nGE Vernova is strategically positioned to capitalize on this seismic shift, offering a comprehensive portfolio designed to address the multifaceted challenges of AI's energy demands. The company's expertise spans gas power, wind power, and grid solutions, enabling it to provide everything from high-efficiency gas turbines for reliable baseload power to advanced grid modernization technologies that enhance stability and integrate renewable energy sources. Furthermore, its involvement in nascent technologies like small modular reactors (SMRs) presents a long-term vision for carbon-free, high-density power generation, crucial for future hyper-scale data centers. This holistic approach allows GE Vernova to offer tailored, end-to-end solutions for the complex energy needs of the AI era.\n\nIndustry analysts are increasingly highlighting the critical role of energy infrastructure providers in enabling the next phase of AI development. According to energy sector observers, the sheer scale of investment required in power generation, transmission, and distribution over the next decade will be staggering, creating a multi-trillion-dollar market opportunity. Companies with proven track records in delivering complex energy projects, coupled with innovation in grid management and diverse power sources, will be indispensable. This perspective underscores that while chipmakers and software developers drive AI’s capabilities, it is the underlying energy infrastructure that ultimately dictates its growth trajectory and operational viability.\n\nThe implications of AI’s energy demands extend far beyond corporate balance sheets, influencing national energy policies, infrastructure planning, and environmental considerations. Governments worldwide are grappling with how to ensure sufficient power supply for burgeoning digital economies while simultaneously pursuing decarbonization goals. This dual challenge is spurring innovation in energy storage, grid resilience, and the strategic siting of data centers closer to robust power sources, including renewable hubs. The symbiotic relationship between AI advancement and a robust, sustainable energy supply means that companies like GE Vernova are not just selling products, but providing the foundational enablers for the global digital future.\n\nUltimately, the rise of artificial intelligence is fundamentally redefining what constitutes a \"winner\" in the modern economy, shifting the spotlight from purely digital innovations to the foundational industries that power them. GE Vernova, with its specialized focus on the future of electricity, stands as a testament to this evolving paradigm, transforming the challenge of AI's power thirst into a significant growth opportunity. As AI continues its explosive expansion, the strategic importance of reliable, scalable, and sustainable energy solutions will only intensify, solidifying the position of energy infrastructure leaders as indispensable architects of the technological frontier.",
+    "excerpt": "The burgeoning demands of artificial intelligence are creating an unprecedented surge in global power consumption, positioning companies adept at scalable and reliable energy solutions as crucial beneficiaries. GE Vernova, recently spun off as a stan...",
+    "author": "Investing Us",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-ge-vernova-ais-thirst-for-power-creates-a-new-clas-0.jpg",
+    "publishedDate": "2026-03-26 15:39:00",
+    "sourceUrl": "https://www.investing.com/analysis/ge-vernova-ais-thirst-for-power-creates-a-new-class-of-winner-200677354"
+  },
+  {
+    "_id": "technology-simon-fraser-university-and-queens-university-join-1",
+    "title": "Simon Fraser University and Queen’s University Join Forces to Build Canada’s National Supercomputing Capability",
+    "slug": "simon-fraser-university-and-queens-university-join",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "New partnership aims to create a secure, made‐in‐Canada system to power the country’s artificial intelligence future KINGSTON, Ontario and BURNABY, British Columbia, March 26, 2026 — Queen’s Universit",
+    "author": "Hpcwire",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-simon-fraser-university-and-queens-university-join-1.jpg",
+    "publishedDate": "2026-03-26 15:38:47",
+    "sourceUrl": "https://www.hpcwire.com/off-the-wire/simon-fraser-university-and-queens-university-join-forces-to-build-canadas-national-supercomputing-capability/"
+  },
+  {
+    "_id": "technology-st-engineering-idirect-and-gs-satcom-win-satellite-2",
+    "title": "ST Engineering iDirect and G&S SatCom Win Satellite Innovation Group Cooperation of the Year Award for Advancing Unified Network and Service Management",
+    "slug": "st-engineering-idirect-and-gs-satcom-win-satellite",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "WASHINGTON, March 26, 2026 /PRNewswire/ -- ST Engineering iDirect and G&S SatCom today received the Satellite Innovation Group (SIG) Cooperation of the Year award for their joint work to unify network",
+    "author": "Manilatimes",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-st-engineering-idirect-and-gs-satcom-win-satellite-2.jpg",
+    "publishedDate": "2026-03-26 15:38:07",
+    "sourceUrl": "https://www.manilatimes.net/2026/03/26/tmt-newswire/pr-newswire/st-engineering-idirect-and-gs-satcom-win-satellite-innovation-group-cooperation-of-the-year-award-for-advancing-unified-network-and-service-management/2308702"
+  },
+  {
     "_id": "cybersecurity-it-security-news-daily-summary-2026-03-25-0",
     "title": "IT Security News Daily Summary 2026-03-25",
     "slug": "it-security-news-daily-summary-2026-03-25",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/business-act-and-retail-nz-claim-paywave-surcharge-ban-dead-2.jpg",
     "publishedDate": "2026-03-25 17:49:35",
     "sourceUrl": "https://www.rnz.co.nz/news/business/590647/act-and-retail-nz-claim-paywave-surcharge-ban-dead-but-national-says-that-s-wrong"
-  },
-  {
-    "_id": "technology-apple-valuation-faces-pressure-as-ai-spending-lags-0",
-    "title": "Apple Valuation Faces Pressure as AI Spending Lags Peers",
-    "slug": "apple-valuation-faces-pressure-as-ai-spending-lags",
-    "content": "The tech industry is currently experiencing a transformative shift, with artificial intelligence emerging as the definitive frontier for innovation and growth. Companies like Microsoft, Google, Amazon, and Meta have poured billions into AI research, development, and integration, leading to groundbreaking advancements and significant market excitement. This aggressive investment strategy has largely been rewarded by investors, who are assigning a premium to companies perceived as leaders in AI. Apple, despite its immense resources and history of disruptive innovation, appears to be trailing in this critical spending race, prompting questions about its strategic focus and potential future market positioning.\n\nWhile Apple has certainly integrated AI features into its products, such as Siri and on-device machine learning capabilities, the market's concern centers on the *scale* of its foundational AI investment relative to its peers. Reports indicate that Apple's overall R&D spending, while substantial, represents a smaller percentage of its revenue compared to competitors, particularly when isolating pure AI-centric initiatives. Many analysts suggest that Apple's R&D has been heavily directed towards areas like augmented reality/virtual reality (AR/VR) with its Vision Pro headset and custom silicon development, rather than the broad-based AI infrastructure and large language model (LLM) research that rivals are prioritizing. This divergence in spending priorities is beginning to weigh on investor sentiment.\n\nExpert opinions from leading financial institutions underscore the growing apprehension. Analysts from firms like Bank of America and JPMorgan have highlighted Apple's relative AI spending deficit as a key factor in their cautious outlooks, with some even suggesting a potential re-rating of the stock. They argue that while Apple's ecosystem and brand loyalty remain powerful assets, a failure to lead or even keep pace in core AI innovation could erode its competitive advantage over time, particularly as AI-powered features become central to user experience across all devices and services. The market is increasingly valuing companies based on their future AI potential, and Apple's perceived lag is creating a valuation gap.\n\nThe implications of this perceived AI spending lag are manifold for Apple. In the short term, it could lead to continued pressure on its stock valuation, potentially hindering its ability to attract and retain top-tier talent in the AI field. Long-term, a significant deficit in foundational AI research could translate into slower innovation cycles for future products and services, making it harder to compete with rivals offering more sophisticated AI-driven experiences. To counter this, Apple may need to make substantial strategic shifts, potentially involving large-scale acquisitions of AI startups, a dramatic increase in its dedicated AI R&D budget, or a more transparent communication of its comprehensive AI roadmap to reassure investors.\n\nUltimately, Apple's ability to navigate this critical juncture will define its trajectory in the coming decade. While its robust ecosystem, strong brand, and loyal customer base provide significant insulation, the rapid pace of AI development demands aggressive investment and clear strategic direction. The market will be closely watching for Apple's upcoming product announcements and developer conferences for any indications of a renewed, more aggressive push into foundational AI. How Apple chooses to address these concerns will be pivotal in determining whether it can maintain its position at the pinnacle of the tech world or if its valuation will continue to face pressure from its AI-forward peers.",
-    "excerpt": "Apple's formidable market valuation is increasingly under scrutiny as analysts and investors point to a notable lag in its artificial intelligence (AI) research and development spending compared to its major tech counterparts. This perceived underinv...",
-    "author": "Investing Us",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-apple-valuation-faces-pressure-as-ai-spending-lags-0.jpg",
-    "publishedDate": "2026-03-25 15:36:00",
-    "sourceUrl": "https://www.investing.com/analysis/apple-valuation-faces-pressure-as-ai-spending-lags-peers-200677258"
-  },
-  {
-    "_id": "technology-west-africa-pushes-regulatory-harmonisation-to-sca-1",
-    "title": "West Africa pushes regulatory harmonisation to scale up vaccine manufacturing",
-    "slug": "west-africa-pushes-regulatory-harmonisation-to-sca",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "West African countries are deepening the use of regional regulatory frameworks to fast-track biomanufacturing and reduce dependence on imported vaccines. This was a key focus at the West Africa Bio-ma",
-    "author": "Myjoyonline",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-west-africa-pushes-regulatory-harmonisation-to-sca-1.jpg",
-    "publishedDate": "2026-03-25 15:35:45",
-    "sourceUrl": "https://www.myjoyonline.com/west-africa-pushes-regulatory-harmonisation-to-scale-up-vaccine-manufacturing/"
-  },
-  {
-    "_id": "technology-trump-forms-new-council-of-tech-leaders-to-guide-a-2",
-    "title": "Trump Forms New Council of Tech Leaders to Guide AI Strategy",
-    "slug": "trump-forms-new-council-of-tech-leaders-to-guide-a",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "President Donald Trump has announced the formation of a new advisory council, the President’s Council of Advisors on Science and Technology (PCAST), which includes prominent tech leaders like Mark Zuc",
-    "author": "Gyanhigyan",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-trump-forms-new-council-of-tech-leaders-to-guide-a-2.jpg",
-    "publishedDate": "2026-03-25 15:34:42",
-    "sourceUrl": "https://gyanhigyan.com/national/trump-forms-new-council-of-tech-leaders-to-guide-ai/cid18418246.htm"
   },
   {
     "_id": "national-school-assembly-news-headlines-today-march-25-top--0",
