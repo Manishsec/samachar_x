@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-data-dashboard-a-look-at-the-financials-and-deal-a-0",
+    "title": "Data Dashboard: a look at the financials and deal activity of Scotland Mid Market 200 companies",
+    "slug": "data-dashboard-a-look-at-the-financials-and-deal-a",
+    "content": "A recent comprehensive analysis, the Scotland Mid-Market 200 report by Grant Thornton, has shed light on the financial health and strategic inclinations of the country's most dynamic companies. The report, which scrutinises the performance of Scotland's largest privately-owned businesses, reveals a strong financial footing with significant year-on-year revenue and profit growth. Despite these robust financials, the prevailing sentiment among these firms is one of cautious optimism, leading to a noticeable slowdown in deal-making as companies opt for more controlled, internal growth strategies. This strategic preference reflects a measured response to ongoing global economic volatility and domestic pressures.\n\nThe Scotland Mid-Market 200 comprises companies with revenues ranging from £15 million to £250 million, collectively forming a significant backbone of the nation's economy. These businesses have been operating within a challenging macroeconomic climate characterised by persistent inflation, elevated interest rates, and geopolitical instability, all of which have introduced considerable uncertainty. Despite these headwinds, the collective revenue of these firms surged by an impressive 14.5% year-on-year, while profits also saw a substantial increase of 13.9%. This resilience underscores the inherent strength and adaptability embedded within Scotland's entrepreneurial landscape, allowing these firms to not only survive but thrive in adversity.\n\nDelving deeper into the financial mechanics, the report highlights that this strong organic performance stands in stark contrast to a significant dip in mergers and acquisitions (M&A) activity. Deal volumes plummeted from 103 transactions in the previous year to just 54 in the latest period, indicating a marked shift in investment priorities. This slowdown is primarily attributed to a growing valuation gap between buyers and sellers, coupled with the increased cost of debt-funded acquisitions due to higher interest rates. Furthermore, the general economic uncertainty has made businesses more hesitant to commit to large-scale external investments, preferring instead to consolidate existing operations and pursue incremental growth within their current structures.\n\nAccording to Neil McInnes, head of corporate finance at Grant Thornton in Scotland, the mid-market's agility and resilience are key factors in their current strategic positioning. He notes that while confidence is gradually returning, a cautious approach to growth remains paramount, with companies prioritising sustainability and organic expansion. McInnes suggests that this period of subdued M&A activity is a temporary phase, driven by market conditions rather than a fundamental lack of ambition. He anticipates a resurgence in deal-making once economic stability is more firmly established and the disconnect in valuation expectations begins to narrow.\n\nThe implications of this cautious growth strategy extend across the broader Scottish economy. While a focus on organic expansion can lead to sustainable job creation and internal investment, a prolonged downturn in M&A could limit opportunities for rapid scale-up and market consolidation. Sectors such as technology, media, and telecoms (TMT), alongside business support services, have shown particularly strong revenue growth, indicating areas of robust innovation and demand. Conversely, sectors like construction and real estate have experienced a slight dip, reflecting varied impacts of the economic landscape across different industries.\n\nUltimately, the Scotland Mid-Market 200 report paints a picture of a robust and adaptable business segment that is navigating a complex economic environment with prudence. While the preference for organic growth over aggressive deal-making reflects a sensible reaction to current uncertainties, it also signals a period of strategic recalibration. As economic conditions stabilise and market confidence solidifies, it is widely expected that deal activity will rebound, allowing these vital Scottish companies to pursue a more balanced growth trajectory that incorporates both internal expansion and strategic acquisitions, further bolstering the nation's economic dynamism.",
+    "excerpt": "Scotland's vital mid-market companies are demonstrating remarkable financial resilience, navigating a complex economic landscape by predominantly favouring cautious organic growth over aggressive mergers and acquisitions. A new analysis reveals robus...",
+    "author": "Scotsman",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-data-dashboard-a-look-at-the-financials-and-deal-a-0.jpg",
+    "publishedDate": "2026-03-27 16:18:34",
+    "sourceUrl": "https://www.scotsman.com/business/data-dashboard-cautious-route-to-growth-favoured-by-mid-market-firms-6487026"
+  },
+  {
+    "_id": "business-pm-says-expanding-scope-of-roshan-digital-account--1",
+    "title": "PM says expanding scope of Roshan Digital Account to strengthen Pakistan as ‘attractive investment destination’",
+    "slug": "pm-says-expanding-scope-of-roshan-digital-account-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Prime Minister Shehbaz Sharif on Friday said that expanding the scope of the Roshan Digital Account (RDA) scheme to foreign investors would further strengthen Pakistan... The post PM says expanding sc",
+    "author": "Diplomacypakistan",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-pm-says-expanding-scope-of-roshan-digital-account--1.jpg",
+    "publishedDate": "2026-03-27 16:08:04",
+    "sourceUrl": "https://www.diplomacypakistan.com/?p=31506"
+  },
+  {
+    "_id": "business-a-nation-on-an-energy-war-footing-2",
+    "title": "A nation on an energy war footing",
+    "slug": "a-nation-on-an-energy-war-footing",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The Philippine economy, long a darling of emerging market growth, is shifting into a defensive war footing. As Brent crude flirts with atmospheric heights and the Middle East conflict continues to cho",
+    "author": "Mb",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-a-nation-on-an-energy-war-footing-2.jpg",
+    "publishedDate": "2026-03-27 16:05:00",
+    "sourceUrl": "https://mb.com.ph/article/10911595/opinion/a-nation-on-an-energy-war-footing"
+  },
+  {
     "_id": "technology-lectra-availability-of-2025-annual-financial-repor-0",
     "title": "LECTRA: availability of 2025 Annual Financial Report",
     "slug": "lectra-availability-of-2025-annual-financial-repor",
@@ -304,56 +355,5 @@
     "imageUrl": "/news-images/sports-sports-betting-apps-best-us-mobile-sportsbooks-rev-2.jpg",
     "publishedDate": "2026-03-26 19:19:42",
     "sourceUrl": "https://www.usatoday.com/story/sports/betting/2026/03/26/best-sports-betting-apps/85782929007/"
-  },
-  {
-    "_id": "business-us-could-lose-10000-jobs-a-month-as-oil-shock-hits-0",
-    "title": "US could lose 10,000 jobs a month as oil shock hits the economy: GS",
-    "slug": "us-could-lose-10000-jobs-a-month-as-oil-shock-hits",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
-    "author": "Headtopics",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-us-could-lose-10000-jobs-a-month-as-oil-shock-hits-0.jpg",
-    "publishedDate": "2026-03-26 17:46:44",
-    "sourceUrl": "https://us.headtopics.com/news/us-could-lose-10-000-jobs-a-month-as-oil-shock-hits-the-81497109"
-  },
-  {
-    "_id": "business-tesla-is-hiring-for-elon-musks-terafab-chip-moonsh-1",
-    "title": "Tesla is hiring for Elon Musk's Terafab chip moonshot",
-    "slug": "tesla-is-hiring-for-elon-musks-terafab-chip-moonsh",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Business Insider tells the global tech, finance, stock market, media, economy, lifestyle, real estate, AI and innovative stories you want to know.",
-    "author": "Headtopics",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-tesla-is-hiring-for-elon-musks-terafab-chip-moonsh-1.jpg",
-    "publishedDate": "2026-03-26 17:46:44",
-    "sourceUrl": "https://us.headtopics.com/news/tesla-is-hiring-for-elon-musk-s-terafab-chip-moonshot-81497114"
-  },
-  {
-    "_id": "business-city-pac-funding-goes-toward-april-7-election-effo-2",
-    "title": "City, PAC funding goes toward April 7 election effort",
-    "slug": "city-pac-funding-goes-toward-april-7-election-effo",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "In advance of the April 7 vote on a tax to fund a $175 million proposed downtown convention and events center, preelection communication efforts are ratcheting up.",
-    "author": "Sbj Net",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-city-pac-funding-goes-toward-april-7-election-effo-2.jpg",
-    "publishedDate": "2026-03-26 17:29:00",
-    "sourceUrl": "https://sbj.net/stories/city-pac-funding-goes-toward-april-7-election-effort,103508"
   }
 ]
