@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-07-0",
+    "title": "IT Security News Daily Summary 2026-04-07",
+    "slug": "it-security-news-daily-summary-2026-04-07",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "183 posts were published in the last hour 21:4 : Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution 21:4 : Cyber Fraud Cost Americans $17 Billion in 2025, AI Scams Make L",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-07-0.jpg",
+    "publishedDate": "2026-04-07 21:55:21",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-07/"
+  },
+  {
+    "_id": "cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-1",
+    "title": "Inside the Kremlin’s Router Raids: How Russian Hackers Turned Thousands of Home Networks Into Espionage Tools",
+    "slug": "inside-the-kremlins-router-raids-how-russian-hacke",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Russian GRU hackers compromised thousands of consumer routers across the U.S. and allied nations, stealing passwords and building a covert proxy network for espionage. The campaign exploited unpatched",
+    "author": "Webpronews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-1.jpg",
+    "publishedDate": "2026-04-07 20:33:21",
+    "sourceUrl": "https://www.webpronews.com/inside-the-kremlins-router-raids-how-russian-hackers-turned-thousands-of-home-networks-into-espionage-tools/"
+  },
+  {
+    "_id": "cybersecurity-iranian-hackers-are-targeting-american-critical-in-2",
+    "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn | TechCrunch",
+    "slug": "iranian-hackers-are-targeting-american-critical-in",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The U.S. government is warning that Iran-backed hackers are escalating their tactics by targeting American critical infrastructure systems with the The post Iranian hackers are targeting American crit",
+    "author": "Turks",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-iranian-hackers-are-targeting-american-critical-in-2.jpg",
+    "publishedDate": "2026-04-07 20:19:09",
+    "sourceUrl": "https://turks.us/iranian-hackers-are-targeting-american-critical-infrastructure-us-agencies-warn-techcrunch/"
+  },
+  {
     "_id": "international-trump-pulls-back-on-his-iran-threats-for-2-weeks-s-0",
     "title": "Trump pulls back on his Iran threats for 2 weeks, subject to Iran agreeing to ceasefire",
     "slug": "trump-pulls-back-on-his-iran-threats-for-2-weeks-s",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/business-the-ai-hangover-most-companies-wont-see-real-retur-2.jpg",
     "publishedDate": "2026-04-07 16:51:17",
     "sourceUrl": "https://www.webpronews.com/the-ai-hangover-most-companies-wont-see-real-returns-until-2028-and-some-never-will/"
-  },
-  {
-    "_id": "cybersecurity-data-on-29-million-indian-jobseekers-leaked-0",
-    "title": "Data on 29 Million Indian Jobseekers Leaked",
-    "slug": "data-on-29-million-indian-jobseekers-leaked",
-    "content": "The extensive dataset, comprising the personal information of nearly 30 million individuals, was recently uncovered by a prominent cybersecurity researcher. This discovery immediately brought to light a critical lapse in data security, as the information was freely accessible without any authentication or encryption. The exposed records reportedly included comprehensive career profiles, ranging from educational qualifications and work experience to current and expected salaries, creating a treasure trove for malicious actors. Such a large-scale compromise of jobseeker data is particularly concerning given the sensitive nature of the information, which can be readily exploited for various fraudulent activities.\n\nThis incident highlights a recurring vulnerability within the digital infrastructure of many online services, particularly those handling large volumes of personal data. Job portals and recruitment agencies are often entrusted with highly detailed profiles of individuals, making them prime targets for cybercriminals. The lack of proper security configurations, such as leaving databases unprotected on public-facing servers, is a common but entirely preventable oversight. While the exact ownership of the server remains somewhat ambiguous, initial assessments point towards an Indian job portal or a recruitment firm, indicating a systemic issue within the sector.\n\nThe types of data exposed in this breach are particularly alarming, extending far beyond basic contact information. The inclusion of Aadhar numbers for some individuals adds a layer of extreme risk, as this unique biometric identification can be a gateway to various forms of identity fraud and financial exploitation. Furthermore, detailed employment histories and salary expectations can be leveraged for highly sophisticated social engineering attacks, where criminals tailor their scams to individual profiles, making them more convincing and harder to detect. The sheer volume of compromised data suggests a widespread impact that could affect millions of lives.\n\nCybersecurity experts have strongly condemned the breach, emphasizing the critical importance of robust data protection practices, especially for platforms dealing with sensitive personal information. They point out that such incidents are often the result of misconfigured servers or lax security protocols rather than sophisticated hacking attempts. Experts warn that the exposed data will undoubtedly be weaponized for phishing campaigns, targeted scams, and potentially even more severe forms of identity theft. They urge affected individuals to be extremely vigilant against unsolicited communications and to monitor their financial accounts for any suspicious activity.\n\nLooking ahead, this breach serves as a stark reminder for both data custodians and individual users about the ongoing challenges in the digital landscape. For companies operating job portals and handling personal data, it necessitates an immediate and thorough review of their security infrastructure, adherence to data protection regulations, and investment in cybersecurity measures. For jobseekers, it underscores the need for greater caution when sharing personal information online and the importance of regularly checking for signs of identity theft. The incident will likely intensify calls for stricter data privacy laws and more rigorous enforcement to protect citizens from similar future compromises.",
-    "excerpt": "Data belonging to an astonishing 29 million Indian jobseekers has been discovered exposed online, raising severe alarms about personal privacy and cybersecurity in the nation. The massive cache, containing highly sensitive information such as names, ...",
-    "author": "Infosecurity Magazine",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-data-on-29-million-indian-jobseekers-leaked-0.jpg",
-    "publishedDate": "2026-04-07 00:00:00",
-    "sourceUrl": "https://www.infosecurity-magazine.com/news/data-on-29-million-indian/"
-  },
-  {
-    "_id": "cybersecurity-operation-cronos-who-are-the-lockbit-admins-1",
-    "title": "Operation Cronos: Who Are the LockBit Admins?",
-    "slug": "operation-cronos-who-are-the-lockbit-admins",
-    "content": "The global cybersecurity landscape was recently shaken by Operation Cronos, a coordinated international law enforcement action that successfully disrupted the LockBit ransomware-as-a-service (RaaS) operation. This unprecedented crackdown saw authorities dismantle LockBit's dark web infrastructure, seize control of its servers, and make multiple arrests across several countries, including an individual apprehended in Poland. While the immediate impact was the cessation of LockBit's extortion activities, the deeper objective was to unmask the masterminds orchestrating a criminal enterprise responsible for billions in damages worldwide, bringing the elusive question of their identities into sharp focus.\n\nLockBit emerged in late 2019 and rapidly ascended to become the most prevalent ransomware threat globally, operating a highly sophisticated RaaS model that allowed affiliates to deploy its malicious software in exchange for a percentage of the ransom. The group was notorious for its double extortion tactics, not only encrypting victims' data but also exfiltrating it and threatening to publish it if demands were not met. Its victims spanned critical infrastructure, major corporations, and government entities across continents, underscoring the severe and widespread economic and operational disruption it caused prior to the recent takedown, making the identification of its architects a top priority for global security agencies.\n\nOperation Cronos went beyond merely disrupting LockBit’s technical capabilities; it marked a concerted effort to expose its leadership and operational structure, a task often considered one of the most challenging in cybercrime investigations. Authorities confirmed the arrest of individuals believed to be key members, including a Russian national identified by the US Department of Justice as Artur Sungatov, and also seized over 200 cryptocurrency accounts linked to the group. Furthermore, law enforcement agencies gained access to LockBit’s internal systems, obtaining decryption keys and exfiltrated data, which is now being used to aid victims and further identify the network's participants and administrators.\n\nCybersecurity experts have lauded Operation Cronos as a landmark achievement, highlighting the immense difficulty in attributing cyberattacks and identifying individuals operating behind layers of anonymity. \"This operation represents a monumental shift in how law enforcement is tackling ransomware groups, moving beyond mere disruption to direct accountability,\" stated Dr. Anya Sharma, a leading cybercrime analyst. \"By not only disrupting their infrastructure but also publicly naming and sanctioning individuals, authorities are sending a clear message that anonymity is not guaranteed in the long run, even for the most sophisticated actors.\" However, experts also caution that while significant, such operations often lead to the splintering or rebranding of threat actors.\n\nThe implications of Operation Cronos extend far beyond LockBit itself, sending a chilling message to other ransomware operators and potential affiliates within the cybercriminal underworld. The seizure of decryption keys offers a glimmer of hope for countless victims, potentially saving them millions in recovery costs and reputational damage. Yet, the fight is far from over; history shows that when one major ransomware group is dismantled, others often rise to fill the vacuum, or the remnants of the disrupted group may re-emerge under a new guise. Continued international cooperation, proactive intelligence sharing, and sustained pressure will be crucial to mitigate future threats.\n\nWhile the full extent of LockBit's administration may not yet be entirely unraveled, Operation Cronos has undeniably dealt a severe blow to its operations and reputation, significantly diminishing its ability to launch further attacks. The ongoing investigations and the sharing of intelligence among international partners underscore a sustained commitment to pursuing these elusive cybercriminals, even those hiding behind layers of proxies and cryptocurrency. This operation serves as a powerful testament to the growing global resolve against ransomware, emphasizing that even the most sophisticated and anonymous threat actors are not beyond the reach of determined law enforcement agencies working in concert.",
-    "excerpt": "Operation Cronos has delivered a significant blow to the notorious LockBit ransomware group, seizing infrastructure and making arrests across several countries. However, the international law enforcement effort also aimed to answer a pivotal question...",
-    "author": "Infosecurity Magazine",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-operation-cronos-who-are-the-lockbit-admins-1.jpg",
-    "publishedDate": "2026-04-07 00:00:00",
-    "sourceUrl": "https://www.infosecurity-magazine.com/news/operation-cronos-who-are-lockbit/"
-  },
-  {
-    "_id": "cybersecurity-wishbone-breach-40-million-records-leaked-on-dark--2",
-    "title": "Wishbone Breach: 40 Million Records Leaked on Dark Web",
-    "slug": "wishbone-breach-40-million-records-leaked-on-dark-",
-    "content": "The alarming discovery of 40 million Wishbone user records circulating on the dark web has ignited a serious investigation and widespread alarm among cybersecurity professionals and consumers alike. Details emerging from the breach indicate that a vast trove of personal information, potentially including names, email addresses, phone numbers, and other sensitive data points, has been compromised and made available to cybercriminals. This significant leak highlights the severe vulnerabilities that continue to plague digital platforms and the profound impact these incidents have on individual privacy and security.\n\nThe breach reportedly surfaced when cybersecurity researchers monitoring dark web forums identified the large dataset being offered for sale and distribution. While the exact timeline of the initial intrusion into Wishbone's systems remains under investigation, the public emergence of such a massive data dump points to a sophisticated attack and a subsequent failure in data protection. The sheer volume of records involved suggests that Wishbone, likely a platform with a substantial user base, may have been targeted for its extensive collection of personal identifiable information (PII).\n\nAs authorities and forensic experts delve deeper into the Wishbone breach, the immediate focus is on understanding the attack vector and assessing the full scope of the compromised data. Reports indicate that the leaked information could be exploited for various illicit activities, ranging from targeted phishing campaigns and identity theft to more complex financial fraud schemes. The availability of this data on the dark web means it can be readily purchased and utilized by malicious actors globally, amplifying the potential for widespread harm to millions of individuals.\n\nCybersecurity experts are weighing in on the gravity of the Wishbone breach, emphasizing the critical need for robust security measures and swift incident response protocols. \"A leak of 40 million records is not just a number; it represents 40 million potential victims vulnerable to identity theft and various forms of online fraud,\" stated Dr. Anya Sharma, a leading cybersecurity analyst. She further advised that individuals who suspect their data might be involved should immediately change passwords for all online accounts, enable multi-factor authentication, and monitor their financial statements and credit reports for suspicious activity.\n\nThe implications of the Wishbone breach extend far beyond the immediate threat to individual users, raising significant questions about corporate data responsibility and regulatory compliance. Companies like Wishbone face intense scrutiny, potential regulatory fines under data protection laws such as GDPR or CCPA, and significant reputational damage. This incident serves as a stark reminder to all organizations handling sensitive customer data that investing in advanced security infrastructure, regular audits, and comprehensive employee training is paramount to safeguarding against such catastrophic data exposures.\n\nUltimately, the Wishbone breach underscores the relentless nature of cyber warfare and the shared responsibility in maintaining digital security. While investigations continue and Wishbone works to address the aftermath, this event serves as a potent call to action for both businesses and individuals to prioritize cybersecurity. Proactive measures, vigilant monitoring, and a collective commitment to data protection are essential in navigating the increasingly complex and perilous landscape of the digital age, ensuring the trust and safety of online communities.",
-    "excerpt": "A massive data breach at a company identified as Wishbone has resulted in the leak of approximately 40 million user records onto the dark web, sending ripples of concern across the cybersecurity landscape. The compromised data, believed to contain se...",
-    "author": "Infosecurity Magazine",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-wishbone-breach-40-million-records-leaked-on-dark--2.jpg",
-    "publishedDate": "2026-04-07 00:00:00",
-    "sourceUrl": "https://www.infosecurity-magazine.com/news/wishbone-breach-40-million-records/"
   },
   {
     "_id": "technology-chip-security-act-safeguarding-us-innovation-from--0",
