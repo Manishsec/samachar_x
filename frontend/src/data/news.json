@@ -1,6 +1,23 @@
 [
   {
-    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-07-0",
+    "_id": "cybersecurity-iranian-hackers-used-strykers-own-security-tools-a-0",
+    "title": "Iranian hackers used Stryker’s own security tools against it — and U.S. agencies say it’s just the beginning",
+    "slug": "iranian-hackers-used-strykers-own-security-tools-a",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "In a joint advisory issued on December 1, 2023 (CISA Advisory AA23-335A), the Cybersecurity and Infrastructure Security Agency (CISA), the FBI, the NSA, and partner agencies from Israel, the UK, and C",
+    "author": "Siliconcanals",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-iranian-hackers-used-strykers-own-security-tools-a-0.jpg",
+    "publishedDate": "2026-04-08 05:37:56",
+    "sourceUrl": "https://siliconcanals.com/sc-n-iranian-hackers-used-strykers-own-security-tools-against-it-and-u-s-agencies-say-its-just-the-beginning/"
+  },
+  {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-07-1",
     "title": "IT Security News Daily Summary 2026-04-07",
     "slug": "it-security-news-daily-summary-2026-04-07",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -12,12 +29,12 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-07-0.jpg",
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-07-1.jpg",
     "publishedDate": "2026-04-07 21:55:21",
     "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-07/"
   },
   {
-    "_id": "cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-1",
+    "_id": "cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-2",
     "title": "Inside the Kremlin’s Router Raids: How Russian Hackers Turned Thousands of Home Networks Into Espionage Tools",
     "slug": "inside-the-kremlins-router-raids-how-russian-hacke",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-1.jpg",
+    "imageUrl": "/news-images/cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-2.jpg",
     "publishedDate": "2026-04-07 20:33:21",
     "sourceUrl": "https://www.webpronews.com/inside-the-kremlins-router-raids-how-russian-hackers-turned-thousands-of-home-networks-into-espionage-tools/"
-  },
-  {
-    "_id": "cybersecurity-iranian-hackers-are-targeting-american-critical-in-2",
-    "title": "Iranian hackers are targeting American critical infrastructure, US agencies warn | TechCrunch",
-    "slug": "iranian-hackers-are-targeting-american-critical-in",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The U.S. government is warning that Iran-backed hackers are escalating their tactics by targeting American critical infrastructure systems with the The post Iranian hackers are targeting American crit",
-    "author": "Turks",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-iranian-hackers-are-targeting-american-critical-in-2.jpg",
-    "publishedDate": "2026-04-07 20:19:09",
-    "sourceUrl": "https://turks.us/iranian-hackers-are-targeting-american-critical-infrastructure-us-agencies-warn-techcrunch/"
   },
   {
     "_id": "international-trump-pulls-back-on-his-iran-threats-for-2-weeks-s-0",
