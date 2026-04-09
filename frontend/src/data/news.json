@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-china-data-breach-hacker-claims-10-petabytes-stole-0",
+    "title": "China data breach: Hacker claims 10 Petabytes stolen from Tianjin supercomputer",
+    "slug": "china-data-breach-hacker-claims-10-petabytes-stole",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "A hacker claims to have stolen 10 petabytes of sensitive data from China’s Tianjin supercomputer, raising major cybersecurity and intelligence concerns",
+    "author": "Wionews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-china-data-breach-hacker-claims-10-petabytes-stole-0.jpg",
+    "publishedDate": "2026-04-09 02:12:15",
+    "sourceUrl": "https://www.wionews.com/trending/china-data-breach-hacker-claims-10-petabytes-stolen-from-tianjin-supercomputer-1775699704517"
+  },
+  {
+    "_id": "cybersecurity-iranian-hackers-move-from-digital-threats-to-physi-1",
+    "title": "Iranian Hackers Move from Digital Threats to Physical Disruption",
+    "slug": "iranian-hackers-move-from-digital-threats-to-physi",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "US security agencies including the FBI and CISA warned that Iran hacked American water and energy systems to cause disruption. The post Iranian Hackers Move from Digital Threats to Physical Disruption",
+    "author": "Insidetelecom",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-iranian-hackers-move-from-digital-threats-to-physi-1.jpg",
+    "publishedDate": "2026-04-08 22:13:45",
+    "sourceUrl": "https://insidetelecom.com/iran-hacked-critical-us-infrastructure-utilities/"
+  },
+  {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-08-2",
+    "title": "IT Security News Daily Summary 2026-04-08",
+    "slug": "it-security-news-daily-summary-2026-04-08",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "175 posts were published in the last hour 21:34 : Criminal wannabes even more dangerous than the pros, says ex-FBI cyber chief 21:7 : RSAC 2026: Cyber insurance and the rise of ransomware 21:7 : Russi",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-08-2.jpg",
+    "publishedDate": "2026-04-08 21:55:21",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-08/"
+  },
+  {
     "_id": "international-aew-dynamite-results-highlights-and-key-moments-fo-0",
     "title": "AEW Dynamite Results, Highlights and Key Moments for April 8, 2026",
     "slug": "aew-dynamite-results-highlights-and-key-moments-fo",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/technology-m3-appoints-ross-serven-as-vice-president-data-art-2.jpg",
     "publishedDate": "2026-04-08 15:32:20",
     "sourceUrl": "https://menafn.com/1110959511/M3-Appoints-Ross-Serven-As-Vice-President-Data-Artificial-Intelligence-And-Paul-Guerrero-As-Vice-President-Engineering"
-  },
-  {
-    "_id": "cybersecurity-iranian-hackers-used-strykers-own-security-tools-a-0",
-    "title": "Iranian hackers used Stryker’s own security tools against it — and U.S. agencies say it’s just the beginning",
-    "slug": "iranian-hackers-used-strykers-own-security-tools-a",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "In a joint advisory issued on December 1, 2023 (CISA Advisory AA23-335A), the Cybersecurity and Infrastructure Security Agency (CISA), the FBI, the NSA, and partner agencies from Israel, the UK, and C",
-    "author": "Siliconcanals",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-iranian-hackers-used-strykers-own-security-tools-a-0.jpg",
-    "publishedDate": "2026-04-08 05:37:56",
-    "sourceUrl": "https://siliconcanals.com/sc-n-iranian-hackers-used-strykers-own-security-tools-against-it-and-u-s-agencies-say-its-just-the-beginning/"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-07-1",
-    "title": "IT Security News Daily Summary 2026-04-07",
-    "slug": "it-security-news-daily-summary-2026-04-07",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "183 posts were published in the last hour 21:4 : Attackers exploit critical Flowise flaw CVE-2025-59528 for remote code execution 21:4 : Cyber Fraud Cost Americans $17 Billion in 2025, AI Scams Make L",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-07-1.jpg",
-    "publishedDate": "2026-04-07 21:55:21",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-07/"
-  },
-  {
-    "_id": "cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-2",
-    "title": "Inside the Kremlin’s Router Raids: How Russian Hackers Turned Thousands of Home Networks Into Espionage Tools",
-    "slug": "inside-the-kremlins-router-raids-how-russian-hacke",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Russian GRU hackers compromised thousands of consumer routers across the U.S. and allied nations, stealing passwords and building a covert proxy network for espionage. The campaign exploited unpatched",
-    "author": "Webpronews",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-inside-the-kremlins-router-raids-how-russian-hacke-2.jpg",
-    "publishedDate": "2026-04-07 20:33:21",
-    "sourceUrl": "https://www.webpronews.com/inside-the-kremlins-router-raids-how-russian-hackers-turned-thousands-of-home-networks-into-espionage-tools/"
   },
   {
     "_id": "national-india-delivers-aid-to-flood-and-earthquake-hit-afg-0",
