@@ -1,6 +1,23 @@
 [
   {
-    "_id": "sports-auger-aliassime-advances-to-third-round-at-monte-c-0",
+    "_id": "sports-chenanda-hockey-fest-promotes-beekeeping-farming-0",
+    "title": "Chenanda hockey fest promotes beekeeping, farming",
+    "slug": "chenanda-hockey-fest-promotes-beekeeping-farming",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Madikeri: The ongoing Chenanda Hockey Festival at Napoklu, which will see 380 Kodava families are participating, is promoting the district's culture, .",
+    "author": "Toi",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-chenanda-hockey-fest-promotes-beekeeping-farming-0.jpg",
+    "publishedDate": "2026-04-08 18:29:00",
+    "sourceUrl": "https://timesofindia.indiatimes.com/city/mysuru/chenanda-hockey-fest-promotes-beekeeping-farming/articleshow/130121055.cms"
+  },
+  {
+    "_id": "sports-auger-aliassime-advances-to-third-round-at-monte-c-1",
     "title": "Auger-Aliassime advances to third round at Monte-Carlo Masters with win over Cilic",
     "slug": "auger-aliassime-advances-to-third-round-at-monte-c",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -12,12 +29,12 @@
       "icon": "⚽",
       "color": "#dc2626"
     },
-    "imageUrl": "/news-images/sports-auger-aliassime-advances-to-third-round-at-monte-c-0.jpg",
+    "imageUrl": "/news-images/sports-auger-aliassime-advances-to-third-round-at-monte-c-1.jpg",
     "publishedDate": "2026-04-08 16:39:00",
     "sourceUrl": "https://www.castanet.net/news/Sports/607674/Auger-Aliassime-advances-to-third-round-at-Monte-Carlo-Masters-with-win-over-Cilic"
   },
   {
-    "_id": "sports-possible-nfl-schedule-release-date-and-11-things-w-1",
+    "_id": "sports-possible-nfl-schedule-release-date-and-11-things-w-2",
     "title": "Possible NFL schedule release date and 11 things we know about the slate of games",
     "slug": "possible-nfl-schedule-release-date-and-11-things-w",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "⚽",
       "color": "#dc2626"
     },
-    "imageUrl": "/news-images/sports-possible-nfl-schedule-release-date-and-11-things-w-1.jpg",
+    "imageUrl": "/news-images/sports-possible-nfl-schedule-release-date-and-11-things-w-2.jpg",
     "publishedDate": "2026-04-08 15:53:56",
     "sourceUrl": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-possible-release-date/"
-  },
-  {
-    "_id": "sports-england-women-charlie-dean-we-could-do-a-lot-for-w-2",
-    "title": "England women - Charlie Dean - 'We could do a lot for women's cricket this year'",
-    "slug": "england-women-charlie-dean-we-could-do-a-lot-for-w",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Allrounder on recovery from back injury, and on England's hopes of a redemption arc at the T20 World Cup",
-    "author": "Espncricinfo",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-england-women-charlie-dean-we-could-do-a-lot-for-w-2.jpg",
-    "publishedDate": "2026-04-08 15:27:58",
-    "sourceUrl": "https://www.espncricinfo.com/story/charlie-dean-we-could-do-a-lot-for-women-s-cricket-this-year-1531031"
   },
   {
     "_id": "business-ecoslops-annual-results-2025-0",
