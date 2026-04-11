@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-10-0",
+    "title": "IT Security News Daily Summary 2026-04-10",
+    "slug": "it-security-news-daily-summary-2026-04-10",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "143 posts were published in the last hour 21:36 : News brief: Iranian cyberattacks target U.S. water, energy 21:36 : Anthropic’s Project Glasswing Signals Potential AI-Driven Shift in Cybersecurity 21",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-10-0.jpg",
+    "publishedDate": "2026-04-10 21:55:19",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-10/"
+  },
+  {
+    "_id": "cybersecurity-nearly-4000-industrial-control-devices-across-us-v-1",
+    "title": "Nearly 4,000 industrial control devices across US vulnerable to Iran-linked hacking campaign",
+    "slug": "nearly-4000-industrial-control-devices-across-us-v",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Iran-linked hackers’ targeting of critical infrastructure threatens more than 5,000 industrial control devices around the world, including roughly 3,900 in the US, new data shows. US government agenci",
+    "author": "Techcentral",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-nearly-4000-industrial-control-devices-across-us-v-1.jpg",
+    "publishedDate": "2026-04-10 16:19:39",
+    "sourceUrl": "https://www.techcentral.ie/nearly-4000-industrial-control-devices-across-us-vulnerable-to-iran-linked-hacking-campaign/"
+  },
+  {
+    "_id": "cybersecurity-how-thousands-of-sensitive-lapd-files-got-leaked-o-2",
+    "title": "How thousands of sensitive LAPD files got leaked online — and what happens next",
+    "slug": "how-thousands-of-sensitive-lapd-files-got-leaked-o",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "LOS ANGELES — The disciplinary files of Los Angeles police officers are closely guarded secrets, protected by some of the nation’s strictest confidentiality laws.",
+    "author": "Union Bulletin",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-how-thousands-of-sensitive-lapd-files-got-leaked-o-2.jpg",
+    "publishedDate": "2026-04-10 15:33:06",
+    "sourceUrl": "https://www.union-bulletin.com/news/national/how-thousands-of-sensitive-lapd-files-got-leaked-online-and-what-happens-next/article_5cbcd3bb-3210-53e6-82d0-3433bdd8dbcf.html"
+  },
+  {
     "_id": "national-donald-trumps-granddaughter-kai-trump-goes-viral-a-0",
     "title": "Donald Trump’s granddaughter Kai Trump goes viral at The Masters as her bold pink outfit unexpectedly steals spotlight from the golf action",
     "slug": "donald-trumps-granddaughter-kai-trump-goes-viral-a",
@@ -304,56 +355,5 @@
     "imageUrl": "/news-images/technology-ascendion-named-hfs-market-leader-in-agentic-servi-2.jpg",
     "publishedDate": "2026-04-10 15:19:00",
     "sourceUrl": "https://itbrief.asia/story/ascendion-named-hfs-market-leader-in-agentic-services"
-  },
-  {
-    "_id": "cybersecurity-how-thousands-of-sensitive-lapd-files-got-leaked-o-0",
-    "title": "How thousands of sensitive LAPD files got leaked online -- and what happens next",
-    "slug": "how-thousands-of-sensitive-lapd-files-got-leaked-o",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "LOS ANGELES — The disciplinary files of Los Angeles police officers are closely guarded secrets, protected by some of the nation’s strictest confidentiality laws. But now, many of those secret files h",
-    "author": "Arcamax",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-how-thousands-of-sensitive-lapd-files-got-leaked-o-0.jpg",
-    "publishedDate": "2026-04-10 00:00:00",
-    "sourceUrl": "https://www.arcamax.com/newsheadlines/s-4066824"
-  },
-  {
-    "_id": "cybersecurity-breaches-reveal-worrying-gaps-in-hong-kongs-data-d-1",
-    "title": "Breaches reveal worrying gaps in Hong Kong’s data defences",
-    "slug": "breaches-reveal-worrying-gaps-in-hong-kongs-data-d",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Innovation and technology are key drivers of economic growth and quality of life in Hong Kong. Efforts to make the city an international hub for those sectors have recently been undermined by worrying",
-    "author": "Scmp",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-breaches-reveal-worrying-gaps-in-hong-kongs-data-d-1.jpg",
-    "publishedDate": "2026-04-09 23:15:11",
-    "sourceUrl": "https://www.scmp.com/opinion/comment/article/3349485/breaches-reveal-worrying-gaps-hong-kongs-data-defences"
-  },
-  {
-    "_id": "cybersecurity-10-petabytes-of-chinas-military-secrets-inside-the-2",
-    "title": "10 Petabytes of China’s Military Secrets: Inside the Alleged Supercomputer Breach That Could Rewrite Cyber Warfare",
-    "slug": "10-petabytes-of-chinas-military-secrets-inside-the",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "A hacker called FlamingChina claims to have stolen over 10 petabytes of classified military data from China's National Supercomputing Center, including weapons designs and nuclear simulations. If veri",
-    "author": "Webpronews",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-10-petabytes-of-chinas-military-secrets-inside-the-2.jpg",
-    "publishedDate": "2026-04-09 20:57:25",
-    "sourceUrl": "https://www.webpronews.com/10-petabytes-of-chinas-military-secrets-inside-the-alleged-supercomputer-breach-that-could-rewrite-cyber-warfare/"
   }
 ]
