@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-16-0",
+    "title": "IT Security News Daily Summary 2026-04-16",
+    "slug": "it-security-news-daily-summary-2026-04-16",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "196 posts were published in the last hour 21:32 : Production-first Security: Why Runtime Intelligence Should Drive Application Security 20:32 : Part I: The Build You Can’t See Is the One That Will Kil",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-16-0.jpg",
+    "publishedDate": "2026-04-16 21:55:23",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-16/"
+  },
+  {
+    "_id": "cybersecurity-beyond-basic-monitoring-why-2026-demands-advanced--1",
+    "title": "Beyond Basic Monitoring: Why 2026 Demands Advanced Credential Defense",
+    "slug": "beyond-basic-monitoring-why-2026-demands-advanced-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "In today’s cybersecurity landscape, stolen credentials represent a paramount threat, with infostealers harvesting 4.17 billion credentials in 2025 alone. A Lunar survey reveals that 85% of organizatio",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-beyond-basic-monitoring-why-2026-demands-advanced--1.jpg",
+    "publishedDate": "2026-04-16 16:09:17",
+    "sourceUrl": "https://www.itsecuritynews.info/beyond-basic-monitoring-why-2026-demands-advanced-credential-defense/"
+  },
+  {
+    "_id": "cybersecurity-threatsday-bulletin-defender-0-day-sonicwall-brute-2",
+    "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
+    "slug": "threatsday-bulletin-defender-0-day-sonicwall-brute",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you igno",
+    "author": "Thehackernews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-threatsday-bulletin-defender-0-day-sonicwall-brute-2.jpg",
+    "publishedDate": "2026-04-16 13:05:00",
+    "sourceUrl": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"
+  },
+  {
     "_id": "international-international-justice-mission-welcomes-the-austral-0",
     "title": "International Justice Mission welcomes the Australian Government’s response to the Online Safety Act review report",
     "slug": "international-justice-mission-welcomes-the-austral",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/technology-ai-rewires-consumption-china-emerges-as-global-tes-2.jpg",
     "publishedDate": "2026-04-16 15:46:28",
     "sourceUrl": "http://beijingbulletin.com/news/278988041/ai-rewires-consumption-china-emerges-as-global-testbed-for-smart-spending"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-15-0",
-    "title": "IT Security News Daily Summary 2026-04-15",
-    "slug": "it-security-news-daily-summary-2026-04-15",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "184 posts were published in the last hour 21:13 : Fake Claude AI Installer Targets Windows Users with PlugX Malware 21:13 : Inside the SOC that secured RSAC 2026 Conference 21:13 : News Alert: NTT Res",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-15-0.jpg",
-    "publishedDate": "2026-04-15 21:55:21",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-15/"
-  },
-  {
-    "_id": "cybersecurity-bitdefender-total-security-review-a-feature-loaded-1",
-    "title": "Bitdefender Total Security Review: A Feature-Loaded Security Suite That Protects All Your Devices",
-    "slug": "bitdefender-total-security-review-a-feature-loaded",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Bitdefender Total Security combines a bonanza of security components and bonus features into a single mega-suite that protects Windows, macOS, Android, and iOS devices.",
-    "author": "Pcmag",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-bitdefender-total-security-review-a-feature-loaded-1.jpg",
-    "publishedDate": "2026-04-15 19:23:30",
-    "sourceUrl": "https://www.pcmag.com/reviews/bitdefender-total-security"
-  },
-  {
-    "_id": "cybersecurity-security-leaders-overconfident-about-ransomware-re-2",
-    "title": "Security leaders overconfident about ransomware recovery",
-    "slug": "security-leaders-overconfident-about-ransomware-re",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Few manage to recover all their data, and many experience business disruption",
-    "author": "Itpro",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-security-leaders-overconfident-about-ransomware-re-2.jpg",
-    "publishedDate": "2026-04-15 12:21:24",
-    "sourceUrl": "https://www.itpro.com/security/security-leaders-overconfident-about-ransomware-recovery"
   },
   {
     "_id": "national-world-news-taiwan-detects-2-sorties-of-chinese-air-0",
