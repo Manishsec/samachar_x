@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-lord-skidelsky-obituary-0",
+    "title": "Lord Skidelsky obituary",
+    "slug": "lord-skidelsky-obituary",
+    "content": "Lord Robert Skidelsky, one of Britain's most distinguished public intellectuals and a towering figure in economic thought, died peacefully yesterday at his home, aged 87. Celebrated for his definitive three-volume biography of John Maynard Keynes, Skidelsky spent decades meticulously dissecting the life and ideas of the 20th century's most influential economist, thereby offering an unparalleled contribution to economic history. His passing leaves a significant void in academic and political discourse, where his independent thinking and rigorous scholarship consistently pushed the boundaries of conventional wisdom.\n\nBorn in Harbin, Manchuria, in 1939, Robert Skidelsky's early life was marked by the geopolitical turbulence of the mid-20th century, a background that perhaps instilled in him a deep appreciation for the fragility of global order and the necessity of robust economic frameworks. Educated at Brighton College and Jesus College, Oxford, he initially pursued a career in history before transitioning to economics, a move that would define his intellectual trajectory. He held professorships at the University of Warwick and later at Birkbeck, University of London, where he cultivated a reputation as a formidable scholar and an engaging educator. His early works explored themes of unemployment and the welfare state, laying the groundwork for his later, more expansive critiques of economic policy.\n\nSkidelsky's magnum opus, the multi-volume biography of John Maynard Keynes, published between 1983 and 2000, cemented his place as a pre-eminent intellectual. This unparalleled work transcended mere biographical detail, offering a comprehensive re-evaluation of Keynes's economic theories, political philosophy, and personal life, earning him widespread critical acclaim and numerous awards. Beyond Keynes, Lord Skidelsky was a trenchant critic of the market fundamentalism that dominated late 20th-century economics, consistently advocating for a greater role for the state in managing economies and ensuring social welfare. His later writings, including \"Keynes: The Return of the Master\" and \"How Much is Enough? Money and the Good Life,\" further articulated his vision for a more ethical and sustainable economic system.\n\nTributes have poured in from across the political and academic spectrum, underscoring the breadth of his influence. Professor Mariana Mazzucato, a leading economist and advocate for mission-oriented innovation, praised Skidelsky as \"a giant who never shied away from challenging the status quo, reminding us of the moral dimensions of economic policy.\" Similarly, former Treasury official Lord Macpherson highlighted his \"intellectual honesty and profound understanding of economic history,\" noting that Skidelsky’s insights into Keynes were instrumental in navigating various financial crises. These sentiments reflect a widespread acknowledgment of his unique ability to blend deep historical scholarship with urgent contemporary relevance.\n\nLord Skidelsky's ideas remain more pertinent than ever, particularly in an era grappling with the aftermath of global pandemics, escalating climate change, and persistent economic inequalities. His advocacy for public investment, regulated markets, and a re-evaluation of economic growth's true purpose offers a vital counter-narrative to prevailing orthodoxies. As policymakers around the world continue to debate the optimal balance between state intervention and market forces, Skidelsky's comprehensive body of work will undoubtedly serve as a foundational resource, shaping future discussions on economic resilience and societal well-being.\n\nUltimately, Lord Skidelsky will be remembered not only as a meticulous historian and an astute economist but also as a courageous public intellectual who dared to swim against the tide. His unwavering commitment to intellectual independence and his profound belief in the capacity of economics to serve broader human flourishing set him apart. He leaves behind a legacy of rigorous scholarship, incisive critique, and a enduring call for a more thoughtful and humane approach to the challenges of our time, ensuring his influence will resonate for generations to come.",
+    "excerpt": "Lord Robert Skidelsky, the eminent economist, historian, and biographer whose monumental works reshaped our understanding of John Maynard Keynes, has passed away at the age of 87. His death marks the end of an era for intellectual thought, leaving be...",
+    "author": "Theguardiantheguardian",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-lord-skidelsky-obituary-0.jpg",
+    "publishedDate": "2026-04-20 17:11:11",
+    "sourceUrl": "https://www.theguardian.com/books/2026/apr/20/robert-skidelsky-obituary"
+  },
+  {
+    "_id": "business-expert-matchmaker-in-scottsdale-report-by-cx-resea-1",
+    "title": "Expert Matchmaker in Scottsdale Report by CX Research Institute",
+    "slug": "expert-matchmaker-in-scottsdale-report-by-cx-resea",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Scottsdale, AZ - CX Research Institute announced today the publication of its comprehensive research report evaluating the best expert matchmakers in the Scottsdale metropolitan area. VIDA Select earn",
+    "author": "Financialcontent",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-expert-matchmaker-in-scottsdale-report-by-cx-resea-1.jpg",
+    "publishedDate": "2026-04-20 17:05:02",
+    "sourceUrl": "https://www.financialcontent.com/article/abnewswire-2026-4-20-expert-matchmaker-in-scottsdale-report-by-cx-research-institute"
+  },
+  {
+    "_id": "business-banking-on-confidence-what-nigerias-recapitalisati-2",
+    "title": "Banking on confidence: What Nigeria’s recapitalisation says about investor trust",
+    "slug": "banking-on-confidence-what-nigerias-recapitalisati",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "In a week defined by global uncertainty, tightening financial conditions, and rising geopolitical tensions, Nigeria’s economic managers arrived in Washington, D.C. with a message that cut through the ",
+    "author": "Businessday",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-banking-on-confidence-what-nigerias-recapitalisati-2.jpg",
+    "publishedDate": "2026-04-20 17:00:13",
+    "sourceUrl": "https://businessday.ng/backpage/article/banking-on-confidence-what-nigerias-recapitalisation-says-about-investor-trust/"
+  },
+  {
     "_id": "technology-south-korea-plans-75-cut-to-frontline-border-troop-0",
     "title": "South Korea Plans 75% Cut to Frontline Border Troops by 2040, Betting on AI Surveillance",
     "slug": "south-korea-plans-75-cut-to-frontline-border-troop",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/sports-5-major-reasons-gunther-overpowered-seth-rollins-a-2.jpg",
     "publishedDate": "2026-04-19 15:38:40",
     "sourceUrl": "https://newsable.asianetnews.com/gallery/sports/five-major-reasons-gunther-overpowered-seth-rollins-at-wwe-wrestlemania-42-night-one-1uxqz4c"
-  },
-  {
-    "_id": "business-boomer-exodus-looms-indeed-chief-warns-of-20-milli-0",
-    "title": "Boomer Exodus Looms: Indeed Chief Warns of 20 Million Worker Void dwarfing AI Fears",
-    "slug": "boomer-exodus-looms-indeed-chief-warns-of-20-milli",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Indeed CEO Hisayuki 'Deko' Idekoba flags retiring boomers creating a 20 million worker shortfall over 15 years, outpacing AI risks. Construction needs 349,000 new hires in 2026; healthcare faces massi",
-    "author": "Webpronews",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-boomer-exodus-looms-indeed-chief-warns-of-20-milli-0.jpg",
-    "publishedDate": "2026-04-19 17:24:49",
-    "sourceUrl": "https://www.webpronews.com/boomer-exodus-looms-indeed-chief-warns-of-20-million-worker-void-dwarfing-ai-fears/"
-  },
-  {
-    "_id": "business-revised-stablecoin-yield-language-in-the-us-clarit-1",
-    "title": "Revised Stablecoin Yield Language in the U.S CLARITY Act Postponed",
-    "slug": "revised-stablecoin-yield-language-in-the-us-clarit",
-    "content": "The much-anticipated revisions to stablecoin yield language, intended to provide a clearer regulatory framework under the proposed U.S. CLARITY Act, have been formally postponed. This development means that stablecoin issuers offering yield-bearing products will continue to operate without definitive federal guidance, perpetuating a state of regulatory limbo that has long plagued the digital asset industry. The CLARITY Act aims to establish a comprehensive and coherent regulatory framework for stablecoins, a critical component of the broader cryptocurrency market, but progress on its most contentious elements remains slow.\n\nStablecoins, digital assets pegged to the value of fiat currencies like the U.S. dollar, serve as a vital bridge between traditional finance and the volatile cryptocurrency ecosystem. However, the emergence of yield-generating stablecoin products, which offer returns through lending or staking, has become a significant point of contention for regulators. Concerns escalated following major market dislocations, such as the collapse of the Terra/Luna ecosystem, which highlighted the potential risks associated with inadequately regulated yield offerings and their impact on market stability and consumer protection. Lawmakers have since intensified their focus on defining and regulating these products to prevent future systemic failures.\n\nThe postponed language revisions were expected to address key issues such as whether yield-bearing stablecoins should be classified as securities, commodities, or a new category of financial instrument. Such clarity would dictate which regulatory body – like the Securities and Exchange Commission (SEC) or the Commodity Futures Trading Commission (CFTC) – would have primary oversight, and what compliance requirements issuers would face regarding disclosures, reserves, and consumer safeguards. The delay likely stems from ongoing disagreements among lawmakers, differing views from various federal agencies, and the intricate technicalities involved in defining these novel financial products, requiring extensive deliberation and stakeholder consultation.\n\nIndustry experts express a mix of frustration and understanding regarding the postponement. \"While clarity is desperately needed to foster innovation and protect consumers, rushing complex legislation could lead to unintended consequences,\" noted a prominent blockchain policy analyst. \"However, this persistent delay risks pushing development and investment offshore, as other jurisdictions move ahead with more defined regulatory frameworks.\" The current vacuum leaves stablecoin projects vulnerable to potential enforcement actions under existing, often ill-fitting, securities laws, creating a chilling effect on innovation within the U.S. digital asset space.\n\nThe implications of this postponement are significant for both the stablecoin market and the broader U.S. position in global crypto innovation. Stablecoin issuers will continue to face uncertainty, potentially hindering their ability to attract institutional capital and expand their offerings. For investors, the lack of clear regulatory protections means navigating a market segment with heightened risks and unclear recourse in case of financial distress. This deferral underscores the ongoing struggle within Congress to balance the twin goals of fostering technological advancement and safeguarding financial stability, a challenge that remains central to the future of digital assets.\n\nUltimately, the delay in revising stablecoin yield language within the CLARITY Act highlights the formidable task facing U.S. policymakers in regulating a rapidly evolving sector. While the intent to create a robust and clear framework is evident, the complexity of these financial instruments and the diverse interests involved continue to impede definitive action. The digital asset industry, both domestically and internationally, will closely watch for renewed efforts to tackle this critical issue, as the absence of clarity continues to shape the operational environment for stablecoins and their yield-generating counterparts.",
-    "excerpt": "U.S. lawmakers have opted to postpone the crucial revision of stablecoin yield language within the proposed CLARITY Act, leaving a significant segment of the digital asset market in continued regulatory ambiguity. This delay prolongs the uncertainty ...",
-    "author": "Tekedia",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-revised-stablecoin-yield-language-in-the-us-clarit-1.jpg",
-    "publishedDate": "2026-04-19 17:09:06",
-    "sourceUrl": "https://www.tekedia.com/revised-stablecoin-yield-language-in-the-u-s-clarity-act-postponed/"
-  },
-  {
-    "_id": "business-meet-16-powerful-women-in-president-tinubus-admini-2",
-    "title": "Meet 16 powerful women in President Tinubu’s administration",
-    "slug": "meet-16-powerful-women-in-president-tinubus-admini",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Since taking office in 2023, Bola Ahmed Tinubu has pursued one of the most consequential economic reset agendas in Nigeria’s recent history, scrapping fuel subsidies, unifying the FX market, and signa",
-    "author": "Nairametrics",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-meet-16-powerful-women-in-president-tinubus-admini-2.jpg",
-    "publishedDate": "2026-04-19 17:04:57",
-    "sourceUrl": "https://nairametrics.com/2026/04/19/meet-16-powerful-women-in-president-tinubus-administration/"
   },
   {
     "_id": "national-ttw-unveils-top-50-airlines-in-the-world-for-2026-0",
