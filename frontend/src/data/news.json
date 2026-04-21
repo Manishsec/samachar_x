@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-20-0",
+    "title": "IT Security News Daily Summary 2026-04-20",
+    "slug": "it-security-news-daily-summary-2026-04-20",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "172 posts were published in the last hour 21:36 : Vercel Breach Linked to Context.ai, ShinyHunters Says It’s Not Involved 21:36 : Smishing Triad 21:11 : North Korean hackers blamed for $290M crypto th",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-20-0.jpg",
+    "publishedDate": "2026-04-20 21:55:20",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-20/"
+  },
+  {
+    "_id": "cybersecurity-hackers-accessed-personal-information-for-up-to-70-1",
+    "title": "Hackers accessed personal information for up to 70,000 people in Canada Life data breach",
+    "slug": "hackers-accessed-personal-information-for-up-to-70",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Cyberextortion group ShinyHunters accessed information through an employee account",
+    "author": "Theglobeandmail",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-hackers-accessed-personal-information-for-up-to-70-1.jpg",
+    "publishedDate": "2026-04-20 21:39:44",
+    "sourceUrl": "https://www.theglobeandmail.com/business/article-hackers-personal-information-70000-people-canada-life-data-breach/"
+  },
+  {
+    "_id": "cybersecurity-massive-police-data-breach-raises-national-securit-2",
+    "title": "Massive police data breach raises national security alarm in South Africa",
+    "slug": "massive-police-data-breach-raises-national-securit",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "A significant cyberattack targeting South Africa’s Police Medical Aid Scheme (Polmed) has exposed highly sensitive information belonging to police officers, raising serious concerns about national sec",
+    "author": "Capetownetc",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-massive-police-data-breach-raises-national-securit-2.jpg",
+    "publishedDate": "2026-04-20 20:00:49",
+    "sourceUrl": "https://www.capetownetc.com/news/massive-police-data-breach-raises-national-security-alarm-in-south-africa/"
+  },
+  {
     "_id": "international-labor-secretary-lori-chavez-deremer-is-leaving-tru-0",
     "title": "Labor Secretary Lori Chavez-DeRemer is leaving Trump’s Cabinet after abuse of power allegations",
     "slug": "labor-secretary-lori-chavez-deremer-is-leaving-tru",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/technology-best-ex-ai-servicing-borrower-acquisition-tools-he-2.jpg",
     "publishedDate": "2026-04-20 15:47:58",
     "sourceUrl": "https://www.mortgagenewsdaily.com/opinion/pipelinepress-04202026"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-weekly-summary-16-0",
-    "title": "IT Security News Weekly Summary 16",
-    "slug": "it-security-news-weekly-summary-16",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-04-19 19:5 : IT Security News Hourly Summary 2026-04-19 21h : 3 posts 18:34 : Webinar: Uncovering Hidden Bugs and ",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-weekly-summary-16-0.jpg",
-    "publishedDate": "2026-04-19 21:58:23",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-weekly-summary-16-2/"
-  },
-  {
-    "_id": "cybersecurity-daily-ai-for-work-pulse-19th-of-april-1",
-    "title": "Daily 'AI for Work' Pulse: 19th of April",
-    "slug": "daily-ai-for-work-pulse-19th-of-april",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Ease into your Sunday with 6 new AI tools and 118 AI news articles. Big weekend update-this packed edition surfaces the standouts so you can scan, save, and get back to relaxing.",
-    "author": "Completeaitraining",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-daily-ai-for-work-pulse-19th-of-april-1.jpg",
-    "publishedDate": "2026-04-19 16:50:36",
-    "sourceUrl": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-19th-of-april/"
-  },
-  {
-    "_id": "cybersecurity-data-breach-alert-what-it-means-why-it-matters-and-2",
-    "title": "Data Breach Alert: What It Means, Why It Matters, and How to Protect Yourself Immediately",
-    "slug": "data-breach-alert-what-it-means-why-it-matters-and",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Data breach notifications should never be ignored. Discarding them as junk mail can expose you to serious risks, including financial fraud, identity theft, and unauthorized access to your personal rec",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-data-breach-alert-what-it-means-why-it-matters-and-2.jpg",
-    "publishedDate": "2026-04-18 16:07:01",
-    "sourceUrl": "https://www.itsecuritynews.info/data-breach-alert-what-it-means-why-it-matters-and-how-to-protect-yourself-immediately/"
   },
   {
     "_id": "national-ttw-unveils-top-50-airlines-in-the-world-for-2026-0",
