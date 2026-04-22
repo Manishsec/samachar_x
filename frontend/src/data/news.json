@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-21-0",
+    "title": "IT Security News Daily Summary 2026-04-21",
+    "slug": "it-security-news-daily-summary-2026-04-21",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "171 posts were published in the last hour 21:31 : Two MDO field reports every IT security lead should read 21:7 : Ransomware negotiator caught secretly assisting BlackCat extortion scheme 20:32 : Thun",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-21-0.jpg",
+    "publishedDate": "2026-04-21 21:55:19",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-21/"
+  },
+  {
+    "_id": "cybersecurity-vercel-confirms-hack-via-third-party-ai-tool-says--1",
+    "title": "Vercel Confirms Hack via Third-Party AI Tool, Says Sensitive Data Safe",
+    "slug": "vercel-confirms-hack-via-third-party-ai-tool-says-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Vercel disclosed a breach linked to a compromised third-party AI tool, allowing attackers limited access to non-sensitive environment variables. The company is investigating and has urged users to sec",
+    "author": "Medianama",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-vercel-confirms-hack-via-third-party-ai-tool-says--1.jpg",
+    "publishedDate": "2026-04-21 10:12:17",
+    "sourceUrl": "https://www.medianama.com/2026/04/223-vercel-hack-third-party-ai-tool-sensitive-data-safe/"
+  },
+  {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-20-2",
+    "title": "IT Security News Daily Summary 2026-04-20",
+    "slug": "it-security-news-daily-summary-2026-04-20",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "172 posts were published in the last hour 21:36 : Vercel Breach Linked to Context.ai, ShinyHunters Says It’s Not Involved 21:36 : Smishing Triad 21:11 : North Korean hackers blamed for $290M crypto th",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-20-2.jpg",
+    "publishedDate": "2026-04-20 21:55:20",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-20/"
+  },
+  {
     "_id": "international-hegseth-says-climate-change-is-crap-the-military-i-0",
     "title": "Hegseth says climate change is ‘crap.’ The military is still bracing for it",
     "slug": "hegseth-says-climate-change-is-crap-the-military-i",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/technology-how-to-expand-us-economy-2.jpg",
     "publishedDate": "2026-04-21 15:46:19",
     "sourceUrl": "https://www.miragenews.com/how-to-expand-us-economy-1659279/"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-20-0",
-    "title": "IT Security News Daily Summary 2026-04-20",
-    "slug": "it-security-news-daily-summary-2026-04-20",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "172 posts were published in the last hour 21:36 : Vercel Breach Linked to Context.ai, ShinyHunters Says It’s Not Involved 21:36 : Smishing Triad 21:11 : North Korean hackers blamed for $290M crypto th",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-20-0.jpg",
-    "publishedDate": "2026-04-20 21:55:20",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-20/"
-  },
-  {
-    "_id": "cybersecurity-hackers-accessed-personal-information-for-up-to-70-1",
-    "title": "Hackers accessed personal information for up to 70,000 people in Canada Life data breach",
-    "slug": "hackers-accessed-personal-information-for-up-to-70",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Cyberextortion group ShinyHunters accessed information through an employee account",
-    "author": "Theglobeandmail",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-hackers-accessed-personal-information-for-up-to-70-1.jpg",
-    "publishedDate": "2026-04-20 21:39:44",
-    "sourceUrl": "https://www.theglobeandmail.com/business/article-hackers-personal-information-70000-people-canada-life-data-breach/"
-  },
-  {
-    "_id": "cybersecurity-massive-police-data-breach-raises-national-securit-2",
-    "title": "Massive police data breach raises national security alarm in South Africa",
-    "slug": "massive-police-data-breach-raises-national-securit",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "A significant cyberattack targeting South Africa’s Police Medical Aid Scheme (Polmed) has exposed highly sensitive information belonging to police officers, raising serious concerns about national sec",
-    "author": "Capetownetc",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-massive-police-data-breach-raises-national-securit-2.jpg",
-    "publishedDate": "2026-04-20 20:00:49",
-    "sourceUrl": "https://www.capetownetc.com/news/massive-police-data-breach-raises-national-security-alarm-in-south-africa/"
   },
   {
     "_id": "national-ttw-unveils-top-50-airlines-in-the-world-for-2026-0",
