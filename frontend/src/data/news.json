@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-ai-hacking-fears-rise-as-south-korea-warns-of-new--0",
+    "title": "AI hacking fears rise as South Korea warns of new cyber threat",
+    "slug": "ai-hacking-fears-rise-as-south-korea-warns-of-new-",
+    "content": "The warning from South Korea’s National Intelligence Service underscores a growing global concern: the weaponization of artificial intelligence in cyber warfare. The NIS revealed that foreign state-sponsored actors, often linked to hostile nations, are deploying AI to enhance their offensive capabilities, targeting key South Korean industries including defense, semiconductors, and other advanced technology sectors. This marks a significant shift from traditional cyber tactics, as AI allows for unprecedented levels of automation, precision, and adaptability in launching attacks, making them harder to detect and defend against. The agency highlighted that the speed and scale at which these AI-enabled threats can operate fundamentally alter the cyber threat landscape.\n\nSouth Korea, a global leader in technology and innovation, has long been a prime target for sophisticated cyber espionage and sabotage, particularly from its northern neighbor. The integration of AI into these malicious campaigns represents a formidable escalation. The NIS detailed how AI is being used to scour vast amounts of data to identify system vulnerabilities, generate highly convincing deepfake images and audio for social engineering attacks, and even to automate the entire attack chain from reconnaissance to payload delivery. This strategic adoption of AI by adversaries presents a critical challenge to national security and economic stability, pushing the boundaries of conventional cybersecurity defenses.\n\nSpecific instances cited by the NIS illustrate the insidious nature of these new threats. Hackers have been observed using AI to create deceptive images, such as an \"AI-generated image of a beautiful woman,\" to entice targets into clicking malicious links in phishing emails. Beyond social engineering, AI algorithms are being deployed to meticulously analyze network traffic and system configurations, pinpointing exploitable weaknesses with remarkable efficiency. The agency also warned about the potential for AI-powered \"deepfake\" audio technology to facilitate sophisticated voice phishing scams, making it virtually impossible for victims to distinguish between a legitimate call and an AI-generated impersonation. Furthermore, the NIS highlighted emerging threats like \"AI-based supply chain attacks\" and \"AI poisoning,\" where malicious actors could manipulate AI models themselves to compromise systems.\n\nCybersecurity experts globally echo the NIS's concerns, emphasizing AI's dual-use nature. While AI offers powerful tools for defense, its offensive applications are evolving at an alarming pace. Harry Coker Jr., the U.S. National Cyber Director, has previously cautioned about AI's potential to \"turbocharge\" cyberattacks, making them faster, more destructive, and harder to trace. Experts point out that AI can learn from defensive measures, adapting its tactics in real-time to circumvent new security protocols, creating a dynamic and continuous arms race between attackers and defenders. The sheer volume of data AI can process and the speed at which it can execute complex operations mean that human responders are often at a significant disadvantage.\n\nThe implications of this escalating AI-driven cyber threat extend far beyond South Korea's borders, impacting global supply chains and international security. To counter this sophisticated menace, the NIS stressed the urgent need for enhanced \"AI security measures\" and bolstered \"international cooperation\" among nations. This includes sharing threat intelligence, developing common defensive standards for AI systems, and investing heavily in AI-driven defensive technologies that can match the sophistication of offensive tools. As artificial intelligence continues to permeate every aspect of digital infrastructure, a proactive and collaborative approach is essential to safeguard critical assets and maintain stability in an increasingly interconnected world.",
+    "excerpt": "South Korea's National Intelligence Service (NIS) has issued a stark warning regarding the escalating threat of AI-powered cyberattacks, signaling a new and more sophisticated era in global cybersecurity. State-backed hackers are increasingly leverag...",
+    "author": "Upi",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-ai-hacking-fears-rise-as-south-korea-warns-of-new--0.jpg",
+    "publishedDate": "2026-04-23 01:18:13",
+    "sourceUrl": "https://www.upi.com/Top_News/World-News/2026/04/22/cyberattacks-ai-capable/6251776906694/"
+  },
+  {
+    "_id": "cybersecurity-ecobank-in-talks-with-bank-of-china-for-direct-yua-1",
+    "title": "Ecobank in Talks with Bank of China for Direct Yuan Settlement",
+    "slug": "ecobank-in-talks-with-bank-of-china-for-direct-yua",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Ecobank, Pan-African lender, said it is in advanced talks with the Bank of China to set up a direct yuan settlement system by the end of 2026, eliminating the need to use the U.S. dollar as an interme",
+    "author": "Nigeriacommunicationsweek",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-ecobank-in-talks-with-bank-of-china-for-direct-yua-1.jpg",
+    "publishedDate": "2026-04-22 23:05:37",
+    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/ecobank-in-talks-with-bank-of-china-for-direct-yuan-settlement/"
+  },
+  {
+    "_id": "cybersecurity-cbn-warns-of-cyber-hack-attempt-days-after-cac-att-2",
+    "title": "CBN Warns of Cyber Hack Attempt Days after CAC Attack",
+    "slug": "cbn-warns-of-cyber-hack-attempt-days-after-cac-att",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Central Bank of Nigeria (CBN) has warned the public of a fresh cyber hack attempt to access personal accounts, just days after the Corporate Affairs Commission (CAC) confirmed a major cyber attack on ",
+    "author": "Nigeriacommunicationsweek",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-cbn-warns-of-cyber-hack-attempt-days-after-cac-att-2.jpg",
+    "publishedDate": "2026-04-22 23:02:28",
+    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/cbn-warns-of-cyber-hack-attempt-days-after-cac-attack/"
+  },
+  {
     "_id": "international-experience-f1-tracks-with-3d-art-in-apple-maps-ahe-0",
     "title": "Experience F1 tracks with 3D art in Apple Maps ahead of each race",
     "slug": "experience-f1-tracks-with-3d-art-in-apple-maps-ahe",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/technology-smart-but-deadly-how-drone-age-rewriting-rules-of--2.jpg",
     "publishedDate": "2026-04-22 15:54:00",
     "sourceUrl": "https://www.azernews.az/analysis/257340.html"
-  },
-  {
-    "_id": "cybersecurity-cyber-risk-is-a-business-risk-why-communication-de-0",
-    "title": "Cyber risk is a business risk: Why communication defines corporate resilience",
-    "slug": "cyber-risk-is-a-business-risk-why-communication-de",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Cyber risk has migrated well outside of IT departments and into the boardroom. Gone are the days when a cyber incident was limited to a company’s backrooms; with increasing digitisation of operations ",
-    "author": "E27",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-cyber-risk-is-a-business-risk-why-communication-de-0.jpg",
-    "publishedDate": "2026-04-22 03:00:24",
-    "sourceUrl": "https://e27.co/cyber-risk-is-a-business-risk-why-communication-defines-corporate-resilience-20260415/"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-daily-summary-2026-04-21-1",
-    "title": "IT Security News Daily Summary 2026-04-21",
-    "slug": "it-security-news-daily-summary-2026-04-21",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "171 posts were published in the last hour 21:31 : Two MDO field reports every IT security lead should read 21:7 : Ransomware negotiator caught secretly assisting BlackCat extortion scheme 20:32 : Thun",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-04-21-1.jpg",
-    "publishedDate": "2026-04-21 21:55:19",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-04-21/"
-  },
-  {
-    "_id": "cybersecurity-vercel-confirms-hack-via-third-party-ai-tool-says--2",
-    "title": "Vercel Confirms Hack via Third-Party AI Tool, Says Sensitive Data Safe",
-    "slug": "vercel-confirms-hack-via-third-party-ai-tool-says-",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Vercel disclosed a breach linked to a compromised third-party AI tool, allowing attackers limited access to non-sensitive environment variables. The company is investigating and has urged users to sec",
-    "author": "Medianama",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-vercel-confirms-hack-via-third-party-ai-tool-says--2.jpg",
-    "publishedDate": "2026-04-21 10:12:17",
-    "sourceUrl": "https://www.medianama.com/2026/04/223-vercel-hack-third-party-ai-tool-sensitive-data-safe/"
   },
   {
     "_id": "national-ttw-unveils-top-50-airlines-in-the-world-for-2026-0",
