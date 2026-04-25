@@ -1,5 +1,56 @@
 [
   {
+    "_id": "technology-why-faster-ai-may-not-be-superior-0",
+    "title": "Why Faster AI May Not Be Superior",
+    "slug": "why-faster-ai-may-not-be-superior",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "In the race to make AI models not just reason better but respond faster, latency — the delay before an answer appears — is often treated as a purely",
+    "author": "Miragenews",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-why-faster-ai-may-not-be-superior-0.jpg",
+    "publishedDate": "2026-04-24 15:36:29",
+    "sourceUrl": "https://www.miragenews.com/why-faster-ai-may-not-be-superior-1661986/"
+  },
+  {
+    "_id": "technology-moh-emphasises-mental-health-prevention-tackling-t-1",
+    "title": "MOH emphasises mental health prevention, tackling tech impact on youth",
+    "slug": "moh-emphasises-mental-health-prevention-tackling-t",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "For mental well-being issues, the workplace offers a distinct opportunity for early intervention, instead of the clinic or hospital",
+    "author": "Straitstimes",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-moh-emphasises-mental-health-prevention-tackling-t-1.jpg",
+    "publishedDate": "2026-04-24 15:35:00",
+    "sourceUrl": "https://www.straitstimes.com/singapore/health/moh-emphasises-mental-health-prevention-tackling-tech-impact-on-youth"
+  },
+  {
+    "_id": "technology-chinas-deepseek-rolls-out-a-long-anticipated-updat-2",
+    "title": "China's DeepSeek rolls out a long-anticipated update of its AI model",
+    "slug": "chinas-deepseek-rolls-out-a-long-anticipated-updat",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "HONG KONG — DeepSeek, the Chinese artificial intelligence startup that shook world markets last year, launched preview versions of its latest major update Friday as the AI rivalry between China and th",
+    "author": "Manilatimes",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-chinas-deepseek-rolls-out-a-long-anticipated-updat-2.jpg",
+    "publishedDate": "2026-04-24 15:31:35",
+    "sourceUrl": "https://www.manilatimes.net/2026/04/24/business/sunday-business-it/chinas-deepseek-rolls-out-a-long-anticipated-update-of-its-ai-model/2328288"
+  },
+  {
     "_id": "cybersecurity-pacnews-three-24-april-2026-0",
     "title": "PACNEWS THREE, 24 APRIL 2026",
     "slug": "pacnews-three-24-april-2026",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/business-elon-musks-bold-bet-ai-robots-flood-markets-reshap-2.jpg",
     "publishedDate": "2026-04-23 17:10:06",
     "sourceUrl": "https://www.webpronews.com/elon-musks-bold-bet-ai-robots-flood-markets-reshape-economies-by-2027/"
-  },
-  {
-    "_id": "technology-three-insights-you-might-have-missed-from-thecubes-0",
-    "title": "Three insights you might have missed from theCUBE’s coverage of HPE World Quantum Day",
-    "slug": "three-insights-you-might-have-missed-from-thecubes",
-    "content": "HPE World Quantum Day served as a pivotal platform for Hewlett Packard Enterprise to showcase its enduring commitment to the quantum realm and to foster a broader industry dialogue. The event, meticulously covered by theCUBE, provided a deep dive into the strategic direction of quantum computing, emphasizing a pragmatic evolution rather than a revolutionary overnight shift. Against a backdrop of increasing global investment and intensified research, the discussions underscored the necessity of bridging the gap between theoretical quantum mechanics and tangible, real-world applications, a sentiment often lost amidst the excitement surrounding raw computational power.\n\nThe current landscape of quantum computing is defined by the noisy intermediate-scale quantum (NISQ) era, where devices possess limited qubits and are prone to errors, making practical applications challenging. HPE’s strategy, prominently featured at the event, revolves around a hybrid classical-quantum approach, integrating quantum accelerators with high-performance classical computing infrastructure. This pragmatic focus acknowledges the current limitations while paving a clear path for leveraging quantum capabilities for specific, high-value computational problems, particularly in areas like materials science, drug discovery, and complex optimization.\n\nAmong the key insights from theCUBE’s coverage was the burgeoning importance of a robust quantum ecosystem and a mature software stack. It's increasingly clear that hardware alone is insufficient; the accessibility and usability of quantum systems hinge on sophisticated programming tools, middleware, and development platforms that abstract away much of the underlying quantum complexity. Furthermore, the discussions highlighted the critical need for a long-term vision, tempering immediate expectations with an understanding that fault-tolerant quantum computing remains a significant journey, requiring sustained investment in fundamental research and infrastructure.\n\nExperts at HPE World Quantum Day echoed these sentiments, emphasizing patience and strategic focus. Dr. Mark Johnson, a quantum research lead at HPE (not a real person, but representative of an expert), articulated, \"The true value of quantum will emerge not from a single 'aha!' moment, but from a relentless, incremental pursuit of engineering excellence and a deep understanding of problem domains. We're building a new computational paradigm, and that demands both innovation and realistic timelines.\" This perspective underscores the distinction between the current NISQ capabilities and the eventual promise of universal quantum computers, guiding investment towards foundational elements that will serve future generations of quantum technology.\n\nThe implications of these insights are profound for enterprises, researchers, and policymakers alike. Businesses must look beyond superficial benchmarks and instead focus on how hybrid quantum solutions can address their specific computational bottlenecks today, while simultaneously preparing for future advancements. For researchers, it reinforces the need for interdisciplinary collaboration, blending quantum physics with computer science and application-specific domain expertise. The emphasis on ecosystem development also signals a growing opportunity for software developers and service providers to build the critical infrastructure that will unlock quantum's full potential.\n\nIn essence, the nuanced discussions at HPE World Quantum Day, as illuminated by theCUBE, served as a vital reality check and a strategic compass for the quantum computing industry. They underscored that the path to quantum advantage is not a straight line but a complex journey demanding a hybrid approach, a mature ecosystem, and unwavering long-term commitment. For SamacharX readers, understanding these underlying currents is crucial for navigating the evolving landscape of this transformative technology and recognizing where true progress is being made.",
-    "excerpt": "HPE World Quantum Day recently brought together leading minds to dissect the rapid evolution of quantum computing, with theCUBE offering an incisive look into the event’s most significant discussions. While headlines often focus on breakthrough qubit...",
-    "author": "Siliconangle",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-three-insights-you-might-have-missed-from-thecubes-0.jpg",
-    "publishedDate": "2026-04-23 15:57:15",
-    "sourceUrl": "https://siliconangle.com/2026/04/23/quantum-computing-hpe-world-quantum-day-insights-hpeworldquantumday/"
-  },
-  {
-    "_id": "technology-segment-analysis-and-major-growth-areas-in-the-rea-1",
-    "title": "Segment Analysis and Major Growth Areas in the Real World Evidence Solutions Market",
-    "slug": "segment-analysis-and-major-growth-areas-in-the-rea",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The real world evidence solutions market is poised for significant expansion over the coming years, driven by advancements in healthcare data utilization and technological innovation. This sector is b",
-    "author": "Openpr",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-segment-analysis-and-major-growth-areas-in-the-rea-1.jpg",
-    "publishedDate": "2026-04-23 15:55:45",
-    "sourceUrl": "https://www.openpr.com/news/4486022/segment-analysis-and-major-growth-areas-in-the-real-world"
-  },
-  {
-    "_id": "technology-tim-cook-had-bold-visions-for-apple-see-which-ones-2",
-    "title": "Tim Cook had bold visions for Apple. See which ones came true.",
-    "slug": "tim-cook-had-bold-visions-for-apple-see-which-ones",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "From augmented reality to Apple's role in health, Tim Cook had grand visions for the company. Some came true, while others were never fully realized.",
-    "author": "Businessinsider Us",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-tim-cook-had-bold-visions-for-apple-see-which-ones-2.jpg",
-    "publishedDate": "2026-04-23 15:54:35",
-    "sourceUrl": "https://www.businessinsider.com/tim-cook-visions-predictions-for-apple-2026-4"
   },
   {
     "_id": "national-ttw-unveils-top-50-airlines-in-the-world-for-2026-0",
