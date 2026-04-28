@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-0",
+    "title": "Hackers got data on 5.5 million ADT customers by phishing, report says",
+    "slug": "hackers-got-data-on-55-million-adt-customers-by-ph",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Another massive data breach is attributed to a single-sign-on attack. Millions of people use security company ADT to protect their home or business. And yet their cybersecurity may have been compromis",
+    "author": "Mashable",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-0.jpg",
+    "publishedDate": "2026-04-27 21:40:36",
+    "sourceUrl": "https://sea.mashable.com/tech/44828/hackers-got-data-on-55-million-adt-customers-by-phishing-report-says"
+  },
+  {
+    "_id": "cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-1",
+    "title": "Hackers got data on 5.5 million ADT customers by phishing, report says",
+    "slug": "hackers-got-data-on-55-million-adt-customers-by-ph",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "ShinyHunters claimed responsibility for an ADT \"pay or leak\" data breach that impacts 5.5 million security customers.",
+    "author": "Mashable Us",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-1.jpg",
+    "publishedDate": "2026-04-27 21:40:36",
+    "sourceUrl": "https://mashable.com/article/adt-shinyhunters-data-breach-5-5-million-people"
+  },
+  {
+    "_id": "cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-2",
+    "title": "Hackers got data on 5.5 million ADT customers by phishing, report says",
+    "slug": "hackers-got-data-on-55-million-adt-customers-by-ph",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Another massive data breach is attributed to a single-sign-on attack. Millions of people use security company ADT to protect their home or business. And yet their cybersecurity may have been compromis",
+    "author": "Mashable Me",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-2.jpg",
+    "publishedDate": "2026-04-27 21:40:36",
+    "sourceUrl": "https://me.mashable.com/tech/70419/hackers-got-data-on-55-million-adt-customers-by-phishing-report-says"
+  },
+  {
     "_id": "national-world-news-unga-president-annalena-baerbock-arrive-0",
     "title": "World News | UNGA President Annalena Baerbock Arrives in India for Official Visit",
     "slug": "world-news-unga-president-annalena-baerbock-arrive",
@@ -253,40 +304,6 @@
     "imageUrl": "/news-images/business-btl-industries-bulgaria-receives-investor-of-the-y-2.jpg",
     "publishedDate": "2026-04-27 17:31:46",
     "sourceUrl": "https://www.bta.bg/en/news/economy/1114954-btl-industries-bulgaria-receives-investor-of-the-year-award"
-  },
-  {
-    "_id": "cybersecurity-week-in-review-claude-mythos-finds-271-firefox-fla-0",
-    "title": "Week in review: Claude Mythos finds 271 Firefox flaws, Vercel breach",
-    "slug": "week-in-review-claude-mythos-finds-271-firefox-fla",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: SmokedMeat: Open-source tool shows what attackers do inside CI/CD pipelines Boost Security has release",
-    "author": "Helpnetsecurity",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-week-in-review-claude-mythos-finds-271-firefox-fla-0.jpg",
-    "publishedDate": "2026-04-26 08:00:32",
-    "sourceUrl": "https://www.helpnetsecurity.com/2026/04/26/week-in-review-claude-mythos-finds-271-firefox-flaws-vercel-breach/"
-  },
-  {
-    "_id": "cybersecurity-personal-and-medical-records-of-160312-americans-p-1",
-    "title": "Personal and Medical Records of 160,312 Americans Potentially Exposed After Major Data Breach Hits Healthcare Firm",
-    "slug": "personal-and-medical-records-of-160312-americans-p",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The sensitive data of hundreds of thousands of Americans is at risk after a healthcare firm was hit by a cybersecurity attack. According to the U.S. Department of Health and Human Services Office for ",
-    "author": "Dailyhodl",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-personal-and-medical-records-of-160312-americans-p-1.jpg",
-    "publishedDate": "2026-04-25 17:40:27",
-    "sourceUrl": "https://dailyhodl.com/2026/04/25/personal-and-medical-records-of-160312-americans-potentially-exposed-after-major-data-breach-hits-healthcare-firm/"
   },
   {
     "_id": "technology-why-faster-ai-may-not-be-superior-0",
