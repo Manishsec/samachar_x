@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-have-iran-backed-hackers-leaked-personal-data-of-o-0",
+    "title": "Have Iran-backed hackers leaked personal data of over 2,000 US Marines?",
+    "slug": "have-iran-backed-hackers-leaked-personal-data-of-o",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Iran-linked group, Handala Hack, has claimed that it has released personal information of US Marines deployed in the Persian Gulf. The group asserted it published the names and personal details of 2,3",
+    "author": "Firstpost",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-have-iran-backed-hackers-leaked-personal-data-of-o-0.jpg",
+    "publishedDate": "2026-04-30 01:52:01",
+    "sourceUrl": "https://www.firstpost.com/explainers/have-iran-backed-hackers-leaked-personal-data-of-over-2000-us-marines-14005921.html"
+  },
+  {
+    "_id": "cybersecurity-microsoft-launches-copilot-health-ai-platform-rais-1",
+    "title": "Microsoft launches Copilot Health AI platform, raising privacy and liability concerns for users and providers",
+    "slug": "microsoft-launches-copilot-health-ai-platform-rais",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Microsoft launched Copilot Health on March 12, 2026, aggregating medical records, wearable data, and lab results into one AI platform. It falls outside HIPAA, raising unresolved questions about privac",
+    "author": "Completeaitraining",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-microsoft-launches-copilot-health-ai-platform-rais-1.jpg",
+    "publishedDate": "2026-04-30 01:06:42",
+    "sourceUrl": "https://completeaitraining.com/news/microsoft-launches-copilot-health-ai-platform-raising/"
+  },
+  {
+    "_id": "cybersecurity-cyberattacks-surge-across-uae-amid-iran-conflict-b-2",
+    "title": "Cyberattacks surge across UAE amid Iran conflict, businesses face disruptions and rising risks",
+    "slug": "cyberattacks-surge-across-uae-amid-iran-conflict-b",
+    "content": "The UAE has witnessed a marked increase in the frequency and sophistication of cyberattacks, a trend experts directly attribute to the simmering geopolitical conflict in the Middle East, particularly involving Iran. These malicious digital incursions are not merely isolated incidents but appear to be part of a broader, coordinated effort targeting vital infrastructure and corporate entities within the Emirates. Businesses are reporting significant operational disruptions, ranging from data breaches and system outages to ransomware demands, underscoring the severe and immediate threat posed by these state-sponsored or affiliated cyber campaigns.\n\nThis surge in cyber warfare is unfolding against a backdrop of heightened regional instability, where the UAE, a key economic and strategic player, often finds itself intertwined in complex geopolitical dynamics. While the exact nature and attribution of all attacks remain under investigation, the timing and targeting patterns strongly suggest a connection to the broader conflict involving Iran and its proxies. Cyber warfare has become an increasingly preferred tool for state actors to exert influence, disrupt adversaries, and gather intelligence without resorting to conventional military engagement, making countries like the UAE prime targets for such clandestine operations.\n\nThe attacks are manifesting in various forms, including sophisticated denial-of-service (DDoS) attacks designed to cripple online services, advanced persistent threats (APTs) aimed at long-term espionage and data exfiltration, and increasingly potent ransomware campaigns. Sectors such as banking, oil and gas, telecommunications, and government services are particularly vulnerable, given their critical role in the nation's economy and infrastructure. These disruptions not only incur direct financial losses but also erode public trust, compromise sensitive data, and pose significant challenges to the UAE's ambitious digital transformation initiatives.\n\nCybersecurity experts and regional analysts are sounding alarms, emphasizing that UAE businesses must move beyond basic defenses and adopt a proactive, adaptive security posture. Dr. Ali Al-Khateeb, a prominent regional cybersecurity consultant, notes, \"What we're seeing is not just opportunistic hacking but a strategic weaponization of cyberspace. Businesses need to invest heavily in threat intelligence, employee training, and resilient backup systems, as the adversaries are well-funded and highly skilled.\" He stresses the imperative for both public and private sectors to collaborate closely, sharing threat indicators and best practices to build a collective defense against these evolving dangers.\n\nThe implications of these escalating cyberattacks extend beyond immediate business disruptions, potentially impacting investor confidence and the UAE's reputation as a secure global business hub. The government, recognizing the gravity of the situation, has reportedly intensified its national cybersecurity efforts, urging companies to bolster their defenses and comply with stringent data protection regulations. As the regional geopolitical landscape remains volatile, the digital battlefield is set to become an enduring front, requiring sustained vigilance and continuous innovation from all stakeholders to safeguard the nation's digital future.",
+    "excerpt": "The United Arab Emirates is experiencing a significant escalation in cyberattacks, with businesses across the nation facing unprecedented disruptions and heightened risks. This surge is closely linked to the ongoing regional tensions, particularly th...",
+    "author": "Economictimes Indiatimes",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-cyberattacks-surge-across-uae-amid-iran-conflict-b-2.jpg",
+    "publishedDate": "2026-04-29 19:10:10",
+    "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/cyberattacks-surge-across-uae-amid-iran-conflict-businesses-face-disruptions-and-rising-risks/articleshow/130616907.cms"
+  },
+  {
     "_id": "international-trump-eyeing-iran-blockade-lasting-months-if-neede-0",
     "title": "Trump eyeing Iran blockade lasting 'months if needed': White House official",
     "slug": "trump-eyeing-iran-blockade-lasting-months-if-neede",
@@ -202,23 +253,6 @@
     "imageUrl": "/news-images/business-foresight-africa-at-the-2026-spring-meetings-how-a-2.jpg",
     "publishedDate": "2026-04-29 17:36:07",
     "sourceUrl": "https://www.brookings.edu/articles/foresight-africa-at-the-2026-spring-meetings-how-africa-can-build-back-better-from-global-crises/"
-  },
-  {
-    "_id": "cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-2",
-    "title": "Hackers got data on 5.5 million ADT customers by phishing, report says",
-    "slug": "hackers-got-data-on-55-million-adt-customers-by-ph",
-    "content": "A recent report has revealed that hackers successfully obtained sensitive data belonging to an estimated 5.5 million ADT customers through a targeted phishing attack. The breach did not directly impact ADT's core systems but rather exploited vulnerabilities within a third-party vendor contracted by the security giant. This sophisticated cyberattack allowed unauthorized access to a trove of customer details, including names, addresses, phone numbers, and email addresses, raising serious concerns about potential follow-up scams and identity theft.\n\nADT, a long-standing leader in smart home security solutions, relies on a vast network of partners and vendors to deliver its services, a common practice across industries. This reliance, however, introduces potential weak points in the overall security posture, as demonstrated by this incident. The phishing campaign reportedly tricked employees of a specific third-party vendor into divulging credentials, subsequently granting attackers access to systems containing the extensive customer database. This highlights the critical importance of robust cybersecurity training and stringent access controls for all entities within a company's operational ecosystem.\n\nUpon discovery, ADT reportedly initiated an internal investigation and engaged external cybersecurity experts to ascertain the full scope and impact of the breach. While the company has not yet publicly detailed the specific third-party vendor involved, the incident serves as a stark reminder that even companies specializing in security are not immune to the evolving tactics of cybercriminals. Steps are likely underway to notify affected customers, as mandated by various data protection regulations, and to enhance security protocols across its vendor network to prevent future occurrences.\n\nCybersecurity experts are weighing in on the implications of such a large-scale breach, particularly given ADT's industry position. \"This incident is a classic example of a supply chain attack, where attackers target the weakest link in a company's extended network,\" stated Dr. Lena Khan, a prominent cybersecurity analyst. \"Phishing remains incredibly effective because it preys on human error, and even the most technically secure systems can be bypassed if an employee falls victim to a convincing scam. Companies must invest not just in technology, but equally in continuous employee education and multi-factor authentication for all critical systems.\"\n\nThe fallout from this breach could be significant, ranging from reputational damage and potential legal challenges for ADT to the increased risk of identity theft and targeted phishing attacks for the 5.5 million affected customers. Individuals whose data has been compromised are strongly advised to remain vigilant, monitor their financial accounts for suspicious activity, and be extremely cautious of unsolicited communications, especially those purporting to be from ADT or other service providers. This incident reinforces the need for consumers to adopt strong, unique passwords and enable multi-factor authentication wherever possible.\n\nIn the wake of this report, the cybersecurity community is once again emphasizing the shared responsibility in combating cyber threats. For companies like ADT, it necessitates a continuous re-evaluation of third-party risk management and a commitment to fostering a strong security culture that extends beyond their immediate workforce. For consumers, it underscores the need for constant vigilance and proactive measures to protect their personal information in an increasingly interconnected and vulnerable digital landscape.",
-    "excerpt": "A significant data breach has reportedly compromised the personal information of approximately 5.5 million ADT customers, a leading name in home security. The breach, attributed to a sophisticated phishing campaign, targeted a third-party vendor prov...",
-    "author": "Mashable",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-hackers-got-data-on-55-million-adt-customers-by-ph-2.jpg",
-    "publishedDate": "2026-04-27 21:40:36",
-    "sourceUrl": "https://sea.mashable.com/tech/44828/hackers-got-data-on-55-million-adt-customers-by-phishing-report-says"
   },
   {
     "_id": "national-india-news-union-minister-dharmendra-pradhan-revie-0",
