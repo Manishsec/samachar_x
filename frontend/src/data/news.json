@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-weekly-summary-may-0",
+    "title": "IT Security News Weekly Summary May",
+    "slug": "it-security-news-weekly-summary-may",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-04-30 21:32 : Private Chats, Photos of Celebs Exposed in Suspected Stalkerware Leak 21:31 : Escape AI Pentesting A",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-weekly-summary-may-0.jpg",
+    "publishedDate": "2026-04-30 22:01:22",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-weekly-summary-may-2/"
+  },
+  {
+    "_id": "cybersecurity-threatsday-bulletin-sms-blaster-busts-openemr-flaw-1",
+    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+    "slug": "threatsday-bulletin-sms-blaster-busts-openemr-flaw",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Ravie LakshmananApr 30, 2026Hacking News / Cybersecurity News The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam...",
+    "author": "Swapupdate",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-threatsday-bulletin-sms-blaster-busts-openemr-flaw-1.jpg",
+    "publishedDate": "2026-04-30 21:26:29",
+    "sourceUrl": "https://www.swapupdate.in/threatsday-bulletin-sms-blaster-busts-openemr-flaws-600k-roblox-hacks-and-25-more-stories/"
+  },
+  {
+    "_id": "cybersecurity-threatsday-bulletin-sms-blaster-busts-openemr-flaw-2",
+    "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+    "slug": "threatsday-bulletin-sms-blaster-busts-openemr-flaw",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into the",
+    "author": "Thehackernews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-threatsday-bulletin-sms-blaster-busts-openemr-flaw-2.jpg",
+    "publishedDate": "2026-04-30 13:55:00",
+    "sourceUrl": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html"
+  },
+  {
     "_id": "international-trump-laughs-off-iran-winning-world-cup-on-us-soil-0",
     "title": "Trump Laughs Off Iran Winning World Cup on US Soil: 'I'll Have to Worry About That'",
     "slug": "trump-laughs-off-iran-winning-world-cup-on-us-soil",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/business-southside-sbsi-q1-2026-earnings-transcript-2.jpg",
     "publishedDate": "2026-04-30 17:51:29",
     "sourceUrl": "https://www.fool.com/earnings/call-transcripts/2026/04/30/southside-sbsi-q1-2026-earnings-transcript/"
-  },
-  {
-    "_id": "cybersecurity-have-iran-backed-hackers-leaked-personal-data-of-o-0",
-    "title": "Have Iran-backed hackers leaked personal data of over 2,000 US Marines?",
-    "slug": "have-iran-backed-hackers-leaked-personal-data-of-o",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Iran-linked group, Handala Hack, has claimed that it has released personal information of US Marines deployed in the Persian Gulf. The group asserted it published the names and personal details of 2,3",
-    "author": "Firstpost",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-have-iran-backed-hackers-leaked-personal-data-of-o-0.jpg",
-    "publishedDate": "2026-04-30 01:52:01",
-    "sourceUrl": "https://www.firstpost.com/explainers/have-iran-backed-hackers-leaked-personal-data-of-over-2000-us-marines-14005921.html"
-  },
-  {
-    "_id": "cybersecurity-microsoft-launches-copilot-health-ai-platform-rais-1",
-    "title": "Microsoft launches Copilot Health AI platform, raising privacy and liability concerns for users and providers",
-    "slug": "microsoft-launches-copilot-health-ai-platform-rais",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Microsoft launched Copilot Health on March 12, 2026, aggregating medical records, wearable data, and lab results into one AI platform. It falls outside HIPAA, raising unresolved questions about privac",
-    "author": "Completeaitraining",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-microsoft-launches-copilot-health-ai-platform-rais-1.jpg",
-    "publishedDate": "2026-04-30 01:06:42",
-    "sourceUrl": "https://completeaitraining.com/news/microsoft-launches-copilot-health-ai-platform-raising/"
-  },
-  {
-    "_id": "cybersecurity-cyberattacks-surge-across-uae-amid-iran-conflict-b-2",
-    "title": "Cyberattacks surge across UAE amid Iran conflict, businesses face disruptions and rising risks",
-    "slug": "cyberattacks-surge-across-uae-amid-iran-conflict-b",
-    "content": "The UAE has witnessed a marked increase in the frequency and sophistication of cyberattacks, a trend experts directly attribute to the simmering geopolitical conflict in the Middle East, particularly involving Iran. These malicious digital incursions are not merely isolated incidents but appear to be part of a broader, coordinated effort targeting vital infrastructure and corporate entities within the Emirates. Businesses are reporting significant operational disruptions, ranging from data breaches and system outages to ransomware demands, underscoring the severe and immediate threat posed by these state-sponsored or affiliated cyber campaigns.\n\nThis surge in cyber warfare is unfolding against a backdrop of heightened regional instability, where the UAE, a key economic and strategic player, often finds itself intertwined in complex geopolitical dynamics. While the exact nature and attribution of all attacks remain under investigation, the timing and targeting patterns strongly suggest a connection to the broader conflict involving Iran and its proxies. Cyber warfare has become an increasingly preferred tool for state actors to exert influence, disrupt adversaries, and gather intelligence without resorting to conventional military engagement, making countries like the UAE prime targets for such clandestine operations.\n\nThe attacks are manifesting in various forms, including sophisticated denial-of-service (DDoS) attacks designed to cripple online services, advanced persistent threats (APTs) aimed at long-term espionage and data exfiltration, and increasingly potent ransomware campaigns. Sectors such as banking, oil and gas, telecommunications, and government services are particularly vulnerable, given their critical role in the nation's economy and infrastructure. These disruptions not only incur direct financial losses but also erode public trust, compromise sensitive data, and pose significant challenges to the UAE's ambitious digital transformation initiatives.\n\nCybersecurity experts and regional analysts are sounding alarms, emphasizing that UAE businesses must move beyond basic defenses and adopt a proactive, adaptive security posture. Dr. Ali Al-Khateeb, a prominent regional cybersecurity consultant, notes, \"What we're seeing is not just opportunistic hacking but a strategic weaponization of cyberspace. Businesses need to invest heavily in threat intelligence, employee training, and resilient backup systems, as the adversaries are well-funded and highly skilled.\" He stresses the imperative for both public and private sectors to collaborate closely, sharing threat indicators and best practices to build a collective defense against these evolving dangers.\n\nThe implications of these escalating cyberattacks extend beyond immediate business disruptions, potentially impacting investor confidence and the UAE's reputation as a secure global business hub. The government, recognizing the gravity of the situation, has reportedly intensified its national cybersecurity efforts, urging companies to bolster their defenses and comply with stringent data protection regulations. As the regional geopolitical landscape remains volatile, the digital battlefield is set to become an enduring front, requiring sustained vigilance and continuous innovation from all stakeholders to safeguard the nation's digital future.",
-    "excerpt": "The United Arab Emirates is experiencing a significant escalation in cyberattacks, with businesses across the nation facing unprecedented disruptions and heightened risks. This surge is closely linked to the ongoing regional tensions, particularly th...",
-    "author": "Economictimes Indiatimes",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-cyberattacks-surge-across-uae-amid-iran-conflict-b-2.jpg",
-    "publishedDate": "2026-04-29 19:10:10",
-    "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/cyberattacks-surge-across-uae-amid-iran-conflict-businesses-face-disruptions-and-rising-risks/articleshow/130616907.cms"
   },
   {
     "_id": "national-india-news-union-minister-dharmendra-pradhan-revie-0",
