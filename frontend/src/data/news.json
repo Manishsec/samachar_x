@@ -1,54 +1,37 @@
 [
   {
-    "_id": "cybersecurity-local-schools-affected-by-canvas-hack-0",
-    "title": "Local schools affected by Canvas hack",
-    "slug": "local-schools-affected-by-canvas-hack",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Both Greeneville and Greene County school districts were affected by a recent cybersecurity incident involving Canvas, a cloud-based digital platform used by classrooms in thousands of schools worldwi",
-    "author": "Greenevillesun",
+    "_id": "cybersecurity-hacker-deadline-looms-as-some-universities-regain--0",
+    "title": "Hacker deadline looms as some universities regain Canvas access",
+    "slug": "hacker-deadline-looms-as-some-universities-regain-",
+    "content": "The University of Tasmania, among others, has begun the arduous process of bringing its Canvas platform back online following a sophisticated cyberattack that crippled access for thousands of students and staff. This critical development unfolds as the deadline imposed by the notorious BlackCat/ALPHV ransomware group approaches, a deadline that typically signals either a ransom payment or the public release of stolen data. The disruption, which first surfaced weeks ago, has profoundly impacted academic activities, including assignment submissions, exam preparations, and access to vital course materials, creating widespread anxiety and uncertainty across the university community.\n\nThe initial breach, attributed to the BlackCat/ALPHV syndicate, targeted a third-party vendor providing services to multiple Australian universities, thereby creating a ripple effect across the sector. This group is known for its aggressive tactics, often exfiltrating sensitive data before encrypting systems and demanding exorbitant ransoms. The looming deadline serves as a high-stakes pressure point, forcing affected institutions to weigh the severe implications of data exposure against the controversial decision of engaging with cybercriminals. The incident highlights the interconnectedness of digital ecosystems and the vulnerability that arises from reliance on external service providers.\n\nWhile the restoration of Canvas access offers a glimmer of hope, it is a meticulously managed process involving extensive security checks and data integrity verifications to prevent further compromise. University officials have been tight-lipped about the specifics of any negotiations or the extent of data exfiltration, consistently emphasizing their commitment to protecting student and staff information. Cybersecurity experts, however, caution that regaining access does not necessarily mean the crisis is over, as the threat of data publication remains potent until the deadline passes without incident or a resolution is publicly confirmed. The ongoing investigation involves federal cybersecurity agencies working in concert with the affected institutions.\n\nCybersecurity analysts underscore that educational institutions have become increasingly attractive targets for ransomware groups due to the wealth of personal data they hold and their critical operational needs. Dr. Eleanor Vance, a leading cybersecurity consultant, noted, \"Universities often possess a trove of sensitive personal, financial, and research data, making them lucrative targets. The decision to pay a ransom is always fraught with ethical and practical dilemmas, as it can embolden attackers while offering no guarantee of data recovery or non-publication.\" She emphasized the long-term imperative for universities to invest significantly in robust cyber defences, incident response plans, and comprehensive staff training.\n\nThe implications of this cyberattack extend far beyond immediate operational disruptions, potentially impacting academic integrity, student privacy, and institutional reputation for years to come. Students face the challenge of catching up on missed coursework and navigating altered deadlines, while faculty must adapt teaching methods in the wake of system outages. Ultimately, this incident serves as a stark reminder of the persistent and evolving threat landscape facing all organizations in the digital age, demanding continuous vigilance and proactive investment in cybersecurity infrastructure.",
+    "excerpt": "Universities across Australia are grappling with a significant cybersecurity incident as some institutions begin to restore access to their critical Canvas learning management systems. This comes amidst a looming deadline set by the cybercriminals re...",
+    "author": "Abc Net",
     "category": {
       "name": "Cybersecurity",
       "slug": "cybersecurity",
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-local-schools-affected-by-canvas-hack-0.jpg",
-    "publishedDate": "2026-05-11 03:30:00",
-    "sourceUrl": "https://www.greenevillesun.com/news/local_news/local-schools-affected-by-canvas-hack/article_3524136c-348f-4a0a-95a8-d49c6b131be8.html"
+    "imageUrl": "/news-images/cybersecurity-hacker-deadline-looms-as-some-universities-regain--0.jpg",
+    "publishedDate": "2026-05-11 06:10:05",
+    "sourceUrl": "https://www.abc.net.au/news/2026-05-11/tas-universities-regain-access-to-canvas-hacker-deadline/106666744"
   },
   {
-    "_id": "cybersecurity-ap-technology-summarybrief-at-118-am-edt-1",
+    "_id": "cybersecurity-ap-technology-summarybrief-at-118-am-edt-2",
     "title": "AP Technology SummaryBrief at 1:18 a.m. EDT",
     "slug": "ap-technology-summarybrief-at-118-am-edt",
     "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The barista is human but an AI agent runs this experimental Swedish cafe STOCKHOLM (AP) -- The coffee might be poured by a human hand, but behind the cou",
-    "author": "Newsbreak",
+    "excerpt": "The barista is human but an AI agent runs this experimental Swedish cafe STOCKHOLM (AP) -- The coffee might be poured by a human hand, but behind the counter something far less traditional is",
+    "author": "Harrisondaily",
     "category": {
       "name": "Cybersecurity",
       "slug": "cybersecurity",
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-ap-technology-summarybrief-at-118-am-edt-1.jpg",
-    "publishedDate": "2026-05-11 00:00:00",
-    "sourceUrl": "https://www.newsbreak.com/baytobaynews-com-1733089/4643462741910-ap-technology-summarybrief-at-1-18-a-m-edt"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-weekly-summary-19-2",
-    "title": "IT Security News Weekly Summary 19",
-    "slug": "it-security-news-weekly-summary-19",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-05-10 20:4 : Two US Men Jailed for Helping North Korean Hackers Infiltrate US Firms 19:32 : Fighting Fire With Fir",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-weekly-summary-19-2.jpg",
-    "publishedDate": "2026-05-10 21:58:24",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-weekly-summary-19-2/"
+    "imageUrl": "/news-images/cybersecurity-ap-technology-summarybrief-at-118-am-edt-2.jpg",
+    "publishedDate": "2026-05-11 05:18:21",
+    "sourceUrl": "http://www.harrisondaily.com/stories/ap-technology-summarybrief-at-118-am-edt,379146"
   },
   {
     "_id": "national-india-news-j-k-ramban-dc-flags-off-maharana-pratap-0",
