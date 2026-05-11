@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-q2-growth-outlook-remains-weak-0",
+    "title": "Q2 growth outlook remains weak",
+    "slug": "q2-growth-outlook-remains-weak",
+    "content": "The nation's economic landscape is bracing for another challenging quarter, with leading economic institutions and private sector analysts projecting a sustained weak growth outlook for Q2 2026. This comes on the heels of a Q1 performance that, while positive, largely underperformed expectations, struggling against a confluence of domestic and international pressures. The Bangko Sentral ng Pilipinas (BSP) and the National Economic and Development Authority (NEDA) have both underscored the need for cautious optimism, acknowledging that the path to robust expansion is fraught with obstacles. Key among these are the lingering effects of high inflation, which continues to erode purchasing power, and the restrictive monetary policy adopted to rein it in, impacting borrowing costs and investment decisions.\n\nThis subdued forecast is deeply rooted in the economic realities of the preceding periods. Throughout late 2025 and into Q1 2026, the economy grappled with persistent inflationary pressures, largely fueled by elevated global commodity prices and supply chain disruptions. In response, the BSP aggressively tightened its monetary policy, hiking interest rates to levels not seen in over a decade, a necessary but growth-constricting measure. While effective in tempering price increases, these higher rates have inevitably dampened consumer spending and business investment, creating a more cautious economic climate. Furthermore, a slowdown in major global economies has translated into reduced export demand and potentially softer remittance inflows, adding external strain to an already fragile domestic picture.\n\nCurrent data points further reinforce the apprehension surrounding Q2. Recent surveys, such as the Purchasing Managers’ Index (PMI), indicate a deceleration in manufacturing activity, with new orders showing signs of softening. Consumer confidence, while not in freefall, remains tempered as households contend with higher living costs and uncertain job prospects. Moreover, the crucial remittances from overseas workers, a significant driver of domestic consumption, are showing mixed signals, with some analysts forecasting a moderation in growth. Government spending, often a counter-cyclical buffer, faces its own budgetary constraints, limiting its capacity for large-scale stimulus without risking fiscal imbalances.\n\nEconomists are largely in agreement regarding the primary drivers of this weak outlook, though some nuances exist. Dr. Elena Santos, Chief Economist at EconAnalytics, emphasized that \"the twin challenges of inflation and high interest rates are creating a significant drag, particularly on small and medium enterprises and household consumption.\" She added that while the BSP’s actions are crucial for long-term stability, their short-term impact on growth is undeniable. Professor David Lim of the National University’s Economic Department highlighted the external dimension, noting that \"a protracted global slowdown, coupled with geopolitical uncertainties, means our export-oriented sectors and foreign direct investment prospects face considerable headwinds.\" Both experts underscore that a swift rebound is unlikely without a significant shift in either domestic price stability or global economic conditions.\n\nThe implications of a persistently weak Q2 growth outlook are far-reaching. Businesses may continue to postpone expansion plans, leading to slower job creation and potentially higher unemployment in certain sectors. Consumers will likely remain conservative with their spending, prioritizing essential goods and services over discretionary purchases. For the government, the challenge lies in navigating a delicate balance: continuing the fight against inflation without stifling economic activity entirely. This might necessitate targeted fiscal interventions or sector-specific support, while the BSP will carefully weigh any future monetary policy adjustments against incoming inflation and growth data, seeking to avoid both over-tightening and premature easing.\n\nLooking ahead, while the immediate prospects for Q2 2026 appear challenging, analysts maintain that the economy possesses underlying resilience, particularly driven by domestic demand and the services sector. However, the path to a stronger recovery hinges critically on several factors: the trajectory of global inflation and commodity prices, the timing of potential interest rate cuts by major central banks, and the effective implementation of structural reforms domestically. Vigilance remains paramount for policymakers as they monitor evolving economic indicators, aiming to steer the nation towards a more sustainable and equitable growth trajectory beyond the immediate headwinds of the second quarter.",
+    "excerpt": "Economic forecasts for the second quarter of 2026 indicate a persistently weak growth outlook for the nation, driven primarily by stubborn inflation, elevated interest rates, and a cautious global economic environment. Analysts and policymakers alike...",
+    "author": "Bworldonline",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-q2-growth-outlook-remains-weak-0.jpg",
+    "publishedDate": "2026-05-10 16:34:17",
+    "sourceUrl": "https://www.bworldonline.com/top-stories/2026/05/11/748611/q2-growth-outlook-remains-weak/"
+  },
+  {
+    "_id": "business-was-awolowo-akintola-crisis-instigated-by-enemies--1",
+    "title": "Was Awolowo, Akintola crisis instigated by enemies?, By Festus Adedayo",
+    "slug": "was-awolowo-akintola-crisis-instigated-by-enemies-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "William Shakespeare, in Othello, warned of the destructive power of envy and manipulation when he wrote: “O, beware, my lord, of jealousy; it is the green-eyed monster which doth mock the meat it feed",
+    "author": "Premiumtimesng",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-was-awolowo-akintola-crisis-instigated-by-enemies--1.jpg",
+    "publishedDate": "2026-05-10 16:33:58",
+    "sourceUrl": "https://www.premiumtimesng.com/opinion/878477-was-awolowo-akintola-crisis-instigated-by-enemies-by-festus-adedayo.html"
+  },
+  {
+    "_id": "business-ph-blockchain-week-2026-marks-shift-from-web3-pote-2",
+    "title": "PH Blockchain Week 2026 marks shift from Web3 potential to real-world deployment",
+    "slug": "ph-blockchain-week-2026-marks-shift-from-web3-pote",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "THE next phase of the digital economy will not be announced after the fact; it will take shape in real time at Philippine Blockchain Week (PBW) 2026 at the SMX Convention Center Manila on June 19 to 2",
+    "author": "Manilatimes",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-ph-blockchain-week-2026-marks-shift-from-web3-pote-2.jpg",
+    "publishedDate": "2026-05-10 16:05:27",
+    "sourceUrl": "https://www.manilatimes.net/2026/05/11/tmt-newswire/ph-blockchain-week-2026-marks-shift-from-web3-potential-to-real-world-deployment/2340142"
+  },
+  {
     "_id": "cybersecurity-trump-administration-weighs-ai-model-oversight-rul-0",
     "title": "Trump administration weighs AI model oversight rules as Anthropic and OpenAI take different approaches to frontier model release",
     "slug": "trump-administration-weighs-ai-model-oversight-rul",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/sports-afghanistans-ali-bilal-wins-new-york-pro-title-2.jpg",
     "publishedDate": "2026-05-09 17:27:00",
     "sourceUrl": "https://www.aopnews.com/afghan-sports-news/afghanistans-ali-bilal-wins-new-york-pro-title/"
-  },
-  {
-    "_id": "business-how-did-the-sikders-get-so-much-from-banks-0",
-    "title": "How did the Sikders get so much from banks?",
-    "slug": "how-did-the-sikders-get-so-much-from-banks",
-    "content": "The question of how the Sikder Group, notably through R&R Holdings, managed to secure an exceptionally large volume of loans from multiple banks has become a focal point of discussion within Bangladesh's financial landscape. Reports indicate that the group's debt portfolio has swelled to staggering figures, prompting concerns among economists, financial analysts, and the general public alike. This unprecedented accumulation of credit has cast a spotlight on the lending methodologies employed by commercial banks and the effectiveness of existing regulatory frameworks designed to prevent over-exposure to single entities or groups.\n\nThe Sikder Group is a diversified conglomerate with interests spanning real estate, power, aviation, and banking, among others. Over recent years, their loan portfolio from various financial institutions has reportedly grown exponentially, often raising eyebrows due to the sheer magnitude and the perceived swiftness of its accumulation. This trend is particularly alarming given the persistent challenges faced by the banking sector in Bangladesh, including a high volume of non-performing loans (NPLs) and allegations of loan irregularities that often involve influential business groups. The context of a banking sector already grappling with stress makes the Sikder Group's extensive borrowing even more conspicuous.\n\nDelving deeper into the mechanics, observers point to several potential avenues that might have facilitated such substantial credit lines. These include questions surrounding the accurate valuation of collateral assets, which often forms the bedrock of large-scale lending. Doubts have also been raised about the rigor of credit risk assessments conducted by banks, suggesting that due diligence might have been compromised or overlooked in some instances. Furthermore, the possibility of political or influential leverage cannot be discounted, as such factors have historically played a role in large loan disbursements within the region, potentially bypassing standard prudential norms.\n\nFinancial experts and former banking executives have voiced significant concerns over the implications of such concentrated lending. They argue that the practice exposes individual banks and the entire financial system to undue risk, especially if a major borrower faces distress. Dr. Ahsan H. Mansur, Executive Director of the Policy Research Institute of Bangladesh, has often highlighted the risks associated with weak corporate governance in banks and the pressure to extend credit to powerful groups, which can erode public trust and financial discipline. Such practices, experts warn, can contribute to systemic instability and divert funds from more productive sectors of the economy.\n\nThe ramifications of this situation extend far beyond the Sikder Group and the lending banks. It underscores a pressing need for more stringent oversight and enforcement of banking regulations by the Bangladesh Bank. The incident prompts a critical re-evaluation of how large loans are sanctioned, monitored, and recovered, and whether existing laws are sufficient to curb potential abuses of power or influence. Transparency in loan disbursements, robust asset valuation mechanisms, and independent credit assessments are crucial to restore confidence and ensure the long-term health of the financial sector.\n\nUltimately, the saga surrounding the Sikder Group's extensive bank loans serves as a stark reminder of the vulnerabilities within the banking system and the continuous challenge of balancing economic growth with prudent financial management. Addressing these issues requires a multi-pronged approach involving stronger regulatory enforcement, enhanced corporate governance within banks, and a commitment to transparency. Without these fundamental reforms, the question of how powerful entities secure such vast sums from public funds will continue to plague the financial landscape and undermine efforts towards sustainable economic development.",
-    "excerpt": "The sheer scale of loans accumulated by the Sikder Group, particularly through its R&R Holdings entity, from various banks has ignited significant public and financial sector scrutiny. This situation raises serious questions about the lending practic...",
-    "author": "Thedailystar",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-how-did-the-sikders-get-so-much-from-banks-0.jpg",
-    "publishedDate": "2026-05-09 17:42:22",
-    "sourceUrl": "https://www.thedailystar.net/business/column/news/how-did-the-sikders-get-so-much-banks-4171626"
-  },
-  {
-    "_id": "business-the-rise-of-the-refreshers-1",
-    "title": "The Rise of The Refreshers",
-    "slug": "the-rise-of-the-refreshers",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Fancy beverages with long names are the hot new trend in fast food.",
-    "author": "Headtopics",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-the-rise-of-the-refreshers-1.jpg",
-    "publishedDate": "2026-05-09 17:06:43",
-    "sourceUrl": "https://us.headtopics.com/news/the-rise-of-the-refreshers-83165893"
-  },
-  {
-    "_id": "business-ai-should-become-mirror-of-human-intelligence-not--2",
-    "title": "AI should become mirror of human intelligence, not substitute for human wisdom",
-    "slug": "ai-should-become-mirror-of-human-intelligence-not-",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Staff Correspondent: Warning against excessive dependence on Artificial Intelligence (AI), Md Shafiqul Alam FCA, FCMA, FCS said that AI should serve as a supporting force for human intellect and profe",
-    "author": "Thebangladeshtoday",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-ai-should-become-mirror-of-human-intelligence-not--2.jpg",
-    "publishedDate": "2026-05-09 17:03:33",
-    "sourceUrl": "https://thebangladeshtoday.com/?p=34142"
   },
   {
     "_id": "national-centre-appoints-vice-admiral-krishna-swaminathan-a-0",
