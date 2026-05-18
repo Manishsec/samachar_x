@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-brain-implants-allow-us-to-move-and-talk-but-they--0",
+    "title": "Brain implants allow us to move and talk. But they could also be hacked",
+    "slug": "brain-implants-allow-us-to-move-and-talk-but-they-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Paralysed people are already using brain-computer interfaces to turn their thoughts into text. But there are risks to this technology.",
+    "author": "Theconversation",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-brain-implants-allow-us-to-move-and-talk-but-they--0.jpg",
+    "publishedDate": "2026-05-18 01:23:09",
+    "sourceUrl": "https://theconversation.com/brain-implants-allow-us-to-move-and-talk-but-they-could-also-be-hacked-281114"
+  },
+  {
+    "_id": "cybersecurity-brain-implants-allow-us-to-move-and-talk-but-they--1",
+    "title": "Brain implants allow us to move and talk. But they could also be hacked",
+    "slug": "brain-implants-allow-us-to-move-and-talk-but-they-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Paralysed people are already using brain-computer interfaces to turn their thoughts into text. But there are risks to this technology.",
+    "author": "Yahoo",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-brain-implants-allow-us-to-move-and-talk-but-they--1.jpg",
+    "publishedDate": "2026-05-18 01:23:09",
+    "sourceUrl": "https://au.news.yahoo.com/brain-implants-allow-us-move-012309854.html"
+  },
+  {
+    "_id": "cybersecurity-bladen-county-schools-no-password-reset-needed-fol-2",
+    "title": "Bladen County Schools: No password reset needed following Canvas breach",
+    "slug": "bladen-county-schools-no-password-reset-needed-fol",
+    "content": "Bladen County Schools issued a reassuring statement this week, confirming that users of its Canvas learning management system are not required to reset their passwords despite a recent data breach. The incident, which has garnered attention from parents and students alike, was traced back to a third-party vendor that provides ancillary services to Canvas users, rather than a direct infiltration of the school district's own Canvas platform or internal networks. This distinction is crucial, as it indicates the breach's scope was limited to specific data types and did not compromise user authentication credentials.\n\nCanvas, a widely adopted learning management system (LMS), serves as a central hub for millions of students and educators globally, facilitating everything from assignment submissions to grade tracking and communication. The reliance on such extensive digital ecosystems often means that vulnerabilities in associated third-party services can inadvertently expose data. This particular incident underscores the growing challenge of supply chain attacks, where cybercriminals target less secure vendors connected to larger, more robust platforms to gain access to valuable information. Educational institutions, holding a wealth of personal data, have increasingly become prime targets for such sophisticated cyber threats.\n\nThe data compromised in the breach was identified as limited student information, specifically names, student identification numbers, and email addresses. Crucially, the district emphasized that no passwords, Social Security numbers, financial data, medical records, or academic grades were accessed by unauthorized parties. Bladen County Schools acted swiftly upon learning of the incident, launching an immediate investigation in collaboration with Canvas and the affected third-party vendor. The prompt communication from the district aimed to alleviate potential panic and provide clear guidance to the community, highlighting the specific nature of the exposed data and the safety of user credentials.\n\nCybersecurity experts generally commend organizations for clear and swift communication in the wake of a breach, particularly when advising on necessary user actions. \"The decision not to require a password reset is significant,\" states Dr. Anya Sharma, a leading cybersecurity analyst specializing in educational technology. \"It indicates that the compromised data did not include login credentials, which is often the most critical element in a breach. However, even with limited data like names and email addresses, the risk of targeted phishing attacks increases. Schools must educate their communities on vigilance against suspicious communications.\" This perspective underscores the nuanced response required for different types of data exposure.\n\nLooking ahead, the implications of such breaches extend beyond immediate data exposure, potentially leading to an uptick in phishing attempts where bad actors leverage the acquired names and email addresses to craft more convincing scams. Bladen County Schools is therefore advising parents and students to remain vigilant against any unsolicited emails or communications that appear suspicious. The district is expected to continue reviewing its cybersecurity protocols, including rigorous assessments of all third-party vendors, to bolster defenses against future threats. This incident serves as a stark reminder of the continuous effort required to maintain digital security in an increasingly interconnected educational landscape.\n\nIn conclusion, while the Bladen County Schools community can take comfort in the fact that their Canvas passwords remain secure, the incident highlights the pervasive and evolving nature of cyber threats. The district's transparent communication and proactive measures are vital in building trust and ensuring the ongoing safety of student data. As digital learning environments continue to expand, the partnership between schools, technology providers, and the community in upholding robust cybersecurity practices will be paramount in safeguarding sensitive information against sophisticated adversaries.",
+    "excerpt": "Bladen County Schools has confirmed that students and faculty using the Canvas learning management system do not need to reset their passwords following a recent data breach. The district clarified that the compromise occurred at a third-party vendor...",
+    "author": "Bladenjournal",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-bladen-county-schools-no-password-reset-needed-fol-2.jpg",
+    "publishedDate": "2026-05-17 23:30:00",
+    "sourceUrl": "https://www.bladenjournal.com/news/112229/bladen-county-schools-no-password-reset-needed-following-canvas-breach"
+  },
+  {
     "_id": "international-washington-has-a-better-hand-in-africa-but-will-it-0",
     "title": "Washington Has A Better Hand In Africa. But Will It Play It Against Beijing?",
     "slug": "washington-has-a-better-hand-in-africa-but-will-it",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/business-trending-startup-ideas-for-2025-where-innovation-m-2.jpg",
     "publishedDate": "2026-05-17 16:23:53",
     "sourceUrl": "https://www.business2business.co.in/article/5523/Trending-startup-ideas-2025"
-  },
-  {
-    "_id": "cybersecurity-anthropics-new-founder-playbook-argues-ai-has-rebo-0",
-    "title": "Anthropic's New Founder Playbook Argues AI Has \"Rebooted\" the Startup Lifecycle — Here's What Holds Up",
-    "slug": "anthropics-new-founder-playbook-argues-ai-has-rebo",
-    "content": "Anthropic, known for its advanced AI models like Claude, has released a comprehensive \"Founder Playbook\" asserting that artificial intelligence has ushered in a new era for startups, effectively \"rebooting\" the entire entrepreneurial lifecycle. The document, drawing on insights from the rapidly evolving AI landscape, argues that foundational shifts in technology are not just improving existing processes but fundamentally altering the blueprint for building successful companies. This re-evaluation calls for entrepreneurs to discard outdated playbooks and embrace a new set of principles tailored to the unique capabilities and challenges presented by generative AI.\n\nThe core premise of Anthropic's argument lies in AI's capacity to dramatically compress the time and resources required for various stages of startup development. Traditionally, the \"idea maze\"—the iterative process of refining a product idea and finding market fit—could take years. However, AI tools now enable rapid prototyping, synthetic data generation, and highly efficient user feedback loops, accelerating this phase considerably. This allows founders to test hypotheses, build minimum viable products, and iterate at unprecedented speeds, significantly shortening the path from concept to commercialization.\n\nFurthermore, the playbook highlights how AI redefines competitive moats and talent acquisition. While traditional startups often relied on network effects or proprietary algorithms, the new paradigm emphasizes data moats—unique, high-quality datasets that continuously train and improve AI models. This shift also means that cybersecurity considerations, often an afterthought in rapid development cycles, must be integrated from the ground up, as AI systems present new attack vectors and data privacy challenges that demand robust, proactive defenses.\n\nIndustry analysts and venture capitalists are largely echoing Anthropic's sentiment, recognizing the profound impact of AI on startup dynamics. Many concur that the speed of innovation now demands a \"security by design\" approach, where safeguarding AI models from adversarial attacks, ensuring data integrity, and protecting intellectual property become paramount from day one. Experts warn that neglecting these aspects in the rush to market can lead to catastrophic data breaches or model compromises, undermining the very foundation of an AI-first company.\n\nThe implications of this \"reboot\" are far-reaching for investors, entrepreneurs, and the broader tech ecosystem. Investment strategies are adapting to prioritize startups demonstrating a deep understanding of AI's unique requirements, including ethical development and robust security frameworks. For founders, success will hinge not just on technological prowess but also on their ability to navigate complex data governance, regulatory compliance, and the constant threat landscape inherent in AI deployment, demanding a new level of vigilance.\n\nUltimately, Anthropic's Founder Playbook serves as a critical guide for navigating the turbulent yet opportunity-rich waters of the AI-driven startup world. While the acceleration offered by AI promises unprecedented growth, it simultaneously amplifies the need for meticulous attention to security, ethical considerations, and sustainable development practices. The future of successful entrepreneurship, therefore, lies in embracing AI's transformative power while rigorously building in resilience and trust from its very core.",
-    "excerpt": "Anthropic, a leading AI research company, has unveiled its \"Founder Playbook,\" positing that artificial intelligence has fundamentally \"rebooted\" the traditional startup lifecycle. The playbook argues that AI is not merely an incremental technology b...",
-    "author": "Techtimes",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-anthropics-new-founder-playbook-argues-ai-has-rebo-0.jpg",
-    "publishedDate": "2026-05-16 20:52:38",
-    "sourceUrl": "https://www.techtimes.com/articles/316740/20260516/anthropics-new-founder-playbook-argues-ai-has-rebooted-startup-lifecycle-heres-what-holds.htm"
-  },
-  {
-    "_id": "cybersecurity-global-student-network-more-vulnerable-after-succe-1",
-    "title": "Global student network more vulnerable after successful system hack - experts",
-    "slug": "global-student-network-more-vulnerable-after-succe",
-    "content": "The breach, discovered by independent security researcher Jeremiah Fowler, involves a massive trove of sensitive personal information. The exposed data includes names, dates of birth, email addresses, phone numbers, passport details, university affiliations, student ID numbers, and physical addresses. Potentially, even passport photos and signatures were accessible. This extensive collection of Personally Identifiable Information (PII) represents a significant risk for the affected individuals, making them prime targets for various malicious activities.\n\nThe compromised database is associated with the International Student Identity Card (ISIC), a globally recognized credential that verifies student status for discounts and services. While the exact number of affected individuals is still being determined, estimates suggest that tens of millions of records, potentially up to 100 million spanning over 15 years, were exposed. The vulnerability stemmed from a misconfigured database that lacked password protection, essentially leaving a vast repository of student data open to the internet for an extended period before its discovery in late May 2024.\n\nCybersecurity experts are sounding the alarm, describing the breach as a catastrophic event for student data security. They emphasize that the types of data exposed — particularly passport details and university information — are invaluable to criminals seeking to commit identity theft or mount highly credible phishing and social engineering attacks. Once this data is in the hands of malicious actors, it can be used for years, making the long-term implications severe. Students are urged to be extremely vigilant, monitor their financial accounts, and be wary of any unsolicited communications that appear to be from their university, ISIC, or other official bodies.\n\nThe immediate aftermath of such a large-scale data exposure includes a heightened risk of targeted scams, where criminals leverage the precise personal details to craft convincing messages designed to extract more information or money. In the long term, the compromised data could facilitate more complex identity fraud, loan applications in students' names, or even be used by state-sponsored actors for intelligence gathering. The Global Student Network (GSN), which operates ISIC, has reportedly secured the database following notification and is conducting an internal investigation, though the scale of the breach presents significant challenges for notifying all affected parties.\n\nThis incident underscores the critical importance of robust data security protocols for any organization handling sensitive personal information, especially those catering to a transient and often digitally native demographic like students. The unique challenge of notifying and protecting individuals who may have moved countries or changed contact details since their data was collected further complicates the response. As the digital landscape continues to evolve, this breach serves as a stark reminder for both organizations to prioritize cybersecurity investments and for individuals to maintain constant vigilance over their personal data and online interactions.",
-    "excerpt": "A significant system hack has rendered the global student network more vulnerable, exposing the personal data of tens of millions of students worldwide. Experts warn that a misconfigured database belonging to the International Student Identity Card (...",
-    "author": "Rnz Co Nz",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-global-student-network-more-vulnerable-after-succe-1.jpg",
-    "publishedDate": "2026-05-16 19:34:13",
-    "sourceUrl": "https://www.rnz.co.nz/news/crime-and-justice/595451/global-student-network-more-vulnerable-after-successful-system-hack-experts"
-  },
-  {
-    "_id": "cybersecurity-canvas-hack-is-it-ever-a-good-idea-to-pay-a-ransom-2",
-    "title": "Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?",
-    "slug": "canvas-hack-is-it-ever-a-good-idea-to-pay-a-ransom",
-    "content": "The digital classrooms and administrative backbone of countless educational institutions have been rocked by the \"Canvas hack,\" a sophisticated cyberattack that has seen personal and academic data compromised. Instructure, the company behind the Canvas learning management system, is grappling with a ransom demand from an unnamed cybercriminal group, following a breach that reportedly exposed a wide array of sensitive user information. This incident has sent ripples of concern across the global education sector, forcing a difficult conversation about the true cost of cyber extortion beyond just the monetary sum demanded.\n\nCanvas, a ubiquitous platform in higher education and K-12 schooling, serves millions of students and educators worldwide, making it an incredibly attractive target for malicious actors. The platform houses everything from student grades and personal identifiers to communication records and potentially even financial data linked to tuition payments. This attack is emblematic of a disturbing trend where cybercriminals increasingly target critical infrastructure, including educational systems, which often possess vast repositories of sensitive data but may lack the robust cybersecurity budgets of large corporations. The allure of a quick payout, coupled with the potential for widespread disruption, makes such institutions prime targets.\n\nDetails emerging from the investigation suggest the attackers leveraged a zero-day vulnerability or a sophisticated phishing campaign to gain initial access, subsequently exfiltrating data before encrypting key systems and issuing their ransom note. While Instructure has remained tight-lipped on the specifics of the compromised data types and the exact ransom figure, internal communications from affected institutions indicate concerns over student names, email addresses, academic progress, and potentially even more sensitive personally identifiable information (PII). The criminals have reportedly set a tight deadline, threatening to leak or sell the data on dark web marketplaces if their demands are not met.\n\nCybersecurity experts and law enforcement agencies generally advise against paying ransoms, arguing that it emboldens criminals and funds future illegal activities without guaranteeing data recovery or deletion. \"Paying ransom is a short-term fix that often leads to long-term problems,\" explains Dr. Anya Sharma, a leading cybersecurity policy analyst. \"There's no honor among thieves; even if you pay, the data might still be sold, or you could be targeted again.\" However, organizations under immense pressure to restore critical services or prevent the public release of highly sensitive data sometimes find themselves in an impossible position, weighing the immediate operational impact against the ethical implications.\n\nThe implications of this breach, whether the ransom is paid or not, are far-reaching. For individuals, the exposure of personal data could lead to increased risks of identity theft, phishing attacks, and other forms of fraud for years to come. Institutions face not only the immediate costs of remediation and potential fines for data privacy violations but also a significant blow to their reputation and the trust of their students and faculty. This incident serves as a stark reminder of the continuous need for robust cybersecurity investments, comprehensive incident response plans, and ongoing user education to mitigate the ever-evolving landscape of cyber threats.\n\nUltimately, the Canvas hack underscores the profound challenge facing modern digital societies in balancing convenience with security. The decision of whether to pay a ransom is a complex one, fraught with moral, financial, and operational considerations, with no easy answers. What remains clear is that regardless of the outcome of this specific negotiation, the stolen data will likely persist in the digital underworld, posing an ongoing threat. This incident reinforces the urgent global imperative for stronger collaborative efforts between governments, law enforcement, and technology companies to dismantle cybercriminal networks and protect the digital fabric upon which our education and daily lives increasingly depend.",
-    "excerpt": "The recent \"Canvas hack\" has thrust a critical dilemma into the spotlight for educational institutions and individuals alike: whether to accede to cybercriminals' ransom demands and what fate truly awaits compromised data. This significant breach of ...",
-    "author": "Theguardiantheguardian",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-canvas-hack-is-it-ever-a-good-idea-to-pay-a-ransom-2.jpg",
-    "publishedDate": "2026-05-16 18:00:16",
-    "sourceUrl": "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid"
   },
   {
     "_id": "national-one-dead-several-injured-in-ecl-coal-mine-collapse-0",
