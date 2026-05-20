@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-05-19-0",
+    "title": "IT Security News Daily Summary 2026-05-19",
+    "slug": "it-security-news-daily-summary-2026-05-19",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "158 posts were published in the last hour 21:34 : AI Agent Security: Automating Workflow Without Creating Prompt Injection or Data Leak Risks 21:34 : From teen hacker to Iron Dome researcher, this fou",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-05-19-0.jpg",
+    "publishedDate": "2026-05-19 21:55:18",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-05-19/"
+  },
+  {
+    "_id": "cybersecurity-from-teen-hacker-to-iron-dome-researcher-founder-r-1",
+    "title": "From teen hacker to Iron Dome researcher: founder raises $28M to build AI-powered email security platform",
+    "slug": "from-teen-hacker-to-iron-dome-researcher-founder-r",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "BitcoinWorld From teen hacker to Iron Dome researcher: founder raises $28M to build AI-powered email security platform Shay Shwartz knows email phishing from both sides. As a teenager, he made money a",
+    "author": "Bitcoinworld",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-from-teen-hacker-to-iron-dome-researcher-founder-r-1.jpg",
+    "publishedDate": "2026-05-19 21:35:11",
+    "sourceUrl": "https://bitcoinworld.co.in/ocean-ai-email-security-funding/"
+  },
+  {
+    "_id": "cybersecurity-github-token-exposure-at-grafana-triggered-codebas-2",
+    "title": "GitHub Token Exposure at Grafana Triggered Codebase Theft Incident",
+    "slug": "github-token-exposure-at-grafana-triggered-codebas",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Following the acquisition of a privileged GitHub token tied to Grafana Labs’ development environment, a threat actor quickly escalated the initial credential exposure into a significant source code se",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-github-token-exposure-at-grafana-triggered-codebas-2.jpg",
+    "publishedDate": "2026-05-19 12:32:14",
+    "sourceUrl": "https://www.itsecuritynews.info/github-token-exposure-at-grafana-triggered-codebase-theft-incident/"
+  },
+  {
     "_id": "national-whatsapp-web-down-multiple-users-report-service-di-0",
     "title": "WhatsApp Web down? Multiple users report service disruption, unexpected jumps to Facebook",
     "slug": "whatsapp-web-down-multiple-users-report-service-di",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/business-education-and-youth-affairs-as-explored-by-some-de-2.jpg",
     "publishedDate": "2026-05-19 16:31:00",
     "sourceUrl": "https://www.washingtoninformer.com/youth-engagement-education-policy/"
-  },
-  {
-    "_id": "cybersecurity-poland-ditches-signal-for-homegrown-mszyfr-as-euro-0",
-    "title": "Poland Ditches Signal for Homegrown mSzyfr as Europe Rejects U.S. Messaging Apps",
-    "slug": "poland-ditches-signal-for-homegrown-mszyfr-as-euro",
-    "content": "The Polish government's decision to transition its sensitive communications from Signal to the internally developed mSzyfr application marks a significant pivot in its cybersecurity strategy. This strategic shift is driven by deep-seated concerns over the jurisdictional reach of American laws, such as the CLOUD Act and FISA Section 702, which can compel U.S. tech companies to provide data to American authorities regardless of where that data is physically stored. For Warsaw, ensuring the absolute confidentiality and integrity of state communications necessitates a platform free from potential foreign oversight, making a homegrown solution a critical national security imperative.\n\nThis move by Poland is not an isolated incident but rather a prominent example of a wider European trend towards digital sovereignty and a rejection of reliance on U.S. messaging infrastructure. Following rulings like Schrems II, which invalidated the EU-U.S. Privacy Shield, European nations have intensified efforts to safeguard their data and communications from foreign access. The inherent risks associated with data transiting or residing on servers subject to non-EU legal frameworks have become a major point of contention, spurring governments to seek alternatives that offer greater control and guaranteed privacy.\n\nmSzyfr, developed by the Polish National Centre for Cryptology, is designed to meet the rigorous security demands of government agencies and critical infrastructure operators. The application boasts advanced end-to-end encryption protocols and robust metadata protection, ensuring that not only message content but also communication patterns remain secure and private. Its development signifies Poland's commitment to fostering domestic technological capabilities and reducing its digital dependency on external providers, mirroring similar initiatives in other European countries like France, which has developed its own secure messenger, Olvid, for official use.\n\nCybersecurity experts widely commend Poland's initiative as a prudent measure to bolster national security and enhance data sovereignty. Dr. Elara Vance, a specialist in European cybersecurity policy, notes that \"governments have a fundamental responsibility to protect sensitive information, and relying on platforms subject to foreign legal frameworks introduces an unacceptable level of risk.\" While acknowledging the significant investment and technical challenges involved in developing and maintaining such a system, experts agree that the strategic benefits of a fully controlled communication channel far outweigh the complexities, providing a crucial layer of defense against espionage and data breaches.\n\nThe implications of Poland's embrace of mSzyfr extend beyond its borders, potentially setting a precedent for other nations grappling with similar concerns. This shift could accelerate the fragmentation of the digital communication landscape, challenging the dominance of global tech giants and fostering the growth of localized, sovereign solutions. However, it also presents challenges related to interoperability between different national systems and the continuous need for rigorous security audits and updates for homegrown applications. Ultimately, Poland's move underscores a fundamental re-evaluation of trust in the digital age, prioritizing national control over convenience in the realm of critical communications.",
-    "excerpt": "Poland has taken a decisive step towards digital sovereignty, replacing the popular U.S.-based encrypted messaging app Signal with its own homegrown solution, mSzyfr, for government communications. This move underscores a growing trend across Europe ...",
-    "author": "Webpronews",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-poland-ditches-signal-for-homegrown-mszyfr-as-euro-0.jpg",
-    "publishedDate": "2026-05-18 22:00:09",
-    "sourceUrl": "https://www.webpronews.com/poland-ditches-signal-for-homegrown-mszyfr-as-europe-rejects-u-s-messaging-apps/"
-  },
-  {
-    "_id": "cybersecurity-nasa-sent-a-thank-you-letter-to-a-hacker-and-it-sa-1",
-    "title": "NASA sent a thank-you letter to a hacker, and it says everything about where cybersecurity is headed",
-    "slug": "nasa-sent-a-thank-you-letter-to-a-hacker-and-it-sa",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The future of cybersecurity belongs to organizations willing to treat vulnerability discovery as collaboration, not confrontation. The post NASA sent a thank-you letter to a hacker, and it says everyt",
-    "author": "Dmnews",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-nasa-sent-a-thank-you-letter-to-a-hacker-and-it-sa-1.jpg",
-    "publishedDate": "2026-05-18 15:00:59",
-    "sourceUrl": "https://dmnews.com/nasa-sent-a-thank-you-letter-to-a-hacker-and-it-says-everything-about-where-cybersecurity-is-headed/"
-  },
-  {
-    "_id": "cybersecurity-cybercriminal-twins-caught-after-they-forgot-to-tu-2",
-    "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-    "slug": "cybercriminal-twins-caught-after-they-forgot-to-tu",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
-    "author": "Headtopics",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-cybercriminal-twins-caught-after-they-forgot-to-tu-2.jpg",
-    "publishedDate": "2026-05-18 06:35:26",
-    "sourceUrl": "https://us.headtopics.com/news/cybercriminal-twins-caught-after-they-forgot-to-turn-off-83473601"
   },
   {
     "_id": "technology-cathie-woods-5-biggest-ai-and-data-center-stock-pi-0",
