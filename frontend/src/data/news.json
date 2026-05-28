@@ -1,5 +1,56 @@
 [
   {
+    "_id": "sports-what-are-all-the-sports-0",
+    "title": "What are all the sports",
+    "slug": "what-are-all-the-sports",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The world of sports is a vibrant, diverse, and ever-expanding tapestry of human physical and mental endeavor. Far from being a monolithic entity, ‘sports’ encompasses a staggering array of activities,",
+    "author": "Flefllynews",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-what-are-all-the-sports-0.jpg",
+    "publishedDate": "2026-05-27 18:33:02",
+    "sourceUrl": "https://flefllynews.com/what-are-all-the-sports/"
+  },
+  {
+    "_id": "sports-ed-seizes-rs-156-crore-freezes-rs-38-crore-in-pari-1",
+    "title": "ED seizes Rs 1.56 crore, freezes Rs 3.8 crore in Parimatch illegal betting probe",
+    "slug": "ed-seizes-rs-156-crore-freezes-rs-38-crore-in-pari",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "New Delhi [India], May 27 (ANI): The Enforcement Directorate (ED) has seized movable assets worth Rs 1.56 crore, including cash of approximately Rs 1.2 crore, and frozen funds amounting to Rs 3.8 cror",
+    "author": "Vancouverstar",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-ed-seizes-rs-156-crore-freezes-rs-38-crore-in-pari-1.jpg",
+    "publishedDate": "2026-05-27 18:32:40",
+    "sourceUrl": "http://vancouverstar.com/news/279080380/ed-seizes-rs-156-crore-freezes-rs-38-crore-in-parimatch-illegal-betting-probe"
+  },
+  {
+    "_id": "sports-parimatch-betting-case-ed-seizes-rs-156-crore-asse-2",
+    "title": "Parimatch betting case: ED seizes Rs 1.56 crore assets, freezes funds",
+    "slug": "parimatch-betting-case-ed-seizes-rs-156-crore-asse",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The ED has seized movable assets worth Rs 1.56 crore and frozen funds worth Rs 3.8 crore in a money laundering probe against the Cyprus-based illegal online betting platform Parimatch. Raids were cond",
+    "author": "Newsable Asianetnews",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-parimatch-betting-case-ed-seizes-rs-156-crore-asse-2.jpg",
+    "publishedDate": "2026-05-27 17:00:31",
+    "sourceUrl": "https://newsable.asianetnews.com/india/parimatch-betting-case-ed-seizes-rs-156-crore-assets-freezes-funds-articleshow-7dmymtg"
+  },
+  {
     "_id": "business-africa-intelligence-brief-wednesday-may-27-2026-0",
     "title": "Africa Intelligence Brief — Wednesday, May 27, 2026",
     "slug": "africa-intelligence-brief-wednesday-may-27-2026",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/entertainment-randeep-hoodas-inspector-avinash-to-not-have-seaso-2.jpg",
     "publishedDate": "2026-05-26 18:54:38",
     "sourceUrl": "https://www.timesnownews.com/entertainment-news/bollywood/randeep-hooda-inspector-avinash-to-not-have-season-3-director-neerraj-pathak-drops-filmy-surprise-article-154404241"
-  },
-  {
-    "_id": "sports-mboko-cruises-into-second-round-at-french-open-sha-0",
-    "title": "Mboko cruises into second round at French Open, Shapovalov eliminated",
-    "slug": "mboko-cruises-into-second-round-at-french-open-sha",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "PARIS — Canada's Victoria Mboko had little trouble advancing to the second round of the French Open, defeating Czechia's Nikola Bartunkova 6-1, 6-2 in her opening match Tuesday. Mboko, coming off an a",
-    "author": "Castanet",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-mboko-cruises-into-second-round-at-french-open-sha-0.jpg",
-    "publishedDate": "2026-05-26 18:22:26",
-    "sourceUrl": "https://www.castanet.net/news/Sports/616329/Mboko-cruises-into-second-round-at-French-Open-Shapovalov-eliminated"
-  },
-  {
-    "_id": "sports-shapovalov-eliminated-from-french-open-after-first-1",
-    "title": "Shapovalov eliminated from French Open after first-round loss to Faria",
-    "slug": "shapovalov-eliminated-from-french-open-after-first",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "PARIS â€” Canada's Denis Shapovalov is out of the French Open after a 6-4, 7-5, 6-4 loss to Portuguese qualifier Jaime Faria in first-round action Tuesday. Faria scored a key break to go up 6-5 in th",
-    "author": "Kamloopsthisweek",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-shapovalov-eliminated-from-french-open-after-first-1.jpg",
-    "publishedDate": "2026-05-26 18:22:26",
-    "sourceUrl": "https://www.castanet.net/news/Sports/616329/Shapovalov-eliminated-from-French-Open-after-first-round-loss-to-Faria"
-  },
-  {
-    "_id": "sports-hopes-river-trent-can-rival-the-thames-through-pla-2",
-    "title": "Hopes River Trent can rival the Thames through plans for ‘world-renowned’ Sports District",
-    "slug": "hopes-river-trent-can-rival-the-thames-through-pla",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Leaders want to model the area on the revitalised Bramley Moore dock in Liverpool, where Everton's new football stadium stands",
-    "author": "Nottinghampost",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-hopes-river-trent-can-rival-the-thames-through-pla-2.jpg",
-    "publishedDate": "2026-05-26 16:54:56",
-    "sourceUrl": "https://www.nottinghampost.com/news/nottingham-news/hopes-river-trent-can-rival-10984376"
   },
   {
     "_id": "technology-cathie-woods-5-biggest-ai-and-data-center-stock-pi-0",
