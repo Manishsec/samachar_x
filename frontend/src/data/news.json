@@ -1,10 +1,27 @@
 [
   {
-    "_id": "cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-0",
+    "_id": "cybersecurity-healthcare-data-breach-statistics-updated-for-2026-0",
+    "title": "Healthcare Data Breach Statistics – Updated for 2026",
+    "slug": "healthcare-data-breach-statistics-updated-for-2026",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [...] The post Healthcare Data Breach Statistics – Updated for 2026",
+    "author": "Hipaajournal",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-healthcare-data-breach-statistics-updated-for-2026-0.jpg",
+    "publishedDate": "2026-06-04 06:30:48",
+    "sourceUrl": "https://www.hipaajournal.com/healthcare-data-breach-statistics/"
+  },
+  {
+    "_id": "cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-1",
     "title": "Kaspersky Reveals Credential Abuse Techniques Rank as Attackers’ Most Effective Tactic",
     "slug": "kaspersky-reveals-credential-abuse-techniques-rank",
-    "content": "Kaspersky, a global leader in cybersecurity, has spotlighted credential abuse as the single most effective tactic employed by malicious actors in their recent findings. This revelation signifies a profound evolution in the threat landscape, where attackers prioritize gaining access through valid user accounts rather than expending resources on discovering and exploiting complex technical flaws. The efficacy of these techniques stems from their ability to bypass traditional perimeter defenses, allowing adversaries to move stealthily within networks, escalate privileges, and ultimately achieve their objectives, whether data exfiltration, system disruption, or ransomware deployment.\n\nCredential abuse encompasses a wide array of methods, including sophisticated phishing campaigns designed to trick users into divulging login details, brute-force attacks against weak passwords, and the acquisition of credentials from previous data breaches or dark web marketplaces. Once obtained, these credentials provide a seemingly legitimate entry point, making detection significantly more challenging. Attackers can then impersonate authorized users, navigate internal systems, and access sensitive data without triggering immediate alarms that might accompany more overt intrusion attempts. This reliance on compromised identities highlights a persistent vulnerability at the intersection of human behavior and technological security.\n\nThe success of credential abuse is further amplified by the widespread adoption of cloud services and remote work models, which have expanded the attack surface and increased the reliance on user identities for access control. Many organizations, while investing heavily in network security, often overlook the foundational importance of robust identity and access management (IAM) policies and consistent employee training. This oversight creates fertile ground for attackers, who are continuously refining their social engineering tactics and leveraging automated tools to test and exploit compromised credentials at scale, turning a single weak link into a gateway for significant breaches.\n\nCybersecurity experts universally agree that the findings from Kaspersky serve as a stark reminder of the urgent need for a multi-layered defense strategy centered on identity protection. Implementing multi-factor authentication (MFA) across all critical systems is paramount, significantly reducing the impact of stolen passwords. Furthermore, regular employee education on recognizing phishing attempts, enforcing strong password policies, and adopting a \"least privilege\" access model are crucial steps. Organizations must also invest in advanced threat detection tools capable of identifying anomalous login patterns and lateral movement that could signal a credential compromise, shifting from a prevention-only mindset to one that emphasizes rapid detection and response.\n\nThe continued prevalence and effectiveness of credential abuse techniques necessitate a fundamental re-evaluation of cybersecurity priorities for businesses and government entities alike. It underscores that the human factor remains both the strongest and weakest link in the security chain. Moving forward, a holistic approach combining robust technological safeguards, continuous security awareness training, and proactive incident response planning will be essential to mitigate this pervasive threat. The battle against cybercriminals increasingly hinges on protecting identities and ensuring that legitimate access remains in legitimate hands, adapting security postures to match the evolving sophistication of attackers.",
-    "excerpt": "Kaspersky's latest analysis reveals that credential abuse techniques have become the most potent weapon in attackers' arsenals, proving more effective than direct software exploits or zero-day vulnerabilities. This alarming trend underscores a critic...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "According to a recent global report by Kaspersky Security Services, password guessing and valid account misuse rank among the most effective tactics used by cyber criminals in 2025. This trend reflect",
     "author": "Nigeriacommunicationsweek",
     "category": {
       "name": "Cybersecurity",
@@ -12,12 +29,12 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-0.jpg",
+    "imageUrl": "/news-images/cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-1.jpg",
     "publishedDate": "2026-06-03 23:03:23",
     "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/kaspersky-reveals-credential-abuse-techniques-rank-as-attackers-most-effective-tactic/"
   },
   {
-    "_id": "cybersecurity-federal-cyber-resilience-requires-containing-the-c-1",
+    "_id": "cybersecurity-federal-cyber-resilience-requires-containing-the-c-2",
     "title": "Federal cyber resilience requires containing the core, not adding more tools",
     "slug": "federal-cyber-resilience-requires-containing-the-c",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-federal-cyber-resilience-requires-containing-the-c-1.jpg",
+    "imageUrl": "/news-images/cybersecurity-federal-cyber-resilience-requires-containing-the-c-2.jpg",
     "publishedDate": "2026-06-03 21:02:22",
     "sourceUrl": "https://federalnewsnetwork.com/commentary/2026/06/federal-cyber-resilience-requires-containing-the-core-not-adding-more-tools/"
-  },
-  {
-    "_id": "cybersecurity-iit-roorkee-admits-flaws-in-cloud-storage-linked-t-2",
-    "title": "IIT Roorkee admits flaws in cloud storage linked to JEE Advanced results portal after teen's discovery",
-    "slug": "iit-roorkee-admits-flaws-in-cloud-storage-linked-t",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "IIT Roorkee has acknowledged a cloud storage configuration issue linked to the JEE (Advanced) 2026 results infrastructure after a teenage cybersecurity researcher claimed that personal and examination",
-    "author": "Deccanherald",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-iit-roorkee-admits-flaws-in-cloud-storage-linked-t-2.jpg",
-    "publishedDate": "2026-06-03 16:38:24",
-    "sourceUrl": "https://www.deccanherald.com/india/iit-roorkee-admits-flaws-in-cloud-storage-linked-to-jee-advanced-results-portal-after-teens-discovery-4026466"
   },
   {
     "_id": "national-us-says-no-naval-vessel-was-hit-in-sea-of-oman-acc-0",
