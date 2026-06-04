@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-0",
+    "title": "Kaspersky Reveals Credential Abuse Techniques Rank as Attackers’ Most Effective Tactic",
+    "slug": "kaspersky-reveals-credential-abuse-techniques-rank",
+    "content": "Kaspersky, a global leader in cybersecurity, has spotlighted credential abuse as the single most effective tactic employed by malicious actors in their recent findings. This revelation signifies a profound evolution in the threat landscape, where attackers prioritize gaining access through valid user accounts rather than expending resources on discovering and exploiting complex technical flaws. The efficacy of these techniques stems from their ability to bypass traditional perimeter defenses, allowing adversaries to move stealthily within networks, escalate privileges, and ultimately achieve their objectives, whether data exfiltration, system disruption, or ransomware deployment.\n\nCredential abuse encompasses a wide array of methods, including sophisticated phishing campaigns designed to trick users into divulging login details, brute-force attacks against weak passwords, and the acquisition of credentials from previous data breaches or dark web marketplaces. Once obtained, these credentials provide a seemingly legitimate entry point, making detection significantly more challenging. Attackers can then impersonate authorized users, navigate internal systems, and access sensitive data without triggering immediate alarms that might accompany more overt intrusion attempts. This reliance on compromised identities highlights a persistent vulnerability at the intersection of human behavior and technological security.\n\nThe success of credential abuse is further amplified by the widespread adoption of cloud services and remote work models, which have expanded the attack surface and increased the reliance on user identities for access control. Many organizations, while investing heavily in network security, often overlook the foundational importance of robust identity and access management (IAM) policies and consistent employee training. This oversight creates fertile ground for attackers, who are continuously refining their social engineering tactics and leveraging automated tools to test and exploit compromised credentials at scale, turning a single weak link into a gateway for significant breaches.\n\nCybersecurity experts universally agree that the findings from Kaspersky serve as a stark reminder of the urgent need for a multi-layered defense strategy centered on identity protection. Implementing multi-factor authentication (MFA) across all critical systems is paramount, significantly reducing the impact of stolen passwords. Furthermore, regular employee education on recognizing phishing attempts, enforcing strong password policies, and adopting a \"least privilege\" access model are crucial steps. Organizations must also invest in advanced threat detection tools capable of identifying anomalous login patterns and lateral movement that could signal a credential compromise, shifting from a prevention-only mindset to one that emphasizes rapid detection and response.\n\nThe continued prevalence and effectiveness of credential abuse techniques necessitate a fundamental re-evaluation of cybersecurity priorities for businesses and government entities alike. It underscores that the human factor remains both the strongest and weakest link in the security chain. Moving forward, a holistic approach combining robust technological safeguards, continuous security awareness training, and proactive incident response planning will be essential to mitigate this pervasive threat. The battle against cybercriminals increasingly hinges on protecting identities and ensuring that legitimate access remains in legitimate hands, adapting security postures to match the evolving sophistication of attackers.",
+    "excerpt": "Kaspersky's latest analysis reveals that credential abuse techniques have become the most potent weapon in attackers' arsenals, proving more effective than direct software exploits or zero-day vulnerabilities. This alarming trend underscores a critic...",
+    "author": "Nigeriacommunicationsweek",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-0.jpg",
+    "publishedDate": "2026-06-03 23:03:23",
+    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/kaspersky-reveals-credential-abuse-techniques-rank-as-attackers-most-effective-tactic/"
+  },
+  {
+    "_id": "cybersecurity-federal-cyber-resilience-requires-containing-the-c-1",
+    "title": "Federal cyber resilience requires containing the core, not adding more tools",
+    "slug": "federal-cyber-resilience-requires-containing-the-c",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Once an adversary gets inside the network, the problem is no longer prevention; it’s limiting lateral movement and the scope of disruption.",
+    "author": "Federalnewsnetwork",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-federal-cyber-resilience-requires-containing-the-c-1.jpg",
+    "publishedDate": "2026-06-03 21:02:22",
+    "sourceUrl": "https://federalnewsnetwork.com/commentary/2026/06/federal-cyber-resilience-requires-containing-the-core-not-adding-more-tools/"
+  },
+  {
+    "_id": "cybersecurity-iit-roorkee-admits-flaws-in-cloud-storage-linked-t-2",
+    "title": "IIT Roorkee admits flaws in cloud storage linked to JEE Advanced results portal after teen's discovery",
+    "slug": "iit-roorkee-admits-flaws-in-cloud-storage-linked-t",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "IIT Roorkee has acknowledged a cloud storage configuration issue linked to the JEE (Advanced) 2026 results infrastructure after a teenage cybersecurity researcher claimed that personal and examination",
+    "author": "Deccanherald",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-iit-roorkee-admits-flaws-in-cloud-storage-linked-t-2.jpg",
+    "publishedDate": "2026-06-03 16:38:24",
+    "sourceUrl": "https://www.deccanherald.com/india/iit-roorkee-admits-flaws-in-cloud-storage-linked-to-jee-advanced-results-portal-after-teens-discovery-4026466"
+  },
+  {
     "_id": "national-us-says-no-naval-vessel-was-hit-in-sea-of-oman-acc-0",
     "title": "US says no naval vessel was hit in Sea of Oman, accuses Iran of 'lying'",
     "slug": "us-says-no-naval-vessel-was-hit-in-sea-of-oman-acc",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/business-cambodia-chairs-35th-asean-customs-directors-gener-2.jpg",
     "publishedDate": "2026-06-03 17:17:20",
     "sourceUrl": "https://www.khmertimeskh.com/501912361/cambodia-chairs-35th-asean-customs-directors-general-meeting/"
-  },
-  {
-    "_id": "cybersecurity-indias-msmes-are-entering-ai-era-uninsured-not-awa-0",
-    "title": "India’s MSMEs are entering AI era uninsured; not aware of cyberinsurance",
-    "slug": "indias-msmes-are-entering-ai-era-uninsured-not-awa",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "For India’s small businesses, digitisation arrived much faster than preparedness. Over the last few years, kirana stores adopted QR payments. Small manufacturers shifted to cloud accounting. Local ret",
-    "author": "Probusinsurance",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-indias-msmes-are-entering-ai-era-uninsured-not-awa-0.jpg",
-    "publishedDate": "2026-06-03 07:20:30",
-    "sourceUrl": "https://www.probusinsurance.com/probus-in-news/indias-msmes-are-entering-ai-era-uninsured-not-aware-of-cyberinsurance/"
-  },
-  {
-    "_id": "cybersecurity-inec-probes-claims-of-leaked-voter-data-from-cvr-s-1",
-    "title": "INEC Probes Claims of Leaked Voter Data from CVR System",
-    "slug": "inec-probes-claims-of-leaked-voter-data-from-cvr-s",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Independent National Electoral Commission (INEC) has started looking into reports of unauthorized access to its Continuous Voter Registration (CVR) database, according to Mohammed Kudu Haruna, nationa",
-    "author": "Nigeriacommunicationsweek",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-inec-probes-claims-of-leaked-voter-data-from-cvr-s-1.jpg",
-    "publishedDate": "2026-06-02 23:05:10",
-    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/inec-probes-claims-of-leaked-voter-data-from-cvr-system/"
-  },
-  {
-    "_id": "cybersecurity-firm-warns-of-attackers-using-text-symbols-to-form-2",
-    "title": "Firm Warns of Attackers Using Text Symbols to Form Malicious QR Codes",
-    "slug": "firm-warns-of-attackers-using-text-symbols-to-form",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "QR codes embedded in emails have long been a tool for phishing and scams, and back in the second half of 2025 there was a fivefold surge in QR phishing attacks detected by Kaspersky. Now Kaspersky res",
-    "author": "Nigeriacommunicationsweek",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-firm-warns-of-attackers-using-text-symbols-to-form-2.jpg",
-    "publishedDate": "2026-06-02 23:03:10",
-    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/firm-warns-of-attackers-using-text-symbols-to-form-malicious-qr-codes/"
   },
   {
     "_id": "technology-cathie-woods-5-biggest-ai-and-data-center-stock-pi-0",
