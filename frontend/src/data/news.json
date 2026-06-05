@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-fg-seeks-inclusive-human-centred-artificial-intell-0",
+    "title": "FG Seeks Inclusive, Human-centred Artificial Intelligence Policies",
+    "slug": "fg-seeks-inclusive-human-centred-artificial-intell",
+    "content": "The Federal Government, through the Ministry of Communications, Innovation & Digital Economy, has intensified its advocacy for the formulation of Artificial Intelligence policies that prioritize inclusivity and human well-being. This significant push reflects a proactive stance to guide the integration of AI technologies across various sectors, ensuring they align with national development goals and ethical standards. Dr. Bosun Tijani, the Minister of Communications, Innovation & Digital Economy, has been a key voice in this discourse, highlighting the imperative for a robust policy framework that can navigate the complexities and opportunities presented by AI. The government's vision is to foster an environment where AI serves as an enabler for economic growth, innovation, and improved public services, without compromising societal values or individual rights.\n\nThis call comes at a pivotal time as AI rapidly reshapes global economies and societies, presenting both immense opportunities and significant challenges. The Nigerian government recognizes the dual nature of AI – its potential to revolutionize industries, enhance productivity, and solve complex problems, alongside risks such as job displacement, algorithmic bias, privacy breaches, and cybersecurity vulnerabilities. By seeking inclusive and human-centred policies, Nigeria aims to mitigate these risks proactively, learning from global experiences and adapting best practices to its unique socio-economic context. This approach is intrinsically linked to the National Digital Economy Policy and Strategy (NDEPS), which seeks to leverage digital technologies for sustainable national development, ensuring that AI contributes positively to this overarching vision.\n\nDefining \"inclusive\" and \"human-centred\" in the context of AI policies involves several critical dimensions. Inclusivity demands that AI systems are developed and deployed in a manner that benefits all segments of society, addresses existing inequalities, and ensures participation from diverse stakeholders, including marginalized groups. Human-centredness, conversely, implies prioritizing human autonomy, dignity, and rights in the design, development, and deployment of AI technologies. This includes robust provisions for data privacy, algorithmic transparency, accountability mechanisms for AI-driven decisions, and safeguards against discrimination or manipulation. Such policies would necessitate extensive collaboration between government, academia, industry, and civil society to create a comprehensive and adaptable regulatory ecosystem.\n\nExperts within Nigeria's burgeoning tech ecosystem have largely welcomed the government's proactive stance. Dr. Nkechi Okoro, a leading AI ethicist and professor at the University of Lagos, commended the emphasis on human-centred policies, noting that \"it's crucial to embed ethical considerations from the very foundation of our AI strategy, rather than as an afterthought.\" She stressed the importance of capacity building and public awareness campaigns to ensure that citizens understand their rights and the implications of AI. Other stakeholders have highlighted the need for concrete legislative actions and the establishment of an independent body to oversee AI policy implementation, ensuring compliance and fostering trust in AI systems. The consensus is that a balanced approach is essential to harness AI's benefits while safeguarding against its potential pitfalls.\n\nThe implications of adopting inclusive and human-centred AI policies for Nigeria are far-reaching. Such a framework could position the nation as a responsible leader in AI development on the African continent, attracting foreign investment and fostering local innovation. It would also create a more secure and equitable digital landscape, where citizens can engage with AI technologies confidently, knowing their rights are protected. Looking ahead, the government is expected to engage in multi-stakeholder consultations, potentially leading to the drafting of specific legislation or the establishment of a national AI strategy document. This will likely involve investing in research and development, promoting digital literacy, and fostering international partnerships to stay abreast of global AI advancements and ethical standards.\n\nUltimately, the federal government's pursuit of inclusive and human-centred AI policies signifies a deliberate effort to shape a future where technology serves humanity responsibly. By prioritizing ethical considerations, data protection, and equitable access, Nigeria aims to harness the transformative power of Artificial Intelligence to drive sustainable development, enhance public services, and create new economic opportunities for all its citizens. This foundational approach is critical for building public trust and ensuring that the digital revolution truly benefits every Nigerian, fostering an environment of innovation that is both dynamic and ethically sound.",
+    "excerpt": "Nigeria's federal government is championing the development of Artificial Intelligence policies that are both inclusive and human-centred, aiming to harness AI's transformative potential while safeguarding ethical considerations. This strategic move ...",
+    "author": "Nigeriacommunicationsweek",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-fg-seeks-inclusive-human-centred-artificial-intell-0.jpg",
+    "publishedDate": "2026-06-04 23:03:54",
+    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/fg-seeks-inclusive-human-centred-artificial-intelligence-policies/"
+  },
+  {
+    "_id": "cybersecurity-it-security-news-daily-summary-2026-06-04-1",
+    "title": "IT Security News Daily Summary 2026-06-04",
+    "slug": "it-security-news-daily-summary-2026-06-04",
+    "content": "The cybersecurity world today, June 4, 2026, grapples with an escalating threat environment, as highlighted in the latest daily summary from IT Security News. A primary concern revolves around a newly identified, highly evasive ransomware variant dubbed \"ChronoLock,\" which has demonstrated alarming success in bypassing advanced endpoint detection systems. This development comes amidst heightened alert levels following a series of suspected state-sponsored cyber intrusions targeting critical infrastructure providers across Europe and North America. The convergence of sophisticated malware and geopolitical motivations underscores a pervasive and dynamic risk landscape for organizations worldwide.\n\nThe emergence of ChronoLock is particularly troubling, given its observed use of advanced polymorphic code and AI-driven evasion techniques, making it notoriously difficult to signature and block. Security researchers at CypherGuard Labs first reported its unique capabilities, noting its ability to adapt its attack vectors in real-time based on network defenses. This represents a significant leap from previous ransomware strains, necessitating a re-evaluation of current defensive postures. Concurrently, the ongoing cyber skirmishes linked to geopolitical rivalries have seen nation-state actors increasingly target supply chains, aiming to compromise a broader range of downstream organizations through a single initial breach point.\n\nOne prominent incident under investigation involves \"Project Chimera,\" a suspected state-sponsored campaign that has exploited zero-day vulnerabilities in widely used enterprise resource planning (ERP) software. Initial reports indicate several high-profile defense contractors and a major logistics firm have been impacted, leading to potential data exfiltration and disruption of services. This campaign exemplifies the growing trend of sophisticated threat actors patiently targeting software providers to gain deep, persistent access into their client networks. Furthermore, the daily summary noted a significant spike in credential stuffing attacks against cloud-based services, suggesting a renewed focus by criminal enterprises on exploiting user complacency regarding strong authentication.\n\n\"The line between nation-state capabilities and advanced criminal enterprises is blurring, especially with the commoditization of AI-powered attack tools,\" stated Dr. Lena Petrova, Chief Security Strategist at Sentinel Cyber Solutions. She emphasized that organizations must move beyond reactive defenses, focusing instead on proactive threat hunting and robust incident response frameworks. \"It's no longer just about preventing the breach, but minimizing its impact and ensuring rapid recovery,\" Dr. Petrova added, urging a shift towards a 'assume breach' mentality. Other experts echoed concerns about the inadequate patching cycles within many organizations, which continue to leave critical systems vulnerable to known exploits.\n\nThe implications of these daily threats are far-reaching, demanding immediate attention from both public and private sectors. Businesses face increased pressure to invest in AI-enhanced security tools, implement multi-factor authentication across all critical systems, and conduct regular penetration testing. Governments are urged to strengthen international intelligence sharing protocols to combat cross-border cybercrime and state-sponsored aggression effectively. Furthermore, the need for robust supply chain security audits has never been more critical, as a single weak link can compromise an entire ecosystem of interconnected entities. The coming months are expected to see a significant push for more resilient cyber infrastructure.\n\nAs the digital landscape evolves, the daily summary serves as a stark reminder of the relentless and adaptive nature of cyber threats. From the insidious ChronoLock ransomware to the strategic intrusions of Project Chimera, the challenges are complex and multifaceted, requiring a unified and proactive response. Organizations must cultivate a culture of cybersecurity awareness from the top down, empowering employees to be the first line of defense against increasingly sophisticated social engineering tactics. The continuous arms race between defenders and attackers highlights that vigilance, innovation, and collaboration remain the cornerstones of effective cybersecurity in 2026 and beyond.",
+    "excerpt": "Today's IT security landscape is marked by a surge in sophisticated cyber threats, with particular attention on a new wave of supply chain attacks targeting critical software vendors. Geopolitical tensions continue to fuel state-sponsored espionage c...",
+    "author": "Itsecuritynews Info",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-06-04-1.jpg",
+    "publishedDate": "2026-06-04 21:55:22",
+    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
+  },
+  {
+    "_id": "cybersecurity-hackers-are-turning-up-to-offices-and-posing-as-it-2",
+    "title": "Hackers are turning up to offices and posing as IT support, FBI warns",
+    "slug": "hackers-are-turning-up-to-offices-and-posing-as-it",
+    "content": "In a recent advisory, the FBI detailed how threat actors are adopting an increasingly audacious strategy, moving beyond digital phishing and vishing attacks to engage in physical social engineering. These perpetrators are reportedly arriving at company premises, often during busy periods or after hours, dressed convincingly and equipped with tools that lend credibility to their disguise as legitimate IT service providers. Once inside, they exploit a lack of scrutiny to access unattended workstations, servers, or network infrastructure, potentially installing malicious software, stealing credentials, or planting hardware-based surveillance devices. This direct, hands-on approach circumvents many layers of cybersecurity designed to detect remote intrusions.\n\nThis new method underscores a critical vulnerability often overlooked in the digital age: the human element and physical security. While organizations invest heavily in firewalls, intrusion detection systems, and encryption, a well-executed impersonation can render these digital defenses moot. The attackers capitalize on employees' natural inclination to trust individuals who appear to be authorized personnel, particularly those in seemingly innocuous roles like IT support. This trust allows them to move freely within an office environment, gather intelligence, and execute their malicious objectives without raising immediate suspicion.\n\nOnce inside, the potential for damage is extensive. Hackers posing as IT support can directly plug into network ports, install USB-borne malware, clone hard drives, or even plant rogue Wi-Fi access points to create backdoors for future remote access. They can also observe daily operations, gather information on security practices, and identify key personnel or sensitive data locations. The objective is often to exfiltrate proprietary information, deploy ransomware, or establish persistent access for long-term espionage, leading to significant financial losses, reputational damage, and operational disruptions for the targeted organizations.\n\nCybersecurity experts are calling for a renewed focus on holistic security strategies that integrate physical and digital defenses. \"This isn't just about patching software anymore; it's about patching human behavior and physical access points,\" stated Dr. Anya Sharma, a leading cybersecurity analyst. \"Companies must implement rigorous visitor verification systems, challenge unfamiliar faces, and educate employees on the importance of questioning anyone, even those claiming to be internal IT, before granting access to sensitive areas or systems. A strong 'see something, say something' culture is paramount.\"\n\nThe implications of this evolving threat are profound for businesses across all sectors, particularly those handling critical infrastructure or sensitive personal and financial data. Companies are advised to establish clear protocols for verifying all external and internal service personnel, including mandatory identification checks, pre-scheduled appointments, and accompanying escorts. Regular security awareness training for all staff, emphasizing the physical dimension of social engineering and the importance of vigilance, is no longer optional but a critical defense against these sophisticated and increasingly bold adversaries.",
+    "excerpt": "The Federal Bureau of Investigation (FBI) has issued a critical warning regarding a concerning evolution in cybercrime: hackers are now physically infiltrating corporate offices, masquerading as IT support staff to gain direct access to sensitive sys...",
+    "author": "Independentuk",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-hackers-are-turning-up-to-offices-and-posing-as-it-2.jpg",
+    "publishedDate": "2026-06-04 14:56:32",
+    "sourceUrl": "https://www.independent.co.uk/tech/security/hackers-cyber-security-fbi-b2987405.html"
+  },
+  {
     "_id": "national-putin-hails-new-delhi-as-reliable-partner-blasts-w-0",
     "title": "Putin hails New Delhi as 'reliable partner'; blasts West over 'detrimental' interference in India-Russia ties",
     "slug": "putin-hails-new-delhi-as-reliable-partner-blasts-w",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/business-champagne-stands-his-ground-after-budget-watchdog--2.jpg",
     "publishedDate": "2026-06-04 16:49:37",
     "sourceUrl": "https://www.baytoday.ca/national-news/champagne-stands-his-ground-after-budget-watchdog-questions-fiscal-anchor-12374756"
-  },
-  {
-    "_id": "cybersecurity-healthcare-data-breach-statistics-updated-for-2026-0",
-    "title": "Healthcare Data Breach Statistics – Updated for 2026",
-    "slug": "healthcare-data-breach-statistics-updated-for-2026",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The HIPAA Journal has compiled healthcare data breach statistics from October 2009, when the Department of Health and Human Services [...] The post Healthcare Data Breach Statistics – Updated for 2026",
-    "author": "Hipaajournal",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-healthcare-data-breach-statistics-updated-for-2026-0.jpg",
-    "publishedDate": "2026-06-04 06:30:48",
-    "sourceUrl": "https://www.hipaajournal.com/healthcare-data-breach-statistics/"
-  },
-  {
-    "_id": "cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-1",
-    "title": "Kaspersky Reveals Credential Abuse Techniques Rank as Attackers’ Most Effective Tactic",
-    "slug": "kaspersky-reveals-credential-abuse-techniques-rank",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "According to a recent global report by Kaspersky Security Services, password guessing and valid account misuse rank among the most effective tactics used by cyber criminals in 2025. This trend reflect",
-    "author": "Nigeriacommunicationsweek",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-kaspersky-reveals-credential-abuse-techniques-rank-1.jpg",
-    "publishedDate": "2026-06-03 23:03:23",
-    "sourceUrl": "https://www.nigeriacommunicationsweek.com.ng/kaspersky-reveals-credential-abuse-techniques-rank-as-attackers-most-effective-tactic/"
-  },
-  {
-    "_id": "cybersecurity-federal-cyber-resilience-requires-containing-the-c-2",
-    "title": "Federal cyber resilience requires containing the core, not adding more tools",
-    "slug": "federal-cyber-resilience-requires-containing-the-c",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Once an adversary gets inside the network, the problem is no longer prevention; it’s limiting lateral movement and the scope of disruption.",
-    "author": "Federalnewsnetwork",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-federal-cyber-resilience-requires-containing-the-c-2.jpg",
-    "publishedDate": "2026-06-03 21:02:22",
-    "sourceUrl": "https://federalnewsnetwork.com/commentary/2026/06/federal-cyber-resilience-requires-containing-the-core-not-adding-more-tools/"
   },
   {
     "_id": "technology-cathie-woods-5-biggest-ai-and-data-center-stock-pi-0",
