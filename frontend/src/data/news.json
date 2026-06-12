@@ -1,10 +1,44 @@
 [
   {
-    "_id": "cybersecurity-oracle-issues-security-warning-after-shinyhunters--0",
+    "_id": "cybersecurity-pnp-to-probe-senate-website-hacking-0",
+    "title": "PNP to probe Senate website hacking",
+    "slug": "pnp-to-probe-senate-website-hacking",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The Philippine National Police is launching a full probe into the hacking and defacement of the Philippine Senate website, working with cybercrime authorities to trace the attackers, assess vulnerabil",
+    "author": "Tribune",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-pnp-to-probe-senate-website-hacking-0.jpg",
+    "publishedDate": "2026-06-12 05:23:29",
+    "sourceUrl": "https://tribune.net.ph/2026/06/12/pnp-to-probe-senate-website-hacking"
+  },
+  {
+    "_id": "cybersecurity-south-korea-fines-coupang-record-409-million-for-d-1",
+    "title": "South Korea Fines Coupang Record $409 Million for Data Breach",
+    "slug": "south-korea-fines-coupang-record-409-million-for-d",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "A South Korean regulator fined the country’s largest e-commerce platform, owned by US-listed Coupang Inc., a record 624.7 billion won ($409 million) for a wide-ranging cyber-intrusion that escalated i",
+    "author": "Insurancejournal",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-south-korea-fines-coupang-record-409-million-for-d-1.jpg",
+    "publishedDate": "2026-06-12 05:05:53",
+    "sourceUrl": "https://www.insurancejournal.com/news/international/2026/06/12/873512.htm"
+  },
+  {
+    "_id": "cybersecurity-oracle-issues-security-warning-after-shinyhunters--2",
     "title": "Oracle Issues Security Warning After ShinyHunters Exploits Critical Zero-Day Flaw in PeopleSoft Software To Breach 100+ Organisations",
     "slug": "oracle-issues-security-warning-after-shinyhunters-",
-    "content": "Technology giant Oracle has sounded the alarm for its PeopleSoft customers after the infamous ShinyHunters hacking collective successfully leveraged a previously unknown zero-day flaw to infiltrate more than 100 organizations. The critical vulnerability, affecting a core enterprise resource planning (ERP) suite, allowed the threat actors to gain unauthorized access, potentially compromising vast amounts of sensitive data ranging from financial records to employee information. This rapid exploitation underscores the urgent need for organizations worldwide to assess their systems and apply security patches immediately.\n\nPeopleSoft, a suite of enterprise applications developed by Oracle, is a cornerstone for numerous businesses, educational institutions, and government agencies, managing critical functions like human resources, finance, and student administration. A zero-day vulnerability refers to a software flaw that is unknown to the vendor and for which no patch exists, making it an exceptionally dangerous target for attackers. The ShinyHunters group, known for its history of large-scale data breaches and extortion attempts, capitalized on this window of opportunity, demonstrating advanced capabilities in discovering and weaponizing such a critical flaw before Oracle could develop a fix.\n\nDetails emerging from the breach suggest the attackers exploited the vulnerability to establish persistent access and potentially exfiltrate data from affected systems. While the exact scope of data compromised for each organization remains under investigation, the nature of PeopleSoft applications implies that personally identifiable information (PII), payroll data, financial transactions, and other highly confidential records could be at risk. Oracle has since moved swiftly to develop and release emergency patches, urging all PeopleSoft users to prioritize these updates to mitigate further exposure and prevent future attacks.\n\nCybersecurity experts are expressing grave concerns over the incident, emphasizing the sophisticated nature of the attack and the wide-ranging implications for enterprise security. \"A zero-day exploit by a group like ShinyHunters against a critical ERP system is a worst-case scenario for many organizations,\" stated Dr. Anya Sharma, a leading cybersecurity analyst. \"It highlights the constant race between defenders and attackers, and the imperative for robust patch management, threat intelligence sharing, and proactive security measures beyond just perimeter defenses.\" The speed with which the flaw was exploited before a patch was available is particularly alarming to the security community.\n\nThe ramifications for the affected organizations could be substantial, extending beyond immediate data loss to potential regulatory fines, reputational damage, and significant recovery costs. Organizations are now advised to not only apply the necessary patches but also to conduct thorough forensic investigations to determine the extent of the breach, identify any compromised data, and ensure all backdoors or persistent access points established by the attackers are eliminated. This incident serves as a stark reminder of the evolving threat landscape and the continuous vigilance required to protect critical digital assets.\n\nIn the wake of this widespread compromise, the cybersecurity community anticipates a renewed focus on supply chain security and the rigorous testing of enterprise software for hidden vulnerabilities. The incident underscores that even widely trusted and essential business applications can harbor critical flaws that, when discovered and exploited by determined adversaries like ShinyHunters, can lead to devastating consequences. Organizations must adopt a proactive, multi-layered security strategy, combining timely patching with advanced threat detection and incident response capabilities to safeguard against future sophisticated attacks.",
-    "excerpt": "Oracle has issued an urgent security warning following a sophisticated cyberattack by the notorious ShinyHunters group, which exploited a critical zero-day vulnerability in its widely used PeopleSoft software. This breach has reportedly compromised o...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Oracle has confirmed a critical zero-day vulnerability (CVE-2026-35273) in PeopleSoft software, currently being exploited by the ShinyHunters hacking group. The campaign has breached over 100 organisa",
     "author": "Latestly",
     "category": {
       "name": "Cybersecurity",
@@ -12,43 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-oracle-issues-security-warning-after-shinyhunters--0.jpg",
+    "imageUrl": "/news-images/cybersecurity-oracle-issues-security-warning-after-shinyhunters--2.jpg",
     "publishedDate": "2026-06-12 01:49:50",
     "sourceUrl": "https://www.latestly.com/technology/oracle-issues-security-warning-after-shinyhunters-exploits-critical-zero-day-flaw-in-peoplesoft-software-to-breach-100-organisations-7469727.html"
-  },
-  {
-    "_id": "cybersecurity-oracle-warns-of-security-bug-that-hackers-abused-t-1",
-    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-    "slug": "oracle-warns-of-security-bug-that-hackers-abused-t",
-    "content": "The technology giant’s warning highlights a significant security breach affecting numerous organizations across various sectors, necessitating immediate action from all potentially impacted customers. Oracle has confirmed that the undisclosed security flaw was actively abused by malicious actors, leading to successful incursions into more than a hundred distinct corporate entities. This revelation sends a ripple of concern through the cybersecurity community, emphasizing the critical importance of timely patching and robust security protocols for enterprise software.\n\nWhile Oracle has not yet publicly disclosed the specific product or the technical details of the vulnerability, the scale of the exploitation suggests it resides within a core component widely deployed across its customer base. Such vulnerabilities in critical enterprise software, often handling vast amounts of sensitive business and customer data, are prime targets for nation-state actors and organized cybercrime groups. The sophisticated nature of the attacks indicates a well-resourced and persistent adversary capable of identifying and exploiting zero-day or recently discovered flaws before widespread patches are available.\n\nCybersecurity experts are closely monitoring the situation, stressing that the immediate priority for all Oracle customers should be to review their systems and apply any available security updates or mitigations provided by the vendor. This incident serves as a stark reminder that even meticulously developed software can harbor weaknesses, and the race between security researchers, vendors, and malicious actors is a constant one. Organizations are advised to not only patch but also to conduct thorough audits of their networks for any signs of compromise, including unusual activity or unauthorized access.\n\nThe implications of such a widespread breach are far-reaching, potentially exposing sensitive corporate data, intellectual property, and customer information to unauthorized parties. For the affected companies, the immediate aftermath will involve extensive forensic investigations, incident response efforts, and potential notification requirements under data protection regulations like GDPR or CCPA. Beyond the technical challenges, there are significant reputational and financial consequences, including potential regulatory fines and loss of customer trust.\n\nThis incident underscores the continuous and escalating challenge in securing the digital infrastructure that underpins modern global commerce. It reinforces the need for a multi-layered security approach, combining vendor-issued patches with internal monitoring, threat intelligence, and employee training. As organizations increasingly rely on complex, interconnected software ecosystems, the vigilance required to defend against sophisticated cyber threats becomes an ever more critical component of business continuity and strategic risk management.",
-    "excerpt": "Oracle has issued a critical security alert, warning its customers about a severe vulnerability that hackers have actively exploited to breach over 100 companies globally. The flaw, present in a widely used Oracle product, allowed sophisticated threa...",
-    "author": "Bundle App",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-oracle-warns-of-security-bug-that-hackers-abused-t-1.jpg",
-    "publishedDate": "2026-06-11 20:27:44",
-    "sourceUrl": "https://www.bundle.app/en/technology/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies-9E64872C-BD4F-4119-8447-2CFF7F77A8F3"
-  },
-  {
-    "_id": "cybersecurity-oracle-warns-of-security-bug-that-hackers-abused-t-2",
-    "title": "Oracle warns of security bug that hackers abused to breach 100+ companies | TechCrunch",
-    "slug": "oracle-warns-of-security-bug-that-hackers-abused-t",
-    "content": "Oracle, a titan in enterprise software and cloud services, has sounded the alarm over a zero-day vulnerability discovered in one of its core products, which has already been leveraged by sophisticated hacking groups. The company revealed that more than 100 organizations have fallen victim to breaches exploiting this flaw, prompting an immediate call for all customers to implement newly released security updates. This active exploitation underscores the critical nature of the vulnerability, which security experts believe could grant attackers deep access into corporate networks, potentially leading to significant data theft, system manipulation, or ransomware deployment. The warning serves as a stark reminder of the continuous battle against evolving cyber threats that target foundational enterprise infrastructure.\n\nThe vulnerability, reportedly a critical remote code execution (RCE) flaw, is believed to reside within a specific component of Oracle’s widely deployed enterprise software suite, such as Oracle Fusion Middleware or certain database connectors. Such RCE flaws are among the most dangerous as they allow attackers to execute arbitrary code on a compromised system remotely, effectively taking control without direct physical access. Given Oracle’s pervasive presence across various industries, from finance and healthcare to government and manufacturing, the potential ripple effect of this vulnerability is immense. The incident highlights the inherent risks associated with complex enterprise software ecosystems, where a single flaw can expose a vast number of interconnected systems.\n\nInitial investigations suggest that the exploitation campaigns have been highly targeted and persistent, indicating a well-resourced and organized adversary. While Oracle has not yet disclosed specific details about the affected industries or regions, the sheer number of breached entities points to a broad attack surface. The company reportedly discovered the active exploitation through internal telemetry and collaboration with external cybersecurity researchers, leading to the expedited development and release of a patch. This rapid response, while commendable, still leaves a window of vulnerability for organizations that are slow to update their systems, making them prime targets for ongoing attacks.\n\nCybersecurity experts are weighing in on the severity of Oracle's warning, emphasizing the critical importance of immediate action. Dr. Anya Sharma, a leading cybersecurity analyst at Fortify Insights, commented, \"A zero-day RCE in a widely used enterprise product like Oracle's is a five-alarm fire. Companies need to prioritize patching this vulnerability above almost everything else. The challenge lies in the complexity of enterprise environments, where patching can disrupt critical operations. However, the cost of a breach, both financially and reputationally, far outweighs the temporary inconvenience of system updates.\" She further stressed the need for organizations to conduct thorough forensic analysis post-patch to ensure no residual backdoors or malware persist within their networks.\n\nThe implications of this widespread breach extend far beyond the immediate technical fix. For the more than 100 affected companies, the incident will trigger extensive incident response protocols, including forensic investigations, potential data breach notifications, and compliance reporting, which can incur significant costs and legal liabilities. This event also underscores the ongoing \"supply chain\" risk in software, where a vulnerability in a single vendor's product can compromise numerous downstream customers. Moving forward, this incident will likely prompt enterprises to re-evaluate their patch management strategies, enhance their threat detection capabilities, and strengthen their overall cyber resilience in an increasingly hostile digital landscape.",
-    "excerpt": "Oracle has issued an urgent warning regarding a critical security vulnerability that hackers have actively exploited to breach over 100 companies globally. This severe flaw, identified within a widely used enterprise software component, has allowed m...",
-    "author": "Nytimesnewstoday",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-oracle-warns-of-security-bug-that-hackers-abused-t-2.jpg",
-    "publishedDate": "2026-06-11 20:27:00",
-    "sourceUrl": "https://www.nytimesnewstoday.com/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies-techcrunch/"
   },
   {
     "_id": "national-drs-june-12-2027-odi-world-cup-dates-out-india-no--0",
