@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-planning-ministry-holds-first-session-of-business--0",
+    "title": "Planning Ministry holds first session of ‘Business Clinic’ to support start-ups, address operational challenges",
+    "slug": "planning-ministry-holds-first-session-of-business-",
+    "content": "The Ministry of Planning and Economic Development recently inaugurated its pioneering \"Business Clinic,\" a significant step forward in the government's comprehensive strategy to empower the local start-up community. This first session focused on equipping new businesses with the necessary tools and insights to overcome common operational challenges, from regulatory compliance to market access and financial structuring. The initiative underscores a proactive governmental approach to nurturing innovation and entrepreneurship, recognizing start-ups as vital engines for economic growth and diversification in the coming years. Officials emphasized that the clinic aims to bridge the gap between entrepreneurial ambition and practical execution, offering tailored guidance and expert consultations.\n\nThis timely intervention comes against a backdrop of increasing government focus on strengthening the private sector and fostering a dynamic business environment. For years, start-ups in the region have faced a myriad of obstacles, including complex bureaucratic procedures, limited access to early-stage funding, and a lack of mentorship networks. The \"Business Clinic\" directly addresses these systemic issues, aligning with the nation's broader vision to transform into a regional hub for innovation and technology. It reflects a strategic shift towards more direct, hands-on support for small and medium-sized enterprises (SMEs), which are crucial for job creation and sustainable economic development.\n\nDuring its inaugural session, the \"Business Clinic\" hosted a diverse group of start-up founders, offering them invaluable one-on-one consultations with seasoned experts from various fields, including legal, finance, marketing, and human resources. Participants engaged in interactive workshops designed to demystify complex operational aspects, such as intellectual property rights, tax regulations, and effective business model scaling. Feedback from attendees was overwhelmingly positive, with many highlighting the practical relevance of the advice received and the opportunity to network with peers and government facilitators. This direct engagement model proved highly effective in identifying specific pain points and offering actionable solutions.\n\nEconomists and industry experts have largely applauded the Ministry of Planning's initiative, viewing it as a critical move towards institutionalizing support for the start-up sector. Dr. Amina El-Sayed, a prominent economic analyst, noted, \"Such direct intervention by the Planning Ministry signals a serious commitment to fostering a robust entrepreneurial ecosystem. The 'Business Clinic' has the potential to significantly reduce the failure rate among new ventures, provided it maintains its practical, solution-oriented approach and expands its reach.\" However, experts also caution that sustained success will depend on continuous engagement, adaptability to evolving market needs, and collaboration with private sector incubators and accelerators.\n\nLooking ahead, the \"Business Clinic\" is expected to play a pivotal role in accelerating the growth of the national start-up landscape, contributing significantly to job creation and technological advancement. The Ministry of Planning has indicated plans to expand the clinic's scope, potentially introducing specialized tracks for different industries and integrating more digital resources for broader accessibility. This ongoing commitment to nurturing entrepreneurial talent is anticipated to attract further domestic and international investment, solidifying the nation's position as an attractive destination for innovation. The initiative’s success will be measured not just by the number of start-ups supported, but by their long-term viability and contribution to the national economy.\n\nUltimately, the launch of the \"Business Clinic\" represents a strategic inflection point in the government’s efforts to cultivate a vibrant, resilient, and globally competitive entrepreneurial environment. By directly addressing the operational challenges faced by start-ups, the Ministry of Planning is not only fostering individual business success but also laying crucial groundwork for sustainable economic diversification and growth. This proactive approach signals a clear message to aspiring entrepreneurs: the government is a committed partner in their journey, dedicated to providing the infrastructure and support necessary to transform innovative ideas into thriving enterprises that contribute to national prosperity.",
+    "excerpt": "The Ministry of Planning and Economic Development has launched a groundbreaking \"Business Clinic,\" holding its inaugural session aimed at bolstering the nation's burgeoning start-up ecosystem. This strategic initiative seeks to provide direct support...",
+    "author": "Dailynewsegypt",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-planning-ministry-holds-first-session-of-business--0.jpg",
+    "publishedDate": "2026-06-20 17:14:55",
+    "sourceUrl": "https://www.dailynewsegypt.com/2026/06/20/planning-ministry-holds-first-session-of-business-clinic-to-support-start-ups-address-operational-challenges/"
+  },
+  {
+    "_id": "business-how-artificial-intelligence-is-changing-healthcare-1",
+    "title": "How Artificial Intelligence Is Changing Healthcare, Manufacturing, Recycling and Education",
+    "slug": "how-artificial-intelligence-is-changing-healthcare",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Artificial intelligence (AI) is no longer a future-facing technology sitting inside research labs. It is now being used in doctor’s offices, classrooms, factories, recycling plants, semiconductor rese",
+    "author": "Techbusinessnews",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-how-artificial-intelligence-is-changing-healthcare-1.jpg",
+    "publishedDate": "2026-06-20 16:54:13",
+    "sourceUrl": "https://www.techbusinessnews.com.au/ai-applications-across-industries/"
+  },
+  {
+    "_id": "business-iran-moves-to-close-the-strait-of-hormuz-as-tensio-2",
+    "title": "Iran Moves to Close the Strait of Hormuz as Tensions Erupt Over Broken Ceasefire Deal",
+    "slug": "iran-moves-to-close-the-strait-of-hormuz-as-tensio",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Key Takeaways Iran threatened to close the Strait of Hormuz, risking renewed oil market stability after an IDF blitz. CENTCOM countered on June 20, reporting 55 ships moved 17M barrels to stabilize oi",
+    "author": "Newspub Live",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-iran-moves-to-close-the-strait-of-hormuz-as-tensio-2.jpg",
+    "publishedDate": "2026-06-20 16:35:10",
+    "sourceUrl": "https://newspub.live/crypto/iran-moves-to-close-the-strait-of-hormuz-as-tensions-erupt-over-broken-ceasefire-deal/"
+  },
+  {
     "_id": "cybersecurity-in-other-news-apple-patches-beats-eavesdropping-fl-0",
     "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
     "slug": "in-other-news-apple-patches-beats-eavesdropping-fl",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/sports-how-to-buy-man-united-tickets-for-202627-premier-l-2.jpg",
     "publishedDate": "2026-06-19 16:04:24",
     "sourceUrl": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-tickets-premier-league-34153689"
-  },
-  {
-    "_id": "business-standard-chartered-celebrates-130-years-of-partner-0",
-    "title": "Standard Chartered celebrates 130 years of partnership and progress with clients",
-    "slug": "standard-chartered-celebrates-130-years-of-partner",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Standard Chartered Ghana hosted an exclusive commemorative client dinner to celebrate 130 years of service, partnership and impact in Ghana, bringing together distinguished clients, business leaders, ",
-    "author": "Thebftonline",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-standard-chartered-celebrates-130-years-of-partner-0.jpg",
-    "publishedDate": "2026-06-19 16:43:19",
-    "sourceUrl": "https://thebftonline.com/2026/06/19/standard-chartered-celebrates-130-years-of-partnership-and-progress-with-clients/"
-  },
-  {
-    "_id": "business-maharashtra-signs-pact-with-udyati-foundation-to-s-1",
-    "title": "Maharashtra signs pact with Udyati Foundation to set up women startup hub",
-    "slug": "maharashtra-signs-pact-with-udyati-foundation-to-s",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "ONLY AVAILABLE IN PAID PLANS",
-    "author": "Ptinews",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-maharashtra-signs-pact-with-udyati-foundation-to-s-1.jpg",
-    "publishedDate": "2026-06-19 16:39:02",
-    "sourceUrl": "https://www.ptinews.com/story/national/maharashtra-signs-pact-with-udyati-foundation-to-set-up-women-startup-hub/3784302"
-  },
-  {
-    "_id": "business-usa-canada-intelligence-brief-friday-june-19-2026-2",
-    "title": "USA & Canada Intelligence Brief — Friday, June 19, 2026",
-    "slug": "usa-canada-intelligence-brief-friday-june-19-2026",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "USA and Canada Intelligence Brief for Friday: with US markets closed for Juneteenth, the freshest North American news came from Canada, where a flat first quar... The post USA & Canada Intelligence Br",
-    "author": "Riotimesonline",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-usa-canada-intelligence-brief-friday-june-19-2026-2.jpg",
-    "publishedDate": "2026-06-19 16:38:01",
-    "sourceUrl": "https://www.riotimesonline.com/usa-canada-intelligence-brief-canada-takes-the-stage-june-19/"
   },
   {
     "_id": "technology-cathie-woods-5-biggest-ai-and-data-center-stock-pi-0",
