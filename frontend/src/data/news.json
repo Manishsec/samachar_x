@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-how-encrypted-satellite-channels-are-pirated-and-t-0",
+    "title": "How encrypted satellite channels are pirated and their content stolen online",
+    "slug": "how-encrypted-satellite-channels-are-pirated-and-t",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Inside the global piracy of encrypted satellite TV channels, how Dubai Police busted an illegal network, and why free streaming puts users at legal and cyber risk.",
+    "author": "Gulfnews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-how-encrypted-satellite-channels-are-pirated-and-t-0.jpg",
+    "publishedDate": "2026-06-21 15:42:42",
+    "sourceUrl": "https://gulfnews.com/uae/how-encrypted-satellite-channels-are-pirated-and-their-content-stolen-online-1.500581956"
+  },
+  {
+    "_id": "cybersecurity-nintendo-says-employee-survey-data-exposed-in-thir-1",
+    "title": "Nintendo says employee survey data exposed in third-party breach",
+    "slug": "nintendo-says-employee-survey-data-exposed-in-thir",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Nintendo confirms a third-party data breach involving employee survey platform TinyPulse, with no customer data affected.",
+    "author": "Techedition",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-nintendo-says-employee-survey-data-exposed-in-thir-1.jpg",
+    "publishedDate": "2026-06-21 14:56:03",
+    "sourceUrl": "https://www.techedt.com/nintendo-says-employee-survey-data-exposed-in-third-party-breach"
+  },
+  {
+    "_id": "cybersecurity-how-hackers-operate-the-tools-behind-real-world-cy-2",
+    "title": "How Hackers Operate: The Tools Behind Real-World Cybersecurity Testing",
+    "slug": "how-hackers-operate-the-tools-behind-real-world-cy",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Explore the tools and methodologies ethical hackers use to identify vulnerabilities. Learn how penetration testing helps organizations strengthen cybersecurity defences.",
+    "author": "Analyticsinsight",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-how-hackers-operate-the-tools-behind-real-world-cy-2.jpg",
+    "publishedDate": "2026-06-21 12:00:00",
+    "sourceUrl": "https://www.analyticsinsight.net/cybersecurity/how-hackers-operate-the-tools-behind-real-world-cybersecurity-testing"
+  },
+  {
     "_id": "national-india-news-up-one-killed-two-injured-after-lintel--0",
     "title": "India News | UP: One Killed, Two Injured After Lintel of Under-construction Building Collapses in Mainpuri",
     "slug": "india-news-up-one-killed-two-injured-after-lintel-",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/business-lest-we-forget-why-maximizing-shareholder-value-fa-2.jpg",
     "publishedDate": "2026-06-21 16:48:31",
     "sourceUrl": "https://www.bundle.app/en/finance/lest-we-forget-why-maximizing-shareholder-value-failed-the-first-time-D609940D-FE5A-485B-916D-A537E023B4D1"
-  },
-  {
-    "_id": "cybersecurity-operation-escaneo-signals-shift-in-latin-america-c-0",
-    "title": "Operation Escaneo Signals Shift in Latin America Cyber Threat Landscape",
-    "slug": "operation-escaneo-signals-shift-in-latin-america-c",
-    "content": "A recent investigation dubbed \"Operation Escaneo\" has brought to light a critical transformation in the cyber threat dynamics impacting Latin America, pointing to an era of heightened sophistication and strategic targeting. Conducted by a prominent global threat intelligence firm, the operation meticulously tracked a series of coordinated attacks that have been quietly compromising key sectors over the past year. The findings confirm that the region is no longer merely a target for financially motivated, low-level cybercrime but has become a battleground for state-sponsored or highly organized criminal groups employing advanced persistent threat (APT) methodologies. This development demands immediate attention from governments, businesses, and cybersecurity professionals alike.\n\nHistorically, Latin America's cyber landscape has often been characterized by widespread, opportunistic attacks such as banking Trojans, ransomware, and phishing campaigns aimed at individual consumers or small businesses. These threats, while disruptive, rarely exhibited the strategic depth or advanced capabilities seen in nation-state-backed operations. Operation Escaneo, however, reveals a stark deviation from this pattern, documenting campaigns that leverage zero-day exploits, sophisticated supply chain attacks, and custom-built malware designed for long-term espionage and data exfiltration. This shift mirrors the region's accelerated digital transformation and growing geopolitical significance, making its critical infrastructure and sensitive data increasingly attractive targets for powerful adversaries.\n\nFurther details from Operation Escaneo indicate that the threat actors behind these campaigns have demonstrated remarkable patience and precision, often maintaining a low profile within compromised networks for extended periods. Their tactics include highly personalized spear-phishing campaigns, exploitation of unpatched vulnerabilities in widely used software, and the deployment of polymorphic malware that evades traditional antivirus detection. Targets have primarily included government agencies, energy grids, telecommunications providers, and financial institutions across several key Latin American nations, suggesting motives ranging from intelligence gathering and economic espionage to potential disruption of critical services. The scale and coordination observed suggest a well-funded and highly skilled adversary.\n\nCybersecurity experts are unanimous in their assessment that Operation Escaneo marks a pivotal moment for regional security. Dr. Elena Vargas, head of cyber threat analysis at the Latin American Cyber Security Institute, commented, \"What we're seeing is a clear escalation in intent and capability. The days of underestimating threats to Latin America are over. These aren't smash-and-grab operations; they are carefully orchestrated campaigns designed for deep infiltration and sustained access, demanding a complete overhaul of current defensive strategies.\" She emphasized the critical need for regional cooperation, intelligence sharing, and significant investment in advanced threat detection and response capabilities to counter these evolving challenges.\n\nThe implications of Operation Escaneo are far-reaching, necessitating a comprehensive re-evaluation of national cybersecurity strategies throughout Latin America. Governments must prioritize strengthening their digital defenses, investing in robust incident response frameworks, and fostering public-private partnerships to share threat intelligence effectively. Businesses, particularly those in critical sectors, must move beyond basic security measures to adopt proactive threat hunting, employee training on advanced social engineering tactics, and continuous vulnerability management. Failure to adapt to this new, more hostile environment could lead to severe economic disruption, erosion of public trust, and compromise of national security interests.\n\nIn conclusion, Operation Escaneo serves as an undeniable wake-up call, fundamentally redefining the cybersecurity imperative for Latin America. The shift towards sophisticated, persistent, and highly targeted attacks represents a new frontier in the region's digital defense. As the digital landscape continues to expand, the continuous monitoring, rapid dissemination of threat intelligence, and a unified, adaptive defense strategy will be paramount in safeguarding the integrity and resilience of Latin American nations against these increasingly potent cyber adversaries. The findings demand not just awareness, but decisive action to fortify the region's digital future.",
-    "excerpt": "Operation Escaneo has unveiled a significant and concerning evolution in Latin America's cyber threat landscape, signaling a departure from historically opportunistic attacks towards more sophisticated and targeted operations. This landmark discovery...",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-operation-escaneo-signals-shift-in-latin-america-c-0.jpg",
-    "publishedDate": "2026-06-20 16:33:56",
-    "sourceUrl": "https://www.itsecuritynews.info/operation-escaneo-signals-shift-in-latin-america-cyber-threat-landscape/"
-  },
-  {
-    "_id": "cybersecurity-nintendo-confirms-data-stolen-via-third-party-cybe-1",
-    "title": "Nintendo confirms data stolen via third-party cyberattack — but sadly no big secrets were revealed",
-    "slug": "nintendo-confirms-data-stolen-via-third-party-cybe",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Shadowbyt3$ is asking for $2 million in exchange for the data, but Nintendo seemingly turned the offer down.",
-    "author": "Techradar Au",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-nintendo-confirms-data-stolen-via-third-party-cybe-1.jpg",
-    "publishedDate": "2026-06-20 12:05:00",
-    "sourceUrl": "https://www.techradar.com/pro/security/nintendo-confirms-data-stolen-via-third-party-cyberattack-but-sadly-no-big-secrets-were-revealed"
-  },
-  {
-    "_id": "cybersecurity-in-other-news-apple-patches-beats-eavesdropping-fl-2",
-    "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
-    "slug": "in-other-news-apple-patches-beats-eavesdropping-fl",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables ",
-    "author": "Securityweek",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-in-other-news-apple-patches-beats-eavesdropping-fl-2.jpg",
-    "publishedDate": "2026-06-19 15:23:36",
-    "sourceUrl": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/"
   },
   {
     "_id": "sports-rag-tag-england-on-brink-despite-roots-brilliance-0",
