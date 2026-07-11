@@ -1,5 +1,56 @@
 [
   {
+    "_id": "sports-my-body-temperature-is-probably-cooler-than-any-to-0",
+    "title": "'My body temperature is probably cooler than any Tour before' – Tadej Pogačar's hydration strategy has him reaching a new level amid 'hellish hot' Tour de France",
+    "slug": "my-body-temperature-is-probably-cooler-than-any-to",
+    "content": "The current edition of the Tour de France has been marred by exceptionally high temperatures, with riders battling not just their competitors and the brutal parcours, but also the relentless heat. Stages have seen thermometers soaring well above 35 degrees Celsius, creating hazardous conditions that push the human body to its absolute limits. In such an environment, the ability to maintain optimal core body temperature becomes paramount, directly impacting endurance, power output, and cognitive function. Pogačar's assertion highlights a sophisticated, data-driven strategy employed by his UAE Team Emirates squad, aiming to mitigate the debilitating effects of heat stress and gain a significant physiological advantage.\n\nHeat is an insidious enemy in multi-stage races, capable of turning even the most robust athletes into shadows of their former selves. Dehydration, electrolyte imbalance, and the risk of heatstroke are constant threats, leading to fatigue, muscle cramps, and a precipitous drop in performance. Historically, many Tour de France hopefuls have seen their dreams evaporate under the scorching sun. Pogačar's team, however, appears to have invested heavily in pre-cooling protocols, personalized hydration plans, and advanced nutritional support, all designed to keep his internal thermostat as low as possible. This involves precise intake of specialized fluids, electrolyte management, and potentially even innovative cooling garments before and during stages.\n\nExperts in sports physiology underscore the critical importance of core body temperature regulation in elite endurance events. Dr. Eleanor Davies, a prominent sports scientist, explains, \"Maintaining a stable core temperature allows the cardiovascular system to dedicate more blood flow to working muscles rather than primarily to skin for cooling, thus enhancing oxygen delivery and waste removal. It also delays the onset of central fatigue, allowing an athlete to sustain higher power outputs for longer.\" She adds that even a small reduction in core temperature can translate into significant performance gains over a three-week Grand Tour, especially when rivals are struggling with overheating. This \"marginal gain\" philosophy, taken to extremes, can indeed be the differentiator between victory and defeat.\n\nThe implications of Pogačar's advanced heat management strategy extend beyond his individual performance in this Tour. Should he continue to demonstrate superior resilience in the heat, it could set a new benchmark for professional cycling, prompting other teams to re-evaluate and enhance their own cooling and hydration protocols. This relentless pursuit of competitive advantage through sports science underscores the evolving nature of elite cycling, where every physiological detail is scrutinized and optimized. As the Tour progresses into its most demanding mountain stages, where both altitude and heat can combine for a brutal challenge, Pogačar’s \"cooler\" body might just be the secret weapon that propels him to victory.\n\nUltimately, Tadej Pogačar's confident declaration is more than just a soundbite; it’s a testament to the meticulous preparation and scientific innovation that define modern professional cycling. While his innate talent and relentless drive remain fundamental, the strategic application of cutting-edge sports science, particularly in managing the \"hellish hot\" conditions, is clearly playing a pivotal role in his current performance. This Tour de France may well be remembered not only for the thrilling competition on the road but also for ushering in a new era of heat management strategies, potentially redefining what it means to excel under extreme environmental duress in Grand Tour racing.",
+    "excerpt": "Tadej Pogačar, the Slovenian cycling prodigy, claims his body temperature is \"probably cooler than any Tour before,\" attributing this remarkable feat to an advanced and meticulously executed hydration strategy. Amidst what he describes as a \"hellish ...",
+    "author": "Cyclingnews",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-my-body-temperature-is-probably-cooler-than-any-to-0.jpg",
+    "publishedDate": "2026-07-10 18:26:47",
+    "sourceUrl": "https://www.cyclingnews.com/pro-cycling/teams-riders/my-body-temperature-is-probably-cooler-than-any-tour-before-tadej-pogacars-hydration-strategy-has-him-reaching-a-new-level-amid-hellish-hot-tour-de-france/"
+  },
+  {
+    "_id": "sports-sachin-tendulkar-shines-at-wimbledon-amidst-sporti-1",
+    "title": "Sachin Tendulkar Shines at Wimbledon Amidst Sporting Legends",
+    "slug": "sachin-tendulkar-shines-at-wimbledon-amidst-sporti",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Sachin Tendulkar made a grand appearance at Wimbledon, joining a host of sports legends in the Royal Box. As he watched Alexander Zverev defeat Arthur Fery to reach the men's singles final, the event ",
+    "author": "Gyanhigyan",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-sachin-tendulkar-shines-at-wimbledon-amidst-sporti-1.jpg",
+    "publishedDate": "2026-07-10 18:18:51",
+    "sourceUrl": "https://gyanhigyan.com/sports/cricket/sachin-tendulkar-shines-at-wimbledon-amidst-sporting/cid18966514.htm"
+  },
+  {
+    "_id": "sports-from-the-mcg-to-the-commonwealth-games-india-austr-2",
+    "title": "From the MCG to the Commonwealth Games: India, Australia unveil landmark sports roadmap to shape a new global sporting era",
+    "slug": "from-the-mcg-to-the-commonwealth-games-india-austr",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "NE SPORTS BUREAU NEW DELHI, JULY 10 In a defining moment for international sports diplomacy, Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese on Friday unveiled the ambitiou",
+    "author": "Navjeevanexpress",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-from-the-mcg-to-the-commonwealth-games-india-austr-2.jpg",
+    "publishedDate": "2026-07-10 18:18:23",
+    "sourceUrl": "https://navjeevanexpress.com/from-the-mcg-to-the-commonwealth-games-india-australia-unveil-landmark-sports-roadmap-to-shape-a-new-global-sporting-era/"
+  },
+  {
     "_id": "business-tripura-rs-121-lakh-crore-investment-proposals-rec-0",
     "title": "Tripura: Rs 1.21 lakh crore investment proposals received during business conclave",
     "slug": "tripura-rs-121-lakh-crore-investment-proposals-rec",
@@ -304,39 +355,5 @@
     "imageUrl": "/news-images/entertainment-breaking-cbfc-censors-dr-ambedkars-visuals-mention-2.jpg",
     "publishedDate": "2026-07-09 17:37:44",
     "sourceUrl": "https://www.bollywoodhungama.com/news/bollywood/breaking-cbfc-censors-dr-ambedkars-visuals-mention-of-vijays-political-party-tvk-in-jana-nayagan-removes-om-and-new-india/"
-  },
-  {
-    "_id": "sports-ubco-heat-womens-basketball-team-to-square-off-aga-0",
-    "title": "UBCO Heat women's basketball team to square off against NCAA's Texas Tech Lady Raiders",
-    "slug": "ubco-heat-womens-basketball-team-to-square-off-aga",
-    "content": "The UBC Okanagan Heat women's basketball program is gearing up for an extraordinary preseason clash, having announced an exhibition game against the NCAA Division I powerhouse, the Texas Tech Lady Raiders. Slated for August 10th at the UBC Okanagan campus gym, this contest represents a unique moment for the Heat, providing an unparalleled opportunity to compete against an elite opponent from one of the most competitive collegiate leagues in North America. For the Heat players, coaches, and the broader U SPORTS community, this game transcends a mere exhibition; it's a litmus test, a learning ground, and a significant milestone.\n\nThe Texas Tech Lady Raiders, hailing from the Big 12 Conference, bring a rich history and a formidable reputation to the court. As a perennial contender in NCAA Division I women's basketball, their program boasts a legacy of success, including a national championship in 1993 and numerous NCAA Tournament appearances. Their visit to Canada is part of a foreign tour, a common practice for NCAA teams to gain early-season experience and foster team cohesion against international competition. For the Heat, a team that competes in U SPORTS Canada West, the chance to measure themselves against such a high-caliber opponent is an infrequent yet incredibly beneficial prospect.\n\nThis matchup serves multiple crucial purposes beyond the final score. For the UBCO Heat, it offers an invaluable pre-season assessment, exposing players to a faster pace of play, higher intensity, and different strategic approaches that are characteristic of NCAA Division I basketball. Such experiences are pivotal for player development, helping athletes identify areas for improvement and adapt their game to a more demanding environment. Furthermore, the game generates significant buzz for the Heat program, potentially aiding in recruitment efforts by showcasing the calibre of competition and experiences available to prospective student-athletes at UBC Okanagan.\n\nSports analysts and coaches often emphasize the profound benefits of these \"David versus Goliath\" encounters. While the inherent talent and resource disparity between U SPORTS and NCAA D-I programs are undeniable, the learning curve for the Canadian team is steep and incredibly rewarding. \"Playing against a team like Texas Tech provides a benchmark unlike any other,\" stated a local sports commentator familiar with collegiate basketball. \"It’s not just about winning or losing; it's about understanding the speed, the physicality, and the mental toughness required at that elite level. The experience will undoubtedly elevate the Heat’s game for their upcoming Canada West season.\"\n\nThe implications of this game extend beyond the UBCO campus. Such high-profile exhibition games contribute to raising the overall profile of U SPORTS basketball, demonstrating that Canadian university athletes are capable of competing, learning, and growing from challenges posed by international powerhouses. It fosters goodwill and collaboration between collegiate athletic systems, potentially paving the way for more cross-border matchups in the future. For the Heat players, this game will be a career highlight, a story they will recount for years to come, instilling confidence and a deeper understanding of their potential.\n\nAs the countdown to August 10th begins, anticipation is building within the Kelowna community and among Canadian basketball enthusiasts. The UBCO Heat will undoubtedly embrace this challenge with determination, aiming to showcase their talent and resilience against a globally recognized program. Regardless of the outcome, the opportunity to host and compete against the Texas Tech Lady Raiders underscores a significant moment for the UBCO Heat, promising an unforgettable spectacle and a catalyst for growth for the team as they prepare for their 2024-2025 U SPORTS season.",
-    "excerpt": "The UBCO Heat women's basketball team is set to face a formidable challenge as they prepare to square off against the NCAA Division I Texas Tech Lady Raiders. This highly anticipated exhibition game offers a rare and invaluable opportunity for the U ...",
-    "author": "Castanet",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-ubco-heat-womens-basketball-team-to-square-off-aga-0.jpg",
-    "publishedDate": "2026-07-09 19:36:00",
-    "sourceUrl": "https://www.castanet.net/news/Sports/623944/UBCO-Heat-women-s-basketball-team-to-square-off-against-NCAA-s-Texas-Tech-Lady-Raiders"
-  },
-  {
-    "_id": "sports-i-couldnt-sleep-long-because-i-was-so-excited-desp-1",
-    "title": "'I couldn't sleep long because I was so excited' – Despite flashbacks and an early wake-up, Tadej Pogačar takes complete control of Tour de France on first mountain stage",
-    "slug": "i-couldnt-sleep-long-because-i-was-so-excited-desp",
-    "content": "The Slovenian superstar, Tadej Pogačar, wasted no time in asserting his authority on the 2024 Tour de France, launching a blistering attack on the race's inaugural mountain stage that left his competitors trailing. His victory was not just a stage win but a profound psychological blow, immediately establishing a formidable lead in the overall standings. Pogačar later revealed his intense anticipation, stating, \"I couldn't sleep long because I was so excited,\" a sentiment that underscored the immense pressure and desire fueling his early dominance, even as he grappled with past memories and an early morning wake-up.\n\nThis commanding display takes on added significance given Pogačar's challenging build-up to the Tour. Earlier in the season, a severe wrist fracture threatened to derail his entire campaign, forcing him to miss key preparation races and undergo an arduous recovery. The \"flashbacks\" he alluded to likely refer to this period of injury and uncertainty, or perhaps past moments of vulnerability in previous Grand Tours. His ability to channel this experience and raw excitement into such a powerful performance on a crucial early stage speaks volumes about his mental fortitude and unwavering focus on reclaiming the yellow jersey.\n\nThe decisive moment unfolded on the steep slopes of the stage's final ascent, where Pogačar unleashed a series of accelerations that none of his GC rivals could match. He methodically distanced contenders like Jonas Vingegaard, Primož Roglič, and Remco Evenepoel, crossing the finish line with a substantial time gap that immediately reshaped the general classification. This early show of strength not only secured him the stage victory but also gifted him a significant buffer, forcing other teams to re-evaluate their strategies much earlier than anticipated in the three-week race.\n\nCycling pundits and former professionals have been quick to praise Pogačar's audacious move, with many highlighting its tactical brilliance and sheer physical power. \"This is a statement ride,\" commented one veteran analyst, \"He didn't just win the stage; he demoralized the competition and took a stranglehold on the race before it truly began.\" The consensus among experts is that this early advantage will allow Pogačar's UAE Team Emirates to ride a more controlled race, placing the onus squarely on rival teams to devise aggressive tactics to claw back time, a daunting prospect against a rider in such imperious form.\n\nLooking ahead, Pogačar's commanding lead introduces a fascinating dynamic to the remainder of the Tour. His rivals now face the unenviable task of trying to crack a rider who appears to be at the peak of his powers, both physically and mentally. While the Tour de France is a long and unpredictable race, this early demonstration of strength gives Pogačar a significant psychological edge and tactical flexibility. Teams like Visma | Lease a Bike and Soudal Quick-Step will need to be innovative and aggressive, perhaps sacrificing stage wins for the broader strategic goal of isolating Pogačar in later mountain stages.\n\nUltimately, Pogačar's triumph on the first mountain stage transcended a mere victory; it was a potent declaration of intent, signaling his absolute readiness to dominate the 2024 Tour de France. Overcoming personal struggles and channeling intense anticipation, he has laid down a marker that will undoubtedly dictate the flow of the race for weeks to come. The \"excitement\" that kept him awake has now translated into a formidable lead, leaving the rest of the peloton with a monumental challenge to overcome the Tour's early, undisputed leader.",
-    "excerpt": "Tadej Pogačar has delivered an emphatic statement of intent on the Tour de France's first mountain stage, seizing complete control of the general classification with a dominant performance. Despite admitting to a restless night filled with excitement...",
-    "author": "Cyclingnews",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-i-couldnt-sleep-long-because-i-was-so-excited-desp-1.jpg",
-    "publishedDate": "2026-07-09 18:16:43",
-    "sourceUrl": "https://www.cyclingnews.com/pro-cycling/teams-riders/i-couldnt-sleep-long-because-i-was-so-excited-despite-flashbacks-and-an-early-wake-up-tadej-pogacar-takes-complete-control-of-tour-de-france-on-first-mountain-stage/"
   }
 ]
