@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-jackson-city-council-votes-to-pause-new-data-cente-0",
+    "title": "Jackson City Council votes to pause new data center development",
+    "slug": "jackson-city-council-votes-to-pause-new-data-cente",
+    "content": "In a landmark decision that sent ripples through the local tech and development sectors, the Jackson City Council approved a 12-month moratorium on all new data center projects during its session on Monday, July 13, 2026. The vote, which passed 5-2, effectively freezes the application and approval process for any new data center construction within city limits. Council members emphasized the need for a strategic pause to assess the cumulative impact of the rapid influx of these energy-intensive facilities on Jackson's power grid, water resources, and overall urban planning, ensuring future growth aligns with the city's long-term sustainability goals.\n\nThe council’s decision comes amidst a burgeoning interest in Jackson as a prime location for data centers, driven by affordable land, strategic location, and existing fiber optic infrastructure. However, this rapid growth has not been without controversy. Residents and environmental advocacy groups have increasingly voiced concerns about the massive energy demands of these facilities, their significant water usage for cooling, and the potential for increased noise pollution and traffic congestion. Critics also point to the substantial tax incentives often offered to attract these companies, questioning the net benefit to the local economy given the relatively small number of permanent jobs created once operational.\n\nDuring the 12-month moratorium, the city plans to establish a special task force comprising urban planners, utility experts, environmental scientists, and economic development specialists. This body will be charged with conducting a thorough impact assessment, evaluating current zoning ordinances, and recommending amendments to ensure future data center developments are integrated responsibly. Key areas of focus will include grid capacity, renewable energy sourcing, water conservation strategies, and the development of clear guidelines for community benefit agreements. Several projects currently in various stages of preliminary approval will likely face significant delays, prompting uncertainty among developers.\n\nThe announcement has elicited mixed reactions from various stakeholders. Councilwoman Sarah Chen, a vocal proponent of the pause, stated, \"We are not anti-development, but we must be pro-responsible development. This moratorium allows us to catch our breath, understand the full scope of these projects, and ensure they contribute positively to Jackson's future without overburdening our vital resources.\" Conversely, representatives from the Data Center Coalition expressed disappointment, warning that the decision could deter future investment and damage Jackson's reputation as a business-friendly environment. \"This sends a concerning message to an industry that brings high-tech infrastructure and significant capital investment,\" said Mark Johnson, a spokesperson for the coalition.\n\nThe implications of this pause extend beyond immediate project delays, potentially reshaping Jackson's economic trajectory and urban development strategy. Experts suggest that while the moratorium might temporarily slow investment in the data center sector, it could ultimately lead to more sustainable and resilient growth if managed effectively. \"Cities across the country are grappling with the environmental and infrastructural demands of data centers,\" noted Dr. Elena Ramirez, an urban planning professor at the University of Mississippi. \"Jackson's proactive stance could set a precedent for how mid-sized cities manage high-tech industrial expansion responsibly, balancing economic opportunity with environmental stewardship and community well-being.\"\n\nAs the city embarks on this year-long review period, the focus will be on crafting a comprehensive framework that addresses the complex challenges and opportunities presented by the digital infrastructure boom. The outcome of the task force's studies and subsequent policy recommendations will be crucial in determining the future landscape of data center development in Jackson. This period of reflection underscores a broader national conversation about sustainable growth and the necessity for cities to meticulously plan for the resource-intensive demands of the rapidly evolving digital economy.",
+    "excerpt": "The Jackson City Council has voted to implement a temporary moratorium on new data center developments, citing growing concerns over the strain on municipal infrastructure, energy consumption, and environmental impact. The decision, passed after a co...",
+    "author": "Clarionledger",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-jackson-city-council-votes-to-pause-new-data-cente-0.jpg",
+    "publishedDate": "2026-07-14 17:12:00",
+    "sourceUrl": "https://www.clarionledger.com/story/news/local/2026/07/14/data-center-projects-paused-in-jackson-mississippi/90909736007/"
+  },
+  {
+    "_id": "business-govt-signals-support-for-manufacturers-as-ubl-stud-1",
+    "title": "Gov’t Signals Support for Manufacturers as UBL Study Urges Data-Driven Tax Policy",
+    "slug": "govt-signals-support-for-manufacturers-as-ubl-stud",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Uganda will support manufacturers investing in value addition and local sourcing as it pursues its target of growing the economy to $500 billion, Trade Minister Hon. Sanjay Tanna said on Tuesday, urgi",
+    "author": "Chimpreports",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-govt-signals-support-for-manufacturers-as-ubl-stud-1.jpg",
+    "publishedDate": "2026-07-14 17:09:41",
+    "sourceUrl": "https://chimpreports.com/govt-signals-support-for-manufacturers-as-ubl-study-urges-data-driven-tax-policy/"
+  },
+  {
+    "_id": "business-tinubu-declares-end-to-raw-cocoa-exports-unveils-p-2",
+    "title": "Tinubu declares end to raw cocoa exports, unveils plan for local processing",
+    "slug": "tinubu-declares-end-to-raw-cocoa-exports-unveils-p",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "President Tinubu declares an end to raw cocoa exports, unveiling an ambitious plan for local processing and value addition to boost Nigeria’s economy. Read More: https://punchng.com/tinubu-declares-en",
+    "author": "Punchng",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-tinubu-declares-end-to-raw-cocoa-exports-unveils-p-2.jpg",
+    "publishedDate": "2026-07-14 17:04:14",
+    "sourceUrl": "https://punchng.com/tinubu-declares-end-to-raw-cocoa-exports-unveils-plan-for-local-processing/"
+  },
+  {
     "_id": "technology-arango-launches-us-federal-government-practice-to--0",
     "title": "Arango Launches U.S. Federal Government Practice to Support Defense, Intelligence, Aerospace, and Civilian Agency Missions",
     "slug": "arango-launches-us-federal-government-practice-to-",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/sports-kangana-ranaut-supports-up-governor-anandiben-pate-2.jpg",
     "publishedDate": "2026-07-13 16:55:44",
     "sourceUrl": "https://www.ndtvprofit.com/lifestyle/kangana-ranaut-backs-up-governor-anandiben-patels-women-should-learn-cooking-remark-sparks-online-debate-11766679"
-  },
-  {
-    "_id": "business-bigg-digital-assets-reports-agm-results-0",
-    "title": "BIGG Digital Assets Reports AGM Results",
-    "slug": "bigg-digital-assets-reports-agm-results",
-    "content": "BIGG Digital Assets Inc. (CSE: BIGG; OTCQX: BBKCF) announced the successful conclusion of its Annual General Meeting (AGM) held on November 15, 2023, where shareholders decisively endorsed the company’s ongoing leadership and corporate governance. All four incumbent directors – Mark Binns, Lance Morginn, Anthony Zelen, and Alan Marc Smith – were re-elected to the Board, ensuring continuity at the helm of the diversified digital asset firm. Additionally, shareholders approved the appointment of Davidson & Company LLP as the company's auditors for the upcoming year and ratified an Amended and Restated Stock Option Plan, critical for talent retention and alignment with shareholder interests.\n\nBIGG Digital Assets operates at the intersection of several key segments within the digital economy, distinguishing itself through a strategic focus on compliance and innovation. Its portfolio includes Netcoins, a regulated cryptocurrency brokerage providing secure and user-friendly access to digital assets, and Blockchain Intelligence Group (BIG), a leading provider of blockchain forensics and cryptocurrency investigation tools for law enforcement and financial institutions. This dual approach allows BIGG to capitalize on both the adoption of cryptocurrencies and the increasing need for regulatory oversight and security in the blockchain space, positioning it uniquely in a market known for its volatility and rapid technological advancements.\n\nThe re-election of the entire board underscores shareholder confidence in the current management team's ability to navigate the complex and often unpredictable digital asset market. This continuity is particularly noteworthy given the significant shifts and challenges the crypto industry has faced over the past year. The approval of the Amended and Restated Stock Option Plan is also a strategic move, designed to attract, motivate, and retain top-tier talent by offering competitive incentives aligned with the company’s long-term growth objectives and shareholder value creation. Such plans are vital in high-growth, specialized sectors where skilled professionals are in high demand.\n\nIndustry observers and market analysts often interpret the unanimous re-election of a board as a strong signal of stability and approval of the existing corporate strategy. In a sector as dynamic as digital assets, a consistent leadership team can provide a steady hand, crucial for executing long-term plans and adapting to regulatory changes and technological innovations. This vote of confidence suggests that shareholders are comfortable with BIGG’s diversified strategy, which includes strategic investments in promising blockchain companies and a focus on generating positive adjusted EBITDA, as highlighted in the company's recent Q3 2023 results.\n\nLooking ahead, the AGM results empower BIGG Digital Assets to continue its strategic initiatives with renewed mandate. The company is poised to further leverage its established subsidiaries, Netcoins and Blockchain Intelligence Group, to capitalize on anticipated market growth and evolving regulatory frameworks. With an emphasis on profitability and strategic investments, BIGG aims to expand its market share in both the retail crypto brokerage and the enterprise-level blockchain analytics sectors. The leadership continuity ensures that the company remains focused on its core mission of providing secure, compliant, and innovative digital asset solutions.\n\nThe successful AGM outcomes solidify BIGG Digital Assets' foundation for future growth and operational excellence within the digital asset ecosystem. By maintaining a stable leadership team and ensuring robust governance mechanisms, the company is well-positioned to navigate the complexities of the digital economy while pursuing its ambitious expansion plans. As the broader market for digital assets continues to mature and attract mainstream attention, BIGG’s commitment to security, compliance, and strategic diversification will likely remain central to its value proposition for shareholders and stakeholders alike.",
-    "excerpt": "BIGG Digital Assets Inc. recently held its Annual General Meeting, affirming its leadership and strategic direction in the evolving digital asset landscape. Shareholders overwhelmingly re-elected all four incumbent directors and approved key resoluti...",
-    "author": "Newsfilecorp",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-bigg-digital-assets-reports-agm-results-0.jpg",
-    "publishedDate": "2026-07-13 16:34:00",
-    "sourceUrl": "https://www.newsfilecorp.com/release/305032/BIGG-Digital-Assets-Reports-AGM-Results"
-  },
-  {
-    "_id": "business-president-museveni-hailed-for-empowering-busoga-gh-1",
-    "title": "President Museveni hailed for empowering Busoga Ghettos as youth elect regional leadership",
-    "slug": "president-museveni-hailed-for-empowering-busoga-gh",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "President Yoweri Kaguta Museveni has been commended for his efforts to organise and economically empower ghetto communities across Busoga and the rest of Uganda through the Ghetto Structure Initiative",
-    "author": "Watchdoguganda",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-president-museveni-hailed-for-empowering-busoga-gh-1.jpg",
-    "publishedDate": "2026-07-13 16:32:54",
-    "sourceUrl": "https://www.watchdoguganda.com/news/20260713/194739/president-museveni-hailed-for-empowering-busoga-ghettos-as-youth-elect-regional-leadership.html"
-  },
-  {
-    "_id": "business-current-equipment-leasing-interest-rates-2",
-    "title": "Current Equipment Leasing Interest Rates",
-    "slug": "current-equipment-leasing-interest-rates",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Discover the latest trends and insights on equipment leasing interest rates in our comprehensive article. Stay informed about current rates, factors affecting them, and tips for securing the best deal",
-    "author": "Smallbiztrends",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-current-equipment-leasing-interest-rates-2.jpg",
-    "publishedDate": "2026-07-13 16:31:00",
-    "sourceUrl": "https://smallbiztrends.com/equipment-leasing-interest-rates/"
   },
   {
     "_id": "national-north-west-development-commission-unveils-projects-0",
