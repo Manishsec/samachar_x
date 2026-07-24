@@ -1,5 +1,56 @@
 [
   {
+    "_id": "technology-why-retail-tech-gets-so-little-venture-capital-0",
+    "title": "Why Retail Tech Gets So Little Venture Capital",
+    "slug": "why-retail-tech-gets-so-little-venture-capital",
+    "content": "The global retail sector represents a multi-trillion-dollar economy, serving as a foundational pillar for employment and consumer spending worldwide. From e-commerce giants to local brick-and-mortar stores, the industry is constantly evolving, driven by shifting consumer behaviors and technological advancements. One might expect this massive market to attract substantial venture capital investment, particularly in technologies designed to enhance efficiency, customer experience, and supply chain management. However, data consistently shows that retail tech receives a disproportionately small share of VC funding compared to sectors like fintech, healthcare tech, or pure enterprise software.\n\nSeveral core reasons contribute to this venture capital reluctance. Firstly, the retail industry, especially its traditional segments, is often characterized by slower adoption cycles and a fragmented landscape. Large legacy retailers can be risk-averse, burdened by existing infrastructure and complex internal processes, making rapid deployment of new technologies challenging. Secondly, retail technology often addresses highly operational problems, requiring deep integration with physical inventory, supply chains, and point-of-sale systems, which adds layers of complexity and cost not typically found in purely digital B2B SaaS solutions. This complexity can deter VCs seeking straightforward, easily scalable software plays.\n\nFurthermore, venture capitalists are primarily driven by the potential for exponential growth and massive returns within a relatively short timeframe. Many retail tech solutions, while valuable, offer incremental improvements rather than disruptive, winner-take-all market transformations. The sales cycles to retailers can be long and arduous, requiring significant upfront investment in customer acquisition. This often leads to lower gross margins and slower revenue growth compared to, for example, a viral consumer app or an enterprise SaaS platform with a low-touch sales model, making the risk-reward profile less attractive for traditional VC funds.\n\nIndustry experts frequently weigh in on this paradox. \"Venture capital looks for leverage and network effects,\" explains Sarah Chen, a partner at a leading VC firm. \"Retail tech often requires boots on the ground, custom integrations, and slower customer acquisition, which doesn't fit the typical VC playbook for rapid scale.\" Conversely, retail tech founders often lament the difficulty in securing early-stage funding, highlighting that their innovations, while potentially offering substantial long-term value to retailers, struggle to meet the aggressive growth metrics demanded by VCs. This gap often forces promising startups to seek alternative funding sources or scale more slowly.\n\nThe implications of this underinvestment are significant for the retail industry as a whole. It can stifle innovation, making it harder for traditional retailers to compete with digitally native brands and agile e-commerce platforms that are built on modern tech stacks. While corporate venture arms and strategic partnerships from larger retail players are emerging to fill some of this void, the broader market still faces a challenge. Moving forward, a shift in investor perspective, perhaps focusing on \"patient capital\" or specialized funds that understand the unique dynamics of retail, may be necessary to unlock the full potential of technological advancement in this vital sector.",
+    "excerpt": "Despite retail being a colossal industry undergoing significant digital transformation, venture capital funding for retail technology remains surprisingly low. This disparity stems from a complex interplay of factors, including the perceived slow ado...",
+    "author": "Forbes",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-why-retail-tech-gets-so-little-venture-capital-0.jpg",
+    "publishedDate": "2026-07-23 15:53:18",
+    "sourceUrl": "https://www.forbes.com/sites/richardkestenbaum/2026/07/23/why-retail-tech-gets-so-little-venture-capital/"
+  },
+  {
+    "_id": "technology-after-accusing-kimi-k3-ai-model-maker-moonshot-ai--1",
+    "title": "After accusing Kimi K3 AI model maker Moonshot AI of ‘stealing’ Anthropic's Fable model, Scott Bessent warns Chinese companies of ‘Entity List designations’",
+    "slug": "after-accusing-kimi-k3-ai-model-maker-moonshot-ai-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "US Treasury Secretary Scott Bessent warned Chinese AI companies about potential sanctions. Moonshot AI is accused of using restricted Nvidia chips for its Kimi K3 model. Officials claim evidence shows",
+    "author": "Toi",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-after-accusing-kimi-k3-ai-model-maker-moonshot-ai--1.jpg",
+    "publishedDate": "2026-07-23 15:52:41",
+    "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-accusing-kimi-k3-ai-model-maker-moonshot-ai-of-stealing-anthropics-fable-model-scott-bessent-warns-chinese-companies-of-entity-list-designations/articleshow/132586607.cms"
+  },
+  {
+    "_id": "technology-infosys-appoints-ashiss-kumar-dash-as-ceo-designat-2",
+    "title": "Infosys appoints Ashiss Kumar Dash as CEO designate",
+    "slug": "infosys-appoints-ashiss-kumar-dash-as-ceo-designat",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Infosys Chairman Nandan Nilekani said the board chose an internal leader to guide the company through changes in the technology industry while maintaining its values and customer trust.",
+    "author": "Newindianexpress",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-infosys-appoints-ashiss-kumar-dash-as-ceo-designat-2.jpg",
+    "publishedDate": "2026-07-23 15:48:51",
+    "sourceUrl": "https://www.newindianexpress.com/business/2026/Jul/23/infosys-appoints-ashiss-kumar-dash-as-ceo-designate"
+  },
+  {
     "_id": "cybersecurity-the-openai-cybersecurity-attack-exposes-a-terrifyi-0",
     "title": "The OpenAI cybersecurity attack exposes a terrifying prospect",
     "slug": "the-openai-cybersecurity-attack-exposes-a-terrifyi",
@@ -304,56 +355,5 @@
     "imageUrl": "/news-images/business-panama-fm-vasquez-backs-india-for-permanent-un-sec-2.jpg",
     "publishedDate": "2026-07-22 17:11:38",
     "sourceUrl": "https://www.wionews.com/world/panama-fm-v-squez-backs-india-for-permanent-un-security-council-seat-seeks-iit-campus-indian-investments-1784739818933"
-  },
-  {
-    "_id": "technology-femtoai-unlocks-5x-growth-with-full-stack-ai-infer-0",
-    "title": "FEMTOAI UNLOCKS 5X GROWTH WITH FULL-STACK AI INFERENCE PLATFORM",
-    "slug": "femtoai-unlocks-5x-growth-with-full-stack-ai-infer",
-    "content": "FemtoAI, a rapidly ascending technology firm, has declared an impressive fivefold growth, a testament to the market's enthusiastic adoption of its groundbreaking full-stack AI inference platform. This surge in expansion highlights the company's success in addressing one of the most pressing challenges in artificial intelligence today: efficiently deploying sophisticated AI models in real-world, often resource-constrained, environments. By offering an integrated solution that streamlines the entire AI lifecycle, FemtoAI is empowering industries to transition from theoretical AI capabilities to tangible, high-impact applications, driving both innovation and significant operational efficiencies.\n\nThe journey to widespread AI adoption has been frequently hampered by the complexities and costs associated with deploying advanced machine learning models, especially at the network's edge. Traditional methods often struggle with latency issues, high computational demands, and fragmented toolchains, making it difficult for enterprises to scale their AI initiatives effectively. FemtoAI was founded by Dr. Arash Rouhani, CEO, and Dr. Behnam Ghasemzadeh, CTO, both experts in AI, high-performance computing, and embedded systems, with a clear vision to bridge this gap. Their platform was engineered from the ground up to overcome these inherent limitations, providing a holistic solution that optimizes every layer of the AI inference stack.\n\nWhat sets FemtoAI's platform apart is its comprehensive \"full-stack\" methodology, which extends beyond mere model optimization to encompass data processing, hardware acceleration, and runtime management. The platform leverages proprietary algorithms and hardware-aware optimizations to dramatically reduce inference costs by up to 10 times, while simultaneously enhancing model performance and accelerating deployment timelines from several months to just a few weeks. This integration allows organizations to deploy and manage AI applications with unprecedented speed and cost-efficiency, transforming how businesses leverage predictive analytics and intelligent automation across their operations.\n\nIndustry analysts are quick to highlight the significance of FemtoAI's achievements in the broader AI landscape. \"The ability to deploy complex AI models efficiently and cost-effectively at the edge is no longer a luxury, but a necessity for enterprise competitiveness,\" states Dr. Evelyn Reed, a lead analyst at TechInsights Group. \"FemtoAI's full-stack approach directly tackles the friction points that have historically hindered large-scale AI adoption. Their platform represents a crucial step forward, enabling businesses to move beyond proof-of-concept stages to full-scale operationalization, thereby unlocking immense value from their AI investments.\" This sentiment underscores the market's readiness for integrated solutions that simplify and accelerate AI deployment.\n\nThe implications of FemtoAI's platform are far-reaching, promising to accelerate innovation across a multitude of critical sectors. Industries such as Aerospace & Defense, Industrial manufacturing, Automotive, Medical Imaging, Robotics, and Smart Cities stand to benefit immensely from the ability to deploy high-performance AI with greater ease and lower cost. For instance, in industrial settings, real-time anomaly detection can prevent costly equipment failures, while in medical imaging, faster and more accurate diagnostics can revolutionize patient care. FemtoAI’s technology provides the foundational infrastructure for these sectors to realize next-generation intelligent applications, fostering smarter, more autonomous operations.\n\nAs AI continues to permeate every facet of business and daily life, platforms like FemtoAI's will become indispensable for companies striving to maintain a competitive edge. The company's rapid growth not only validates its technological prowess but also signals a broader shift in how enterprises approach AI implementation. By simplifying the complex journey from AI model development to real-world deployment, FemtoAI is poised to play a crucial role in shaping the future of intelligent systems, making advanced AI capabilities more accessible and impactful for organizations worldwide.",
-    "excerpt": "FemtoAI, a pioneering force in artificial intelligence, has announced a remarkable 5x growth, attributed directly to its innovative full-stack AI inference platform. This significant expansion underscores the critical market demand for efficient and ...",
-    "author": "Cision",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-femtoai-unlocks-5x-growth-with-full-stack-ai-infer-0.jpg",
-    "publishedDate": "2026-07-22 15:55:00",
-    "sourceUrl": "https://www.prnewswire.com/news-releases/femtoai-unlocks-5x-growth-with-full-stack-ai-inference-platform-302832353.html"
-  },
-  {
-    "_id": "technology-move-beyond-pursuit-of-academic-certificates-ceo-c-1",
-    "title": "Move beyond pursuit of academic certificates - CEO charges students",
-    "slug": "move-beyond-pursuit-of-academic-certificates-ceo-c",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "An alumnus from Cape Coast Technical University (CCTU) and the Chief Executive Officer of Elite B & C Company Limited, Derrick Akomprah, has challenged university students to move beyond the pursuit o",
-    "author": "Graphic Gh",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-move-beyond-pursuit-of-academic-certificates-ceo-c-1.jpg",
-    "publishedDate": "2026-07-22 15:50:26",
-    "sourceUrl": "https://www.graphic.com.gh/news/education/ghana-news-move-beyond-pursuit-of-academic-certificates-ceo-charges-students.html"
-  },
-  {
-    "_id": "technology-light-readings-leading-lights-awards-2026-the-fina-2",
-    "title": "Light Reading's Leading Lights Awards 2026: The Finalists",
-    "slug": "light-readings-leading-lights-awards-2026-the-fina",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Light Reading is pleased to announce the 151 finalists chosen from hundreds of entries in this year's Leading Lights Awards.",
-    "author": "Lightreading",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-light-readings-leading-lights-awards-2026-the-fina-2.jpg",
-    "publishedDate": "2026-07-22 15:50:00",
-    "sourceUrl": "https://www.lightreading.com/optical-networking/light-reading-s-leading-lights-awards-2026-the-finalists"
   }
 ]
