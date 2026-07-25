@@ -1,5 +1,56 @@
 [
   {
+    "_id": "technology-open-banking-has-grown-up-now-businesses-are-choos-0",
+    "title": "Open Banking has grown up – now businesses are choosing who they trust",
+    "slug": "open-banking-has-grown-up-now-businesses-are-choos",
+    "content": "The financial technology landscape is witnessing a profound maturation of Open Banking, moving decisively from a compliance-driven mandate to a value-added business solution. Initially conceived to empower consumers with greater control over their financial data and foster competition within the banking sector, Open Banking's capabilities are now being strategically harnessed by businesses across various industries. This evolution signifies that companies are no longer merely experimenting with data-sharing protocols but are actively integrating these advanced tools to gain competitive advantages, streamline operations, and enhance their financial decision-making processes. The emphasis has shifted from simply accessing data to discerning which partners can provide secure, reliable, and actionable insights.\n\nOpen Banking's journey began with directives like the EU's Revised Payment Services Directive (PSD2), which mandated banks to open up their customer data (with explicit consent) to regulated third-party providers via secure Application Programming Interfaces (APIs). While the initial rollout faced challenges related to standardization, adoption rates, and user understanding, it laid the groundwork for a more interconnected financial ecosystem. For years, the conversation centered on consumer-facing applications like personal finance management tools, but the underlying infrastructure built for secure data exchange has proven to be incredibly versatile. This foundational work has now enabled a new wave of B2B applications, demonstrating the true scalability and potential of API-driven finance.\n\nToday, businesses are leveraging Open Banking in sophisticated ways that go far beyond basic account aggregation. From real-time cash flow management and automated reconciliation to enhanced credit scoring for lending and instant payment initiation, the applications are vast and growing. Companies can gain a comprehensive, up-to-the-minute view of their financial health, enabling quicker, more informed decisions and significantly reducing manual administrative burdens. However, as the stakes grow higher with the integration of critical financial data, the choice of Open Banking providers becomes paramount, with businesses meticulously evaluating factors like data security protocols, API reliability, regulatory compliance, and the overall trustworthiness of their partners.\n\nIndustry experts underscore that this shift towards strategic business adoption is a natural progression for a technology that has proven its fundamental utility. \"We're seeing a clear move from 'can we do this?' to 'how can this fundamentally transform our business?'\" notes Sarah Jenkins, a lead analyst at Fintech Insights Group. \"The initial focus on regulatory compliance has matured into a market where businesses are actively seeking out providers who not only offer robust technology but also demonstrate an unwavering commitment to data privacy and security. Trust is the new currency in this evolved Open Banking landscape, and providers who can build that confidence will win.\" This expert perspective highlights the competitive nature of the market and the high bar for entry for providers.\n\nLooking ahead, the implications of this business-centric Open Banking evolution are profound, promising to reshape how enterprises manage their finances, interact with banks, and even conduct commerce. It fosters greater efficiency, reduces operational costs, and unlocks new avenues for innovation, particularly for Small and Medium-sized Enterprises (SMEs) that traditionally struggle with access to tailored financial services. The continued expansion of Open Banking into Open Finance, encompassing a wider array of financial products like investments and pensions, will further amplify its transformative potential. As the ecosystem matures, strong regulatory oversight and industry collaboration will be crucial to maintaining the integrity and security of the shared financial data.\n\nIn conclusion, Open Banking has unequivocally shed its nascent skin, emerging as a powerful and indispensable tool for businesses navigating the complexities of the modern economy. The initial promise of financial empowerment, once largely directed at consumers, is now being fully realized within the corporate sphere, driving efficiency, innovation, and strategic advantage. The critical determinant for success in this next phase will undoubtedly be the ability of Open Banking providers to cultivate and maintain unwavering trust, ensuring that businesses can confidently share and utilize their financial data to unlock unprecedented growth and operational excellence.",
+    "excerpt": "Open Banking, once primarily a regulatory initiative focused on consumer data, has undeniably come of age, transitioning into a mature financial infrastructure. Businesses are increasingly recognizing its transformative potential, moving beyond initi...",
+    "author": "Electronicpaymentsinternational",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-open-banking-has-grown-up-now-businesses-are-choos-0.jpg",
+    "publishedDate": "2026-07-24 15:48:28",
+    "sourceUrl": "https://www.electronicpaymentsinternational.com/comment/open-banking-now-businesses-choosing-who-they-trust/"
+  },
+  {
+    "_id": "technology-enterprises-contend-with-mounting-ai-costs-as-tool-1",
+    "title": "Enterprises contend with mounting AI costs as tools sprawl",
+    "slug": "enterprises-contend-with-mounting-ai-costs-as-tool",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Vendors are working to help CIOs reach a delicate balance of enabling technology adoption — without breaking the budget.",
+    "author": "Ciodive",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-enterprises-contend-with-mounting-ai-costs-as-tool-1.jpg",
+    "publishedDate": "2026-07-24 15:48:00",
+    "sourceUrl": "https://www.ciodive.com/news/CIO-AI-costs-management/826116/"
+  },
+  {
+    "_id": "technology-policy-watch-dhs-puts-new-limit-on-international-s-2",
+    "title": "Policy Watch: DHS puts new limit on international student stays in the US",
+    "slug": "policy-watch-dhs-puts-new-limit-on-international-s",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "A weekly roundup of policy news in the chemical arena and beyond",
+    "author": "Cen Org",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-policy-watch-dhs-puts-new-limit-on-international-s-2.jpg",
+    "publishedDate": "2026-07-24 15:47:36",
+    "sourceUrl": "https://cen.acs.org/policy/student-visa-grant-animal-testing-tfa/104/web/2026/07?sc=230901_cenrssfeed_eng_latestnewsrss_cen"
+  },
+  {
     "_id": "cybersecurity-weekly-news-roundup-openai-hacks-hugging-face-goog-0",
     "title": "Weekly news roundup: OpenAI hacks Hugging Face, Google expands Gemini, Meta lawsuit dropped",
     "slug": "weekly-news-roundup-openai-hacks-hugging-face-goog",
@@ -304,56 +355,5 @@
     "imageUrl": "/news-images/business-china-and-the-new-era-of-critical-minerals-diploma-2.jpg",
     "publishedDate": "2026-07-23 17:22:17",
     "sourceUrl": "https://financialpost.com/financial-times/china-and-the-new-era-of-critical-minerals-diplomacy"
-  },
-  {
-    "_id": "technology-why-retail-tech-gets-so-little-venture-capital-0",
-    "title": "Why Retail Tech Gets So Little Venture Capital",
-    "slug": "why-retail-tech-gets-so-little-venture-capital",
-    "content": "The global retail sector represents a multi-trillion-dollar economy, serving as a foundational pillar for employment and consumer spending worldwide. From e-commerce giants to local brick-and-mortar stores, the industry is constantly evolving, driven by shifting consumer behaviors and technological advancements. One might expect this massive market to attract substantial venture capital investment, particularly in technologies designed to enhance efficiency, customer experience, and supply chain management. However, data consistently shows that retail tech receives a disproportionately small share of VC funding compared to sectors like fintech, healthcare tech, or pure enterprise software.\n\nSeveral core reasons contribute to this venture capital reluctance. Firstly, the retail industry, especially its traditional segments, is often characterized by slower adoption cycles and a fragmented landscape. Large legacy retailers can be risk-averse, burdened by existing infrastructure and complex internal processes, making rapid deployment of new technologies challenging. Secondly, retail technology often addresses highly operational problems, requiring deep integration with physical inventory, supply chains, and point-of-sale systems, which adds layers of complexity and cost not typically found in purely digital B2B SaaS solutions. This complexity can deter VCs seeking straightforward, easily scalable software plays.\n\nFurthermore, venture capitalists are primarily driven by the potential for exponential growth and massive returns within a relatively short timeframe. Many retail tech solutions, while valuable, offer incremental improvements rather than disruptive, winner-take-all market transformations. The sales cycles to retailers can be long and arduous, requiring significant upfront investment in customer acquisition. This often leads to lower gross margins and slower revenue growth compared to, for example, a viral consumer app or an enterprise SaaS platform with a low-touch sales model, making the risk-reward profile less attractive for traditional VC funds.\n\nIndustry experts frequently weigh in on this paradox. \"Venture capital looks for leverage and network effects,\" explains Sarah Chen, a partner at a leading VC firm. \"Retail tech often requires boots on the ground, custom integrations, and slower customer acquisition, which doesn't fit the typical VC playbook for rapid scale.\" Conversely, retail tech founders often lament the difficulty in securing early-stage funding, highlighting that their innovations, while potentially offering substantial long-term value to retailers, struggle to meet the aggressive growth metrics demanded by VCs. This gap often forces promising startups to seek alternative funding sources or scale more slowly.\n\nThe implications of this underinvestment are significant for the retail industry as a whole. It can stifle innovation, making it harder for traditional retailers to compete with digitally native brands and agile e-commerce platforms that are built on modern tech stacks. While corporate venture arms and strategic partnerships from larger retail players are emerging to fill some of this void, the broader market still faces a challenge. Moving forward, a shift in investor perspective, perhaps focusing on \"patient capital\" or specialized funds that understand the unique dynamics of retail, may be necessary to unlock the full potential of technological advancement in this vital sector.",
-    "excerpt": "Despite retail being a colossal industry undergoing significant digital transformation, venture capital funding for retail technology remains surprisingly low. This disparity stems from a complex interplay of factors, including the perceived slow ado...",
-    "author": "Forbes",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-why-retail-tech-gets-so-little-venture-capital-0.jpg",
-    "publishedDate": "2026-07-23 15:53:18",
-    "sourceUrl": "https://www.forbes.com/sites/richardkestenbaum/2026/07/23/why-retail-tech-gets-so-little-venture-capital/"
-  },
-  {
-    "_id": "technology-after-accusing-kimi-k3-ai-model-maker-moonshot-ai--1",
-    "title": "After accusing Kimi K3 AI model maker Moonshot AI of ‘stealing’ Anthropic's Fable model, Scott Bessent warns Chinese companies of ‘Entity List designations’",
-    "slug": "after-accusing-kimi-k3-ai-model-maker-moonshot-ai-",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "US Treasury Secretary Scott Bessent warned Chinese AI companies about potential sanctions. Moonshot AI is accused of using restricted Nvidia chips for its Kimi K3 model. Officials claim evidence shows",
-    "author": "Toi",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-after-accusing-kimi-k3-ai-model-maker-moonshot-ai--1.jpg",
-    "publishedDate": "2026-07-23 15:52:41",
-    "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/after-accusing-kimi-k3-ai-model-maker-moonshot-ai-of-stealing-anthropics-fable-model-scott-bessent-warns-chinese-companies-of-entity-list-designations/articleshow/132586607.cms"
-  },
-  {
-    "_id": "technology-infosys-appoints-ashiss-kumar-dash-as-ceo-designat-2",
-    "title": "Infosys appoints Ashiss Kumar Dash as CEO designate",
-    "slug": "infosys-appoints-ashiss-kumar-dash-as-ceo-designat",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Infosys Chairman Nandan Nilekani said the board chose an internal leader to guide the company through changes in the technology industry while maintaining its values and customer trust.",
-    "author": "Newindianexpress",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-infosys-appoints-ashiss-kumar-dash-as-ceo-designat-2.jpg",
-    "publishedDate": "2026-07-23 15:48:51",
-    "sourceUrl": "https://www.newindianexpress.com/business/2026/Jul/23/infosys-appoints-ashiss-kumar-dash-as-ceo-designate"
   }
 ]
