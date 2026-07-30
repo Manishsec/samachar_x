@@ -1,5 +1,56 @@
 [
   {
+    "_id": "technology-tines-launches-3b-to-govern-ai-generated-workflows-0",
+    "title": "Tines launches 3B to govern AI-generated workflows",
+    "slug": "tines-launches-3b-to-govern-ai-generated-workflows",
+    "content": "In a significant move to address the escalating complexities of AI integration, Tines, a renowned name in security orchestration and automation, has officially launched its \"3B\" solution. This new offering is specifically engineered to empower organizations with unparalleled visibility and control over workflows generated or influenced by artificial intelligence. As enterprises across various sectors increasingly leverage AI for everything from content creation to data analysis, the imperative for robust governance and security mechanisms has become paramount, a need that 3B is precisely designed to fulfill.\n\nThe rapid proliferation of generative AI tools, such as ChatGPT and other large language models, has revolutionized productivity but simultaneously introduced a myriad of security vulnerabilities and compliance risks. Organizations are grappling with the potential for sensitive data exposure, the generation of inaccurate or biased information (\"hallucinations\"), and the challenge of maintaining regulatory compliance when AI systems operate with limited oversight. Tines' 3B arrives at a critical juncture, offering a much-needed framework to manage these \"blind spots\" and mitigate the inherent risks posed by unmanaged AI interactions within corporate networks.\n\nTines' 3B framework is built upon three core pillars: Block, Blind, and Beep, each addressing a distinct aspect of AI workflow governance. The \"Block\" functionality allows security teams to prevent unsafe or unauthorized AI interactions, effectively acting as a digital gatekeeper for AI-driven processes. \"Blind\" capabilities are designed to obscure sensitive or proprietary data from AI models, ensuring that confidential information is never inadvertently exposed during AI-generated tasks. Finally, \"Beep\" provides real-time alerts and notifications to security personnel whenever suspicious or policy-violating AI activities are detected, enabling swift intervention and remediation.\n\nIndustry experts are hailing the introduction of solutions like 3B as essential for fostering responsible AI adoption. Eoin Hinchy, CEO of Tines, articulated the vision behind 3B, stating that \"The promise of AI is immense, but so are the risks if left ungoverned. We built 3B to give security teams the tools they need to embrace AI innovation without compromising security or compliance.\" Cybersecurity analysts concur, emphasizing that robust governance tools are no longer optional but critical for mitigating data breaches, maintaining regulatory trust, and ensuring that AI serves as a powerful asset rather than a significant liability for businesses.\n\nThe implications of Tines' 3B extend beyond immediate security enhancements; it promises to accelerate the safe and responsible integration of AI across enterprise operations. By providing a clear pathway for governance, 3B could encourage broader AI experimentation and deployment, fostering innovation while simultaneously safeguarding critical assets and data. This proactive approach to AI security signifies a crucial shift in how organizations are preparing for the future, moving from reactive damage control to a strategic framework that balances technological advancement with stringent security protocols, ultimately building greater trust in AI systems.\n\nIn conclusion, Tines' launch of 3B represents a pivotal development in the evolving landscape of AI security and governance. As artificial intelligence continues to embed itself deeper into the fabric of business operations, the demand for sophisticated tools that can manage its complexities responsibly will only intensify. Solutions like 3B are not merely about preventing threats; they are about enabling organizations to harness the transformative power of AI confidently, ensuring that innovation proceeds hand-in-hand with robust security and compliance, thereby solidifying Tines' position at the forefront of tackling modern cybersecurity challenges.",
+    "excerpt": "Leading security automation platform Tines has unveiled \"3B,\" a new suite designed to provide comprehensive governance and control over AI-generated workflows within enterprise environments. This innovative offering aims to tackle the burgeoning secu...",
+    "author": "Securitybrief Au",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-tines-launches-3b-to-govern-ai-generated-workflows-0.jpg",
+    "publishedDate": "2026-07-29 15:40:00",
+    "sourceUrl": "https://securitybrief.com.au/story/tines-launches-3b-to-govern-ai-generated-workflows"
+  },
+  {
+    "_id": "technology-tines-launches-3b-to-govern-ai-generated-workflows-1",
+    "title": "Tines launches 3B to govern AI-generated workflows",
+    "slug": "tines-launches-3b-to-govern-ai-generated-workflows",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The platform targets firms struggling to oversee a surge in AI-built software, as governance gaps create security and compliance risks.",
+    "author": "Itbrief Asia",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-tines-launches-3b-to-govern-ai-generated-workflows-1.jpg",
+    "publishedDate": "2026-07-29 15:40:00",
+    "sourceUrl": "https://itbrief.asia/story/tines-launches-3b-to-govern-ai-generated-workflows"
+  },
+  {
+    "_id": "technology-tines-launches-3b-to-govern-ai-generated-workflows-2",
+    "title": "Tines launches 3B to govern AI-generated workflows",
+    "slug": "tines-launches-3b-to-govern-ai-generated-workflows",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The platform targets firms struggling to oversee a surge in AI-built software, as governance gaps create security and compliance risks.",
+    "author": "Itbrief Com Au",
+    "category": {
+      "name": "Technology",
+      "slug": "technology",
+      "icon": "💻",
+      "color": "#0891b2"
+    },
+    "imageUrl": "/news-images/technology-tines-launches-3b-to-govern-ai-generated-workflows-2.jpg",
+    "publishedDate": "2026-07-29 15:40:00",
+    "sourceUrl": "https://itbrief.com.au/story/tines-launches-3b-to-govern-ai-generated-workflows"
+  },
+  {
     "_id": "cybersecurity-how-did-memory-chipmaker-cxmt-become-chinas-most-v-0",
     "title": "How did memory chipmaker CXMT become China’s most valuable stock? | Explained",
     "slug": "how-did-memory-chipmaker-cxmt-become-chinas-most-v",
@@ -304,56 +355,5 @@
     "imageUrl": "/news-images/business-kazakhstan-to-fully-meet-domestic-electricity-dema-2.jpg",
     "publishedDate": "2026-07-28 17:02:40",
     "sourceUrl": "https://daryo.uz/en/2026/07/28/kazakhstan-aims-to-fully-meet-domestic-electricity-demand-in-2027/"
-  },
-  {
-    "_id": "technology-mozambique-prioritises-digital-infrastructure-to-d-0",
-    "title": "Mozambique Prioritises Digital Infrastructure to Drive AI, Financial Services and Economic Growth",
-    "slug": "mozambique-prioritises-digital-infrastructure-to-d",
-    "content": "The Mozambican government has signaled a clear intent to transform its economic landscape through a comprehensive digital transformation agenda. This initiative goes beyond mere connectivity, encompassing plans to significantly improve internet access, develop secure data centers, and strengthen cybersecurity frameworks nationwide. The overarching goal is to lay a resilient digital foundation that can support emerging technologies like AI, facilitate modern financial transactions, and drive innovation across various sectors, moving the economy beyond its traditional reliance on natural resources.\n\nHistorically, Mozambique has faced challenges in fully harnessing its economic potential, partly due to infrastructural deficits and limited access to modern technologies for a significant portion of its population. The current push for digital infrastructure is a strategic response to these long-standing issues, aiming to bridge existing connectivity gaps and empower citizens and businesses alike. By investing in these foundational elements, the nation seeks to leapfrog traditional development stages, positioning itself to compete in the global digital economy and attract much-needed foreign direct investment.\n\nA key component of this strategy involves creating a vibrant ecosystem for AI development and deployment. The government envisions AI as a transformative force capable of enhancing efficiency and innovation in critical sectors such as agriculture, healthcare, and education. Simultaneously, the focus on digital infrastructure is expected to revolutionize financial services, promoting widespread digital payments, mobile banking, and fostering fintech innovation. This expansion is crucial for increasing financial inclusion, particularly for the large unbanked population, by providing easier and more secure access to financial tools and services.\n\nExperts and economic analysts view Mozambique's digital infrastructure prioritization as a critical and timely move, acknowledging its potential to unlock significant economic diversification and job creation. They suggest that a robust digital backbone will not only attract technology companies but also empower local entrepreneurs, fostering a new generation of digital businesses. However, analysts also caution that success will hinge on addressing critical challenges, including developing a skilled digital workforce, establishing clear and supportive regulatory frameworks, and ensuring equitable access to technology across urban and rural areas.\n\nLooking ahead, the successful implementation of this digital agenda promises far-reaching implications for Mozambican society and its economy. Beyond direct economic benefits, improved digital infrastructure is expected to enhance public service delivery through e-governance initiatives, improve access to quality education via online learning platforms, and boost healthcare efficiency. The government's commitment to fostering public-private partnerships will be vital in mobilizing the necessary resources and expertise to realize this ambitious vision, ultimately positioning Mozambique as a more competitive and digitally empowered nation within the African continent.",
-    "excerpt": "Mozambique is embarking on an ambitious national strategy, placing the development of robust digital infrastructure at the forefront of its economic agenda. This strategic pivot aims to create a conducive environment for the advancement of artificial...",
-    "author": "Thezimbabwemail",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-mozambique-prioritises-digital-infrastructure-to-d-0.jpg",
-    "publishedDate": "2026-07-28 15:48:59",
-    "sourceUrl": "https://thezimbabwemail.com/tech-ai/mozambique-prioritises-digital-infrastructure-to-drive-ai-financial-services-and-economic-growth/"
-  },
-  {
-    "_id": "technology-prism-marketview-features-exclusive-qa-with-atlasc-1",
-    "title": "PRISM MarketView Features Exclusive Q&A with AtlasClear Holdings Executive Chairman John Schaible and President Craig Ridenhour on Digital Asset Strategy, M&A and Platform Buildout",
-    "slug": "prism-marketview-features-exclusive-qa-with-atlasc",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "NEW YORK, July 28, 2026 (GLOBE NEWSWIRE) -- PRISM MarketView today published an exclusive Q&A feature with John Schaible, Executive Chairman, and Craig Ridenhour, President, of AtlasClear Holdings (NY",
-    "author": "Manilatimes",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-prism-marketview-features-exclusive-qa-with-atlasc-1.jpg",
-    "publishedDate": "2026-07-28 15:47:50",
-    "sourceUrl": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/prism-marketview-features-exclusive-qa-with-atlasclear-holdings-executive-chairman-john-schaible-and-president-craig-ridenhour-on-digital-asset-strategy-ma-and-platform-buildout/2393349"
-  },
-  {
-    "_id": "technology-leonardo-drs-to-acquire-raft-expanding-multi-domai-2",
-    "title": "Leonardo DRS to Acquire Raft, Expanding Multi-Domain AI, Data Fusion and Mission Software Capabilities",
-    "slug": "leonardo-drs-to-acquire-raft-expanding-multi-domai",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Acquisition adds new capabilities in open-architecture software and AI to support integrated mission solutions ARLINGTON, Va., July 28, 2026 (GLOBE NEWSWIRE) -- Leonardo DRS, Inc. (Nasdaq: DRS) today ",
-    "author": "Manilatimes",
-    "category": {
-      "name": "Technology",
-      "slug": "technology",
-      "icon": "💻",
-      "color": "#0891b2"
-    },
-    "imageUrl": "/news-images/technology-leonardo-drs-to-acquire-raft-expanding-multi-domai-2.jpg",
-    "publishedDate": "2026-07-28 15:47:40",
-    "sourceUrl": "https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/leonardo-drs-to-acquire-raft-expanding-multi-domain-ai-data-fusion-and-mission-software-capabilities/2393346"
   }
 ]
