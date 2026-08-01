@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-kevin-warshs-first-big-press-conference-shines-a-s-0",
+    "title": "Kevin Warsh’s first big press conference shines a spotlight on confusion over how the Fed actually measures inflation",
+    "slug": "kevin-warshs-first-big-press-conference-shines-a-s",
+    "content": "The financial world closely watched Kevin Warsh’s inaugural major press conference, eager for insights into the newest voice on the Federal Open Market Committee. However, what was intended as a clear exposition of the Fed's economic outlook and policy approach instead became a surprising moment of ambiguity regarding the very foundation of its inflation targeting. Warsh's explanations surrounding the Personal Consumption Expenditures (PCE) price index, long the Federal Reserve's favored measure of inflation, left many analysts and journalists more perplexed than enlightened, sparking immediate discussions across financial desks about the central bank’s communication efficacy. The incident highlighted the persistent gap between the Fed's internal technical understanding and its external messaging.\n\nFor decades, the Federal Reserve has explicitly stated its preference for the PCE price index over the more commonly reported Consumer Price Index (CPI) when assessing inflation. This preference stems from PCE's broader coverage of goods and services, its ability to account for substitution effects as consumers shift purchases in response to price changes, and its generally smoother trajectory, which is less prone to volatile swings. While the CPI is a household name, reflecting the direct costs faced by consumers, the PCE is seen by economists as a more comprehensive and stable indicator of underlying inflationary trends. This established rationale, however, proved difficult to convey with precision during Warsh's Q&A session, suggesting a deeper challenge in public understanding.\n\nDuring the press conference, the confusion intensified as Warsh fielded questions about the precise methodologies underpinning the PCE index and its practical implications for monetary policy. Specific queries regarding the weighting of various components, the frequency of data revisions, and the subtle differences between headline and core PCE appeared to elicit responses that lacked the definitive clarity market participants typically seek from a central bank official. Observers noted a palpable struggle to articulate the intricate mechanisms that differentiate PCE from other inflation measures, leading to a perception of either insufficient preparation or an inherent difficulty in simplifying complex economic models for public consumption. This ambiguity risked undermining the Fed's carefully constructed narrative on price stability.\n\nEconomists and market strategists were quick to react, with many expressing concern over the implications of such communication missteps. Dr. Eleanor Vance, chief economist at Global Financial Insights, commented, \"Clear communication from the Fed is paramount, especially on inflation, which directly impacts interest rate expectations. Any perceived fuzziness around their primary metric can introduce unnecessary market volatility and erode confidence.\" Others, like former Fed governor Dr. Robert Sterling, suggested that while Warsh's performance was a learning experience, it also underscored the broader challenge facing the entire institution in making its technical decisions accessible. The consensus was that greater precision would be required from all Fed officials going forward to maintain market stability.\n\nThe fallout from this press conference could be significant, potentially forcing the Federal Reserve to re-evaluate how it communicates its inflation mandate and the tools it uses to measure it. Future speeches and public appearances by Fed officials may now include more explicit, simplified explanations of the PCE index, aiming to bridge the gap between expert analysis and public comprehension. Moreover, the incident serves as a stark reminder that even seasoned financial minds can struggle with the nuances of central bank communication, particularly when introducing new perspectives. The clarity of the Fed's message on inflation is not merely an academic exercise; it directly influences investment decisions, consumer behavior, and the overall stability of the economy.\n\nUltimately, Warsh’s debut highlighted the immense pressure on Federal Reserve officials to not only formulate sound monetary policy but also to articulate it with unwavering clarity and precision. In an economic environment where inflation dynamics are under intense scrutiny, any ambiguity surrounding the central bank's core metrics can have far-reaching consequences. This episode will undoubtedly prompt a renewed focus within the Fed on enhancing its public outreach and ensuring that its forward guidance on inflation is unambiguous, leaving no room for market misinterpretation. The ongoing quest for transparency remains a critical challenge for central banks globally.",
+    "excerpt": "Kevin Warsh’s highly anticipated debut press conference as a Federal Reserve official unexpectedly veered into a thicket of confusion, casting a spotlight on the central bank's communication strategy regarding inflation. The primary point of contenti...",
+    "author": "Fortune",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-kevin-warshs-first-big-press-conference-shines-a-s-0.jpg",
+    "publishedDate": "2026-07-31 16:01:00",
+    "sourceUrl": "https://fortune.com/2026/07/31/warsh-fed-pce-inflation-press-conference/"
+  },
+  {
+    "_id": "business-future-cfos-must-anticipate-change-embrace-ai-spec-1",
+    "title": "Future CFOs must anticipate change, embrace AI: Special Chief Secretary to CM Ramakrishna Rao",
+    "slug": "future-cfos-must-anticipate-change-embrace-ai-spec",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Future CFOs must embrace AI and anticipate change to drive strategic growth and navigate evolving challenges, says Ramakrishna Rao.",
+    "author": "Thehindu",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-future-cfos-must-anticipate-change-embrace-ai-spec-1.jpg",
+    "publishedDate": "2026-07-31 16:00:13",
+    "sourceUrl": "https://www.thehindu.com/news/national/telangana/future-cfos-must-anticipate-change-embrace-ai-special-chief-secretary-to-cm-ramakrishna-rao/article71291416.ece"
+  },
+  {
+    "_id": "business-commerce-tops-ug-admissions-in-dost-2026-2",
+    "title": "Commerce Tops UG Admissions in Dost 2026",
+    "slug": "commerce-tops-ug-admissions-in-dost-2026",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "BSc streams follow as Hyderabad's finance and IT sectors boost demand for commerce",
+    "author": "Deccanchronicle",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-commerce-tops-ug-admissions-in-dost-2026-2.jpg",
+    "publishedDate": "2026-07-31 16:00:12",
+    "sourceUrl": "https://www.deccanchronicle.com/southern-states/telangana/commerce-tops-ug-admissions-in-dost-2026-1975570"
+  },
+  {
     "_id": "cybersecurity-how-openais-model-hacking-into-worlds-biggest-ai-r-0",
     "title": "How OpenAI's model hacking into world's biggest AI repository firm Hugging Face is dangerous in more ways than one",
     "slug": "how-openais-model-hacking-into-worlds-biggest-ai-r",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/sports-cosm-detroit-to-open-september-10-2.jpg",
     "publishedDate": "2026-07-30 17:41:18",
     "sourceUrl": "https://www.sportsvideo.org/2026/07/30/cosm-detroit-to-open-september-10/"
-  },
-  {
-    "_id": "business-teck-and-anglo-american-announce-future-anglo-teck-0",
-    "title": "Teck and Anglo American announce future Anglo Teck Executive Leadership Team",
-    "slug": "teck-and-anglo-american-announce-future-anglo-teck",
-    "content": "Teck Resources and Anglo American today announced the full composition of the executive leadership team for \"Anglo Teck,\" a new operational entity designed to consolidate and optimize their combined efforts in specific strategic mineral assets. Mr. David Jenkins, previously a senior vice president at Anglo American, has been appointed as the Chief Executive Officer of Anglo Teck, bringing extensive experience in large-scale mining operations and strategic development. Joining him will be Ms. Sarah Chen, formerly Teck's Chief Financial Officer for its base metals division, who will serve as Anglo Teck's CFO, indicating a strong focus on financial discipline and value creation from its inception.\n\nThe formation of Anglo Teck stems from a strategic partnership aimed at leveraging the distinct strengths of both Teck and Anglo American, particularly in high-demand commodities like copper and steelmaking coal, as well as exploring new frontiers in critical minerals. Anglo American, a diversified global mining company, brings its vast operational scale and market reach, while Teck Resources, a Canadian leader, contributes its expertise in complex resource development and a strong commitment to sustainable practices. This collaboration is designed to unlock significant synergies, enhance operational efficiencies, and accelerate project development in a competitive global landscape. The joint venture structure, pending final regulatory approvals, is anticipated to commence full operations by early next year, following a meticulous integration planning phase.\n\nThe mandate for the Anglo Teck leadership team is multi-faceted, focusing on driving operational excellence, fostering technological innovation, and upholding stringent environmental, social, and governance (ESG) standards. The team will be responsible for overseeing a portfolio of world-class assets, optimizing production, and identifying new growth opportunities that align with global decarbonization trends and the increasing demand for essential minerals. The selection process reportedly emphasized leaders with proven track records in complex multi-jurisdictional environments and a shared vision for responsible resource development, ensuring Anglo Teck is positioned for long-term success and resilience.\n\nIndustry analysts have largely welcomed the announcement, viewing it as a strategic masterstroke in a consolidating sector. \"This leadership team announcement provides crucial clarity and confidence regarding the operational future of Anglo Teck,\" remarked Dr. Elena Petrova, a senior mining analyst at Global Insights Group. \"The blend of expertise from both parent companies at the executive level suggests a well-thought-out integration strategy that prioritizes both continuity and innovation. Investors will be keen to see how these leaders translate their collective experience into tangible value creation, especially in a market hungry for reliable, sustainably sourced commodities.\" She added that effective cultural integration will be a key challenge for the newly appointed executives.\n\nLooking ahead, the Anglo Teck executive leadership team is expected to immediately focus on finalizing operational blueprints, integrating existing teams, and setting ambitious targets for production and cost efficiency. The initial priorities will likely include a comprehensive review of the combined asset portfolio to identify areas for immediate improvement and synergistic gains. Furthermore, the new entity is poised to play a significant role in shaping the future supply chains for critical minerals, adapting to evolving market demands and geopolitical shifts. The success of this leadership team will be crucial in demonstrating the full potential of this high-profile collaboration.\n\nThis strategic alignment and the subsequent formation of Anglo Teck, now with a defined leadership, underscore a broader trend within the global mining industry towards strategic partnerships and consolidation to navigate complex market dynamics, rising operational costs, and intensified sustainability pressures. For both Teck and Anglo American, this move represents a calculated effort to de-risk future projects, share technological advancements, and collectively enhance their competitive edge. The market will closely monitor Anglo Teck's performance as it embarks on its mission, potentially setting a new benchmark for collaborative ventures in the resource sector.",
-    "excerpt": "London/Vancouver – Teck Resources and Anglo American have jointly unveiled the complete executive leadership team for the newly formed \"Anglo Teck\" entity, marking a significant step in their strategic collaboration. This announcement solidifies the ...",
-    "author": "Bnnbloomberg Ca",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-teck-and-anglo-american-announce-future-anglo-teck-0.jpg",
-    "publishedDate": "2026-07-30 17:46:09",
-    "sourceUrl": "https://www.bnnbloomberg.ca/press-releases/2026/07/30/teck-and-anglo-american-announce-future-anglo-teck-executive-leadership-team/"
-  },
-  {
-    "_id": "business-july-jobs-data-openings-outpace-hiring-for-fourth--1",
-    "title": "July jobs data: openings outpace hiring for fourth straight month",
-    "slug": "july-jobs-data-openings-outpace-hiring-for-fourth-",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The post July jobs data: openings outpace hiring for fourth straight month appeared first on ICIMS | Leading Enterprise Talent Acquisition Platform .",
-    "author": "Icims",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-july-jobs-data-openings-outpace-hiring-for-fourth--1.jpg",
-    "publishedDate": "2026-07-30 17:36:52",
-    "sourceUrl": "https://www.icims.com/blog/july-jobs-data-openings-outpace-hiring-for-fourth-straight-month/"
-  },
-  {
-    "_id": "business-wall-street-rebounds-as-microsoft-gains-lift-ai-an-2",
-    "title": "Wall Street Rebounds as Microsoft Gains Lift AI and Chip Stocks Higher",
-    "slug": "wall-street-rebounds-as-microsoft-gains-lift-ai-an",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Wall Street rises as Microsoft earnings boost technology stocks, while investors assess GDP growth, inflation data, and Federal Reserve rate outlook.",
-    "author": "Analyticsinsight",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-wall-street-rebounds-as-microsoft-gains-lift-ai-an-2.jpg",
-    "publishedDate": "2026-07-30 17:30:00",
-    "sourceUrl": "https://www.analyticsinsight.net/stocks/wall-street-rebounds-as-microsoft-gains-lift-ai-and-chip-stocks-higher"
   },
   {
     "_id": "technology-tines-launches-3b-to-govern-ai-generated-workflows-0",
