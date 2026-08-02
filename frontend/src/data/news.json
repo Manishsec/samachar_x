@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-the-courage-to-challenge-your-own-industry-0",
+    "title": "The courage to challenge your own industry",
+    "slug": "the-courage-to-challenge-your-own-industry",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "ONE OF the things I've learned after years of working in technology is that certainty can be dangerous. The moment we become convinced that one innovation is the answer to every problem is usually the",
+    "author": "Manilatimes",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-the-courage-to-challenge-your-own-industry-0.jpg",
+    "publishedDate": "2026-08-01 16:01:00",
+    "sourceUrl": "https://www.manilatimes.net/2026/08/02/business/sunday-business-it/the-courage-to-challenge-your-own-industry/2394746"
+  },
+  {
+    "_id": "business-lawmakers-allocate-30m-to-kinston-based-flyexclusi-1",
+    "title": "Lawmakers allocate $30M to Kinston-based FlyExclusive for expansion",
+    "slug": "lawmakers-allocate-30m-to-kinston-based-flyexclusi",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "KINSTON — Private jet company FlyExclusive is planning to expand its operations at Kinston’s Global TransPark after local lawmakers allocated $30 million in the new state budget for the construction, ",
+    "author": "Nsjonline",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-lawmakers-allocate-30m-to-kinston-based-flyexclusi-1.jpg",
+    "publishedDate": "2026-08-01 16:00:05",
+    "sourceUrl": "https://nsjonline.com/article/2026/08/lawmakers-allocate-30m-to-kinston-based-flyexclusive-for-expansion/"
+  },
+  {
+    "_id": "business-mtn-nigeria-posts-record-n109tn-pre-tax-profit-as--2",
+    "title": "MTN Nigeria Posts Record N1.09tn Pre-Tax Profit as Data Boom, Lower Debt And Stronger Cash Flow Drive Stellar H1 Earnings",
+    "slug": "mtn-nigeria-posts-record-n109tn-pre-tax-profit-as-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "MTN Nigeria Communications Plc delivered its strongest half-year financial performance on record, posting a profit before tax of N1.09 trillion for the six months ended June 30, 2026, as surging deman",
+    "author": "Tekedia",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-mtn-nigeria-posts-record-n109tn-pre-tax-profit-as--2.jpg",
+    "publishedDate": "2026-08-01 15:38:40",
+    "sourceUrl": "https://www.tekedia.com/mtn-nigeria-posts-record-n1-09tn-pre-tax-profit-as-data-boom-lower-debt-and-stronger-cash-flow-drive-stellar-h1-earnings/"
+  },
+  {
     "_id": "cybersecurity-anthropic-openai-cyber-failures-raise-concerns-ove-0",
     "title": "Anthropic, OpenAI cyber failures raise concerns over US national security",
     "slug": "anthropic-openai-cyber-failures-raise-concerns-ove",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/sports-running-with-tony-buti-inaugural-fremantle-dockers-2.jpg",
     "publishedDate": "2026-07-31 18:00:00",
     "sourceUrl": "https://thewest.com.au/lifestyle/running-with-tony-buti-inaugural-fremantle-dockers-chief-executive-david-hatt-on-the-birth-of-the-club-c-22657495"
-  },
-  {
-    "_id": "business-ai-is-weakening-our-capacity-to-think-understand-j-0",
-    "title": "AI is weakening our capacity to think, understand, judge",
-    "slug": "ai-is-weakening-our-capacity-to-think-understand-j",
-    "content": "The proliferation of AI-powered systems across nearly every sector of the economy has transformed how businesses operate and how individuals interact with information. From sophisticated algorithms that sift through vast datasets for market trends to generative AI assisting in drafting reports and emails, these technologies promise unprecedented levels of productivity and insight. However, this convenience comes with a growing apprehension that by outsourcing mental heavy lifting to machines, humans might inadvertently be losing proficiency in the very skills AI is designed to augment, such as analytical reasoning, synthesis, and nuanced evaluation.\n\nHistorically, human progress has often involved inventing tools that extend our physical capabilities, yet AI represents a unique shift by extending – and potentially replacing – our cognitive functions. When AI provides instant summaries of lengthy documents, suggests optimal business strategies, or even drafts creative content, it reduces the need for individuals to engage in the laborious, yet cognitively enriching, processes of deep reading, critical analysis, and original thought. This phenomenon can lead to \"automation bias,\" where humans tend to uncritically accept AI-generated outputs, bypassing their own independent verification and judgment.\n\nCognitive scientists and tech ethicists are increasingly vocal about the potential long-term repercussions of this trend. They argue that the brain, much like a muscle, strengthens with use; if AI consistently performs complex cognitive tasks for us, those neural pathways may weaken over time. This concern is particularly salient in environments demanding high-stakes decision-making, where an over-reliance on algorithmic outputs without sufficient human oversight or critical review could lead to a workforce less equipped to navigate unforeseen challenges or innovate beyond established parameters. The very foundation of human ingenuity could be at stake if not carefully managed.\n\nFor businesses, the implications of a workforce with diminished critical thinking and judgment capacities are profound. While AI can undoubtedly enhance efficiency and data-driven insights, an over-dependence might stifle creativity, strategic foresight, and the ability to challenge conventional wisdom, all crucial for long-term innovation and competitive advantage. Companies are now grappling with how to effectively integrate AI tools while simultaneously fostering and safeguarding their employees' intellectual independence, emphasizing the need for robust digital literacy and critical engagement skills to complement technological adoption.\n\nAddressing this challenge requires a multi-faceted approach, focusing not merely on AI deployment but on conscious human development. Educational institutions and corporate training programs are exploring curricula that teach individuals how to critically interact with AI, understand its limitations, and use it as a tool for augmentation rather than replacement. The goal is to cultivate a new generation of professionals who can leverage AI's power while maintaining and enhancing their unique human capabilities for deep thought, comprehensive understanding, and ethical judgment, ensuring that technology serves humanity without undermining its core intellectual strengths.",
-    "excerpt": "The rapid integration of artificial intelligence into daily life and professional workflows is sparking a critical debate: whether these powerful tools, while boosting efficiency, are simultaneously diminishing fundamental human cognitive abilities. ...",
-    "author": "Lifesitenews",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-ai-is-weakening-our-capacity-to-think-understand-j-0.jpg",
-    "publishedDate": "2026-07-31 17:35:15",
-    "sourceUrl": "https://www.lifesitenews.com/analysis/ai-is-weakening-our-capacity-to-think-understand-judge/"
-  },
-  {
-    "_id": "business-sinn-fein-sounds-warning-over-future-of-powershari-1",
-    "title": "Sinn Fein sounds warning over future of powersharing amid ‘DUP behaviour’",
-    "slug": "sinn-fein-sounds-warning-over-future-of-powershari",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "DUP leader Gavin Robinson hit back saying his party is committed to Northern Ireland.",
-    "author": "Freepressseries",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-sinn-fein-sounds-warning-over-future-of-powershari-1.jpg",
-    "publishedDate": "2026-07-31 17:32:34",
-    "sourceUrl": "https://www.freepressseries.co.uk/news/national/26428046.sinn-fein-sounds-warning-future-powersharing-amid-dup-behaviour/"
-  },
-  {
-    "_id": "business-sinn-fein-sounds-warning-over-future-of-powershari-2",
-    "title": "Sinn Fein sounds warning over future of powersharing amid ‘DUP behaviour’",
-    "slug": "sinn-fein-sounds-warning-over-future-of-powershari",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "DUP leader Gavin Robinson hit back saying his party is committed to Northern Ireland.",
-    "author": "Newsshopper Co Uk",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-sinn-fein-sounds-warning-over-future-of-powershari-2.jpg",
-    "publishedDate": "2026-07-31 17:32:34",
-    "sourceUrl": "https://www.newsshopper.co.uk/news/national/26428046.sinn-fein-sounds-warning-future-powersharing-amid-dup-behaviour/"
   },
   {
     "_id": "national-india-news-vice-chancellors-academics-seek-apology-0",
