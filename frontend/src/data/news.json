@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-artificial-intelligence-and-poverty-eradication-ke-0",
+    "title": "Artificial intelligence and poverty eradication: Keeping humanity at the center",
+    "slug": "artificial-intelligence-and-poverty-eradication-ke",
+    "content": "Artificial intelligence stands at a critical juncture, poised to either revolutionize or complicate the arduous global endeavor of poverty eradication. With its capacity for advanced data analysis, predictive modeling, and automation, AI offers innovative pathways to address long-standing challenges in health, education, agriculture, and infrastructure, particularly in developing nations. However, experts and policymakers alike emphasize that unlocking this potential hinges entirely on a deliberate, ethical, and inclusive approach, ensuring that technological advancements consistently serve human well-being and dignity. The discussion is not merely about deploying technology, but about consciously shaping its impact to lift humanity out of destitution.\n\nGlobally, persistent poverty affects hundreds of millions, often exacerbated by systemic issues, limited resources, and inefficiencies in aid distribution. AI offers promising solutions by enabling more accurate targeting of aid, optimizing supply chains for food and medicine, and providing personalized educational content to remote communities. For instance, AI-powered analytics can identify areas most susceptible to famine or disease outbreaks, allowing for proactive interventions, while intelligent systems can help smallholder farmers predict weather patterns and crop diseases, significantly boosting yields and livelihoods. This data-driven approach promises to make development efforts far more effective and responsive to real-time needs.\n\nBeyond immediate relief, AI's potential extends to fostering long-term economic empowerment. Financial inclusion, a cornerstone of poverty reduction, can be greatly enhanced through AI-driven credit scoring models that assess risk for individuals without traditional banking histories, opening doors to loans and investments for micro-enterprises. Furthermore, AI can personalize vocational training programs, equipping individuals with skills demanded by emerging economies, thereby creating new avenues for employment and economic participation. These applications, however, require robust digital infrastructure and a concerted effort to bridge the global digital divide, ensuring equitable access to these transformative tools.\n\nHowever, the enthusiasm for AI's potential is tempered by significant ethical and practical concerns, which form the core of the \"humanity at the center\" discourse. Experts from organizations like the United Nations and various development agencies warn against the risks of algorithmic bias, job displacement in low-skill sectors, and the potential for surveillance technologies to infringe on privacy and human rights. They stress the imperative for transparent, accountable, and human-supervised AI systems that prioritize fairness, inclusivity, and the empowerment of local communities. Without careful governance and stakeholder engagement, AI could inadvertently widen existing socio-economic disparities, rather than narrowing them.\n\nMoving forward, the successful integration of AI into poverty eradication strategies demands a multi-faceted global effort. This includes significant investment in digital literacy and STEM education in developing countries, fostering local innovation ecosystems, and establishing robust international regulatory frameworks for ethical AI development and deployment. Policymakers must actively engage with technologists, ethicists, civil society organizations, and the communities most affected to co-create solutions that are culturally sensitive and genuinely address local needs. The goal is to harness AI's power not just for efficiency, but for equity, ensuring that technological progress genuinely translates into tangible improvements in human lives.\n\nUltimately, the narrative around AI and poverty eradication must transcend mere technological capability and focus squarely on its societal implications. The promise of AI to help achieve the Sustainable Development Goals – from zero hunger to quality education and reduced inequalities – is immense, yet contingent on collective human wisdom and foresight. By embedding human rights, social justice, and equitable access at the core of AI development and deployment, the international community can ensure that this powerful technology becomes a force for genuine human advancement, truly keeping humanity at the center of our shared future.",
+    "excerpt": "The burgeoning capabilities of artificial intelligence present a powerful, yet complex, tool in the global fight against poverty. While AI offers unprecedented potential to optimize resource allocation, enhance service delivery, and foster economic g...",
+    "author": "Mb",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-artificial-intelligence-and-poverty-eradication-ke-0.jpg",
+    "publishedDate": "2026-08-09 16:05:00",
+    "sourceUrl": "https://mb.com.ph/article/10930434/opinion/artificial-intelligence-and-poverty-eradication-keeping-humanity-at-the-center"
+  },
+  {
+    "_id": "business-climate-change-fg-woos-private-capital-warns-adapt-1",
+    "title": "Climate Change: FG Woos Private Capital, Warns Adaptation Gap Threatens Nigeria’s Development",
+    "slug": "climate-change-fg-woos-private-capital-warns-adapt",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The federal government has intensified its push for private capital and innovative financing to tackle Nigeria’s growing climate adaptation needs, declaring that public funding alone cannot provide th",
+    "author": "Leadership",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-climate-change-fg-woos-private-capital-warns-adapt-1.jpg",
+    "publishedDate": "2026-08-09 16:03:13",
+    "sourceUrl": "https://leadership.ng/climate-change-fg-woos-private-capital-warns-adaptation-gap-threatens-nigerias-development/"
+  },
+  {
+    "_id": "business-financing-boost-for-digital-economy-2",
+    "title": "Financing boost for digital economy",
+    "slug": "financing-boost-for-digital-economy",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "PETALING JAYA: The world's first green sukuk developed for data centre (DC) infrastructure could pave the way for more sustainable financing of digital infrastructure projects, according to the Asian ",
+    "author": "Thestar My",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-financing-boost-for-digital-economy-2.jpg",
+    "publishedDate": "2026-08-09 16:00:00",
+    "sourceUrl": "https://www.thestar.com.my/business/business-news/2026/08/10/financing-boost-for-digital-economy"
+  },
+  {
     "_id": "technology-purple-innovation-nasdaqprpl-share-price-passes-be-0",
     "title": "Purple Innovation (NASDAQ:PRPL) Share Price Passes Below 50-Day Moving Average – Here’s Why",
     "slug": "purple-innovation-nasdaqprpl-share-price-passes-be",
@@ -304,56 +355,5 @@
     "imageUrl": "/news-images/sports-swiatek-tops-kostyuk-to-secure-quarterfinal-berth--2.jpg",
     "publishedDate": "2026-08-08 19:06:59",
     "sourceUrl": "https://www.castanet.net/news/Sports/627462/Swiatek-tops-Kostyuk-to-secure-quarterfinal-berth-at-National-Bank-Open"
-  },
-  {
-    "_id": "business-consumer-portfolio-services-q2-earnings-call-highl-0",
-    "title": "Consumer Portfolio Services Q2 Earnings Call Highlights",
-    "slug": "consumer-portfolio-services-q2-earnings-call-highl",
-    "content": "Consumer Portfolio Services, a prominent player in the non-prime auto finance sector, recently held its second-quarter earnings call, offering a detailed look into its operational and financial performance. The call revealed that CPS successfully expanded its total revenues, a testament to its continued ability to originate new loans and grow its managed portfolio. However, this positive development was tempered by increasing pressures on credit quality, including a rise in delinquencies and net charge-offs, which signal growing stress among its borrower base. Management’s commentary focused on balancing aggressive growth with a disciplined approach to risk management in an evolving economic climate.\n\nOperating within the specialized niche of subprime auto lending, CPS provides financing solutions to individuals who may not qualify for traditional bank loans due to their credit history. This segment, while offering higher potential returns, is inherently more susceptible to shifts in economic conditions and consumer financial health. The current macroeconomic environment, characterized by persistent inflationary pressures, the Federal Reserve's sustained interest rate hikes, and a general tightening of credit markets, presents significant operational complexities for lenders like CPS. Understanding these broader dynamics is critical to appreciating the context of the company's Q2 results and its strategic adjustments.\n\nDelving deeper into the quarterly performance, CPS reported a robust volume of loan originations, which contributed to a healthy expansion of its overall managed portfolio. This growth, however, came with a notable increase in credit-related challenges, as evidenced by a rise in both 30-day and 60-day delinquencies, alongside an uptick in net charge-offs. Furthermore, the company highlighted the tangible impact of higher borrowing costs, with increased interest expenses directly affecting its net interest margin and overall profitability. These intertwined factors illustrate the delicate balance CPS must strike between pursuing market share and safeguarding its financial health in a high-risk lending environment.\n\nIndustry analysts have offered a nuanced perspective on CPS's Q2 earnings, acknowledging the company's resilience in growing its portfolio while expressing caution over the observed credit trends. \"The subprime auto market serves as a vital barometer for the financial well-being of a significant portion of consumers, and CPS's rising delinquencies are a clear indicator of growing strain,\" remarked Sarah Jenkins, a senior analyst specializing in consumer finance at Capital Insights Group. \"While their strategy for portfolio expansion appears effective, the escalating cost of capital combined with increasing credit losses will undoubtedly exert significant pressure on future profitability, necessitating rigorous risk management and potentially more conservative underwriting.\" This expert sentiment underscores the critical challenge CPS faces in navigating current market conditions.\n\nLooking ahead, the Q2 results strongly suggest that Consumer Portfolio Services will likely continue to refine its underwriting standards and potentially adjust its pricing models to mitigate future credit losses effectively. The company's management emphasized a continued focus on operational efficiencies and maintaining a disciplined approach to portfolio management, strategies designed to navigate the anticipated persistence of challenging market conditions. For the broader subprime auto lending sector, CPS's experience serves as a crucial leading indicator, suggesting that other lenders may also encounter similar headwinds related to credit performance and funding costs in the coming quarters.\n\nIn conclusion, Consumer Portfolio Services’ second-quarter earnings call painted a comprehensive picture of a company demonstrating growth capabilities while simultaneously contending with significant macroeconomic pressures. The firm's ability to expand its loan portfolio in a competitive market is noteworthy, but it is inextricably linked to the escalating challenges posed by a deteriorating credit environment and higher funding expenses. As the economic outlook remains characterized by uncertainty, including ongoing inflation and potential recessionary concerns, CPS's strategic responses and performance in the upcoming quarters will offer invaluable insights into the overall resilience and evolving landscape of the entire subprime auto finance industry.",
-    "excerpt": "Consumer Portfolio Services (CPS) navigated a complex financial landscape in the second quarter, reporting mixed results that underscore the challenges in the subprime auto lending market. While the company achieved notable revenue growth, driven by ...",
-    "author": "Zolmax",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-consumer-portfolio-services-q2-earnings-call-highl-0.jpg",
-    "publishedDate": "2026-08-08 17:04:54",
-    "sourceUrl": "https://zolmax.com/investing/consumer-portfolio-services-q2-earnings-call-highlights/11945646.html"
-  },
-  {
-    "_id": "business-general-counsel-to-ceo-how-cyril-shroff-and-iims-a-1",
-    "title": "General Counsel To CEO: How Cyril Shroff And IIM's Academy To Fuel Corporate Growth",
-    "slug": "general-counsel-to-ceo-how-cyril-shroff-and-iims-a",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Cyril Amarchand Mangaldas and IIM-A launches Cyril Shroff IIM-A GC Leadership Academy",
-    "author": "Ndtv",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-general-counsel-to-ceo-how-cyril-shroff-and-iims-a-1.jpg",
-    "publishedDate": "2026-08-08 17:02:24",
-    "sourceUrl": "https://www.ndtv.com/india-news/general-counsel-to-ceo-cyril-shroff-and-iims-academy-to-fuel-corporate-growth-11884497"
-  },
-  {
-    "_id": "business-us-employers-shed-23k-jobs-in-july-2",
-    "title": "US employers shed 23K jobs in July",
-    "slug": "us-employers-shed-23k-jobs-in-july",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "US employers shed 23K jobs in July mps-post Sat, 08/08/2026 - 10:57 Image (Nebraska Examiner) US employers shed 23,000 jobs in July, and the employment count for earlier months was revised downward by",
-    "author": "Kiowacountypress Net",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-us-employers-shed-23k-jobs-in-july-2.jpg",
-    "publishedDate": "2026-08-08 16:57:02",
-    "sourceUrl": "https://kiowacountypress.net/content/us-employers-shed-23k-jobs-july"
   }
 ]
