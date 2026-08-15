@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-mofis-case-for-a-nigerian-fintech-listing-now-face-0",
+    "title": "MOFI’s case for a Nigerian fintech listing now faces the OPay test",
+    "slug": "mofis-case-for-a-nigerian-fintech-listing-now-face",
+    "content": "MOFI, a statutory body responsible for managing the federal government's investments, has been a vocal advocate for local listings, seeing it as a crucial mechanism to unlock value within Nigeria’s burgeoning tech sector and curb the trend of successful startups seeking foreign capital markets. The objective is clear: to foster a robust ecosystem where local investors can participate in the growth of homegrown champions, thereby boosting the Nigerian Exchange (NGX) and strengthening the national economy. This initiative comes at a time when Nigeria’s fintech landscape is experiencing unprecedented growth, attracting significant foreign direct investment and producing several unicorn-status companies.\n\nThe Nigerian fintech sector has witnessed exponential expansion over the past decade, driven by a large unbanked population, a youthful demographic, and increasing digital adoption. Companies like Flutterwave, Paystack, and Interswitch have achieved significant valuations, with some like Interswitch opting for a local listing, while others have explored international markets. MOFI’s renewed focus aims to reverse the brain drain of capital and talent, encouraging these companies to anchor their public market aspirations domestically. The government believes that a vibrant local listing environment will not only provide liquidity for founders and early investors but also offer attractive opportunities for Nigerian institutional and retail investors.\n\nCentral to MOFI’s current challenge is OPay, a dominant player in Nigeria’s mobile money and payment processing landscape. The \"OPay test\" refers to the company's capacity to successfully navigate the Central Bank of Nigeria’s (CBN) recent stringent regulatory directives, particularly concerning Know Your Customer (KYC) compliance, restrictions on peer-to-peer crypto transactions, and the scrutiny of agent banking networks. A successful passage through this regulatory gauntlet, coupled with sustained profitability and market confidence, would significantly bolster MOFI’s argument for the readiness of Nigerian fintechs for local public offerings. Conversely, any major misstep could dampen investor sentiment and make the path to local listings more arduous for the entire sector.\n\nMarket analysts and investment bankers express mixed views on the feasibility of MOFI’s vision, heavily contingent on how OPay performs. Some experts believe that a successful OPay listing, even a partial one, could ignite investor interest and prove the market's capacity to absorb large tech IPOs, provided valuations are realistic and regulatory clarity is maintained. Others, however, point to challenges such as relatively lower market liquidity on the NGX compared to international exchanges, potential valuation disparities, and the overarching need for consistent and predictable regulatory frameworks to attract and retain institutional investors for tech listings. They emphasize that while the potential is undeniable, execution remains key.\n\nThe outcome of the \"OPay test\" extends far beyond the company itself, carrying profound implications for Nigeria’s financial services industry and broader economic development strategy. A positive outcome would validate MOFI’s strategic direction, potentially paving the way for a pipeline of other fintech and tech companies to consider local listings, thereby enhancing the depth and breadth of the Nigerian capital market. Conversely, if OPay encounters significant challenges that deter a local listing or erode investor confidence, it could force a re-evaluation of MOFI’s approach and potentially delay the realization of a vibrant domestic tech IPO ecosystem. The coming months will be pivotal in shaping the future trajectory of Nigeria’s burgeoning fintech sector and its integration into the local capital market.",
+    "excerpt": "Nigeria’s Ministry of Finance Incorporated (MOFI) is intensifying its push for indigenous fintech companies to list on local exchanges, a strategic move aimed at deepening the capital market and retaining domestic wealth. However, this ambitious agen...",
+    "author": "Businessday",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-mofis-case-for-a-nigerian-fintech-listing-now-face-0.jpg",
+    "publishedDate": "2026-08-14 16:47:59",
+    "sourceUrl": "https://businessday.ng/news/article/mofis-case-for-a-nigerian-fintech-listing-now-faces-the-opay-test/"
+  },
+  {
+    "_id": "business-the-world-is-bigger-than-europe-ukraine-should-bui-1",
+    "title": "The world is bigger than Europe. Ukraine should build stronger ties with Central Asia",
+    "slug": "the-world-is-bigger-than-europe-ukraine-should-bui",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Russia's full-scale invasion of Ukraine in February 2022 provoked some very real geopolitical soul-searching throughout Central Asian capitals. Up until then, the economies of five of these states rem",
+    "author": "Kyivindependent",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-the-world-is-bigger-than-europe-ukraine-should-bui-1.jpg",
+    "publishedDate": "2026-08-14 16:47:37",
+    "sourceUrl": "https://kyivindependent.com/the-world-is-bigger-than-europe-ukraine-should-build-stronger-ties-with-central-asia/"
+  },
+  {
+    "_id": "business-cayman-jamaicanised-or-americanised-2",
+    "title": "Cayman: Jamaicanised or Americanised?",
+    "slug": "cayman-jamaicanised-or-americanised",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Anonymous writes: The statement sounds clever [referring to this comment], but it is based on a false comparison. You try to describe Cayman by attaching Jamaican cultural influence to a Singaporean e",
+    "author": "Caymannewsservice",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-cayman-jamaicanised-or-americanised-2.jpg",
+    "publishedDate": "2026-08-14 16:45:02",
+    "sourceUrl": "https://caymannewsservice.com/2026/08/cayman-islands-jamaicanised-or-americanised/"
+  },
+  {
     "_id": "technology-europes-ai-rules-may-become-indias-opportunity-0",
     "title": "Europe’s AI Rules May Become India’s Opportunity",
     "slug": "europes-ai-rules-may-become-indias-opportunity",
@@ -355,56 +406,5 @@
     "imageUrl": "/news-images/sports-goa-has-a-good-chess-base-academy-will-help-progre-2.jpg",
     "publishedDate": "2026-08-13 17:42:55",
     "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/goa-has-a-good-chess-base-academy-will-help-progress-ajay-gaude/articleshow/133220595.cms"
-  },
-  {
-    "_id": "business-earnings-call-transcript-grupo-aval-tops-q2-2026-r-0",
-    "title": "Earnings call transcript: Grupo Aval tops Q2 2026 revenue forecast as shares rise",
-    "slug": "earnings-call-transcript-grupo-aval-tops-q2-2026-r",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Earnings call transcript: Grupo Aval tops Q2 2026 revenue forecast as shares rise",
-    "author": "Investing In",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-earnings-call-transcript-grupo-aval-tops-q2-2026-r-0.jpg",
-    "publishedDate": "2026-08-13 17:52:08",
-    "sourceUrl": "https://in.investing.com/news/transcripts/earnings-call-transcript-grupo-aval-tops-q2-2026-revenue-forecast-as-shares-rise-93CH-5555998"
-  },
-  {
-    "_id": "business-opg-reports-2026-second-quarter-financial-results-1",
-    "title": "OPG Reports 2026 Second Quarter Financial Results",
-    "slug": "opg-reports-2026-second-quarter-financial-results",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "/CNW/ -- Ontario Power Generation Inc. (OPG or Company) today reported its financial and operating results for the second quarter of 2026, with net income...",
-    "author": "Newswire Ca",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-opg-reports-2026-second-quarter-financial-results-1.jpg",
-    "publishedDate": "2026-08-13 17:47:00",
-    "sourceUrl": "https://www.newswire.ca/news-releases/opg-reports-2026-second-quarter-financial-results-870505764.html"
-  },
-  {
-    "_id": "business-coderabbits-143-million-bet-ai-floods-codebases-on-2",
-    "title": "CodeRabbit’s $143 Million Bet: AI Floods Codebases, One Startup Aims to Govern the Chaos",
-    "slug": "coderabbits-143-million-bet-ai-floods-codebases-on",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "CodeRabbit raised $143M at a $1.5B valuation to build governance tools for AI-generated code. The startup now runs 2M reviews weekly as agents flood pull requests and human oversight lags. Its new Age",
-    "author": "Webpronews",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-coderabbits-143-million-bet-ai-floods-codebases-on-2.jpg",
-    "publishedDate": "2026-08-13 17:42:05",
-    "sourceUrl": "https://www.webpronews.com/coderabbits-143-million-bet-ai-floods-codebases-one-startup-aims-to-govern-the-chaos/"
   }
 ]
