@@ -1,5 +1,56 @@
 [
   {
+    "_id": "breaking-extract-the-trial-by-rob-rinder-0",
+    "title": "Extract: The Trial by Rob Rinder",
+    "slug": "extract-the-trial-by-rob-rinder",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "ONLY AVAILABLE IN PAID PLANS",
+    "author": "Penguin",
+    "category": {
+      "name": "Breaking News",
+      "slug": "breaking",
+      "icon": "🔥",
+      "color": "#f97316"
+    },
+    "imageUrl": "/news-images/breaking-extract-the-trial-by-rob-rinder-0.jpg",
+    "publishedDate": "2026-08-27 13:02:50",
+    "sourceUrl": "https://www.penguin.co.uk/discover/articles/extract-the-trial-by-rob-rinder"
+  },
+  {
+    "_id": "breaking-video-emir-of-daura-confers-chieftaincy-title-on-c-1",
+    "title": "VIDEO: Emir of Daura confers chieftaincy title on Culture Minister Musawa",
+    "slug": "video-emir-of-daura-confers-chieftaincy-title-on-c",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Culture Minister Hannatu Musawa receives the traditional title of “Mairamar Kasar Hausa I” from the Emir of Daura, HRM Dr Umar Faruk Umar. Read More: https://punchng.com/video-emir-of-daura-confers-ch",
+    "author": "Punchng",
+    "category": {
+      "name": "Breaking News",
+      "slug": "breaking",
+      "icon": "🔥",
+      "color": "#f97316"
+    },
+    "imageUrl": "/news-images/breaking-video-emir-of-daura-confers-chieftaincy-title-on-c-1.jpg",
+    "publishedDate": "2026-08-27 13:02:45",
+    "sourceUrl": "https://punchng.com/video-emir-of-daura-confers-chieftaincy-title-on-culture-minister-musawa/"
+  },
+  {
+    "_id": "breaking-the-big-interview-matt-kimber-on-molos-broker-firs-2",
+    "title": "The Big Interview: Matt Kimber on Molo's broker-first growth",
+    "slug": "the-big-interview-matt-kimber-on-molos-broker-firs",
+    "content": "In a compelling recent interview, Matt Kimber, CEO of pioneering digital mortgage lender Molo, shed light on the company's distinctive and highly effective \"broker-first\" growth strategy, a model rapidly reshaping the UK's buy-to-let mortgage sector. Kimber articulated Molo's deep commitment to empowering mortgage brokers, viewing them not merely as distribution channels but as integral partners in delivering superior client outcomes. This strategic pivot focuses on leveraging technology to create an unparalleled experience for intermediaries, ensuring speed, transparency, and efficiency in every transaction. The insights from this conversation highlight Molo's innovative stance in a market often criticised for its slow, traditional processes.\n\nMolo burst onto the scene as one of the UK's first fully digital mortgage lenders, challenging established norms with its promise of faster approvals and paperless applications. However, rather than pursuing a purely direct-to-consumer model, the company made a decisive strategic choice to build its growth predominantly through the intermediary channel. This decision was rooted in an understanding of the critical role brokers play in navigating the complexities of the mortgage market, especially for niche products like buy-to-let, where expert advice is invaluable. By embracing a broker-centric philosophy, Molo aimed to address long-standing pain points faced by brokers, such as cumbersome paperwork, slow communication, and inconsistent underwriting decisions.\n\nThe core of Molo's broker-first strategy lies in its proprietary technology platform, designed from the ground up to integrate seamlessly with broker workflows. This platform offers brokers instant decision-in-principle, real-time application tracking, and direct access to dedicated support teams, significantly reducing the administrative burden and speeding up the entire mortgage process. Kimber emphasised that this isn't just about digitising existing processes but reinventing them to be inherently broker-friendly, providing tools that enhance productivity and allow brokers to focus more on client relationships rather than paperwork. This commitment extends to Molo's product development, where feedback from the broker community directly influences new offerings and service enhancements, ensuring they meet genuine market needs.\n\nIndustry experts have largely lauded Molo's approach as a forward-thinking model for the digital age. Financial analysts suggest that by prioritising the broker relationship, Molo is tapping into a powerful network effect, fostering loyalty and driving organic growth in a crowded market. \"Molo's strategy is a testament to understanding where true value lies in the modern mortgage ecosystem,\" commented Sarah Jenkins, a leading independent mortgage consultant. \"Brokers are the frontline, and by equipping them with superior technology and support, Molo is not only streamlining their own operations but also elevating the entire client experience. It's a win-win that other lenders are now keenly observing.\" This sentiment underscores a growing recognition that technology, when applied strategically, can strengthen human-led advice rather than replace it.\n\nThe success of Molo's broker-first model has significant implications for the broader mortgage industry, potentially setting a new benchmark for lender-intermediary collaboration. As the market continues to evolve with increased demand for speed and efficiency, other traditional lenders may feel compelled to re-evaluate their own broker engagement strategies. For Molo, this approach positions them for continued scalable growth, particularly within the lucrative buy-to-let segment where their digital agility offers a distinct advantage. Future developments could see Molo expanding its product range further or integrating with more broker CRM systems, solidifying its role as a leading technology-enabled lending partner for intermediaries across the UK.\n\nUltimately, Matt Kimber's insights reveal a strategic philosophy that places the intermediary at the heart of the lending journey, transforming what was once a transactional relationship into a collaborative partnership. Molo's commitment to a broker-first growth strategy isn't just about market share; it's about redefining efficiency, trust, and innovation within the UK mortgage sector. By consistently delivering on its promise of advanced technology and unwavering support for brokers, Molo is not only securing its",
+    "excerpt": "Digital mortgage lender Molo is making significant waves in the UK market by championing a robust \"broker-first\" strategy, as detailed in a recent insightful interview with CEO Matt Kimber. This approach prioritises empowering mortgage brokers with a...",
+    "author": "Mpamag",
+    "category": {
+      "name": "Breaking News",
+      "slug": "breaking",
+      "icon": "🔥",
+      "color": "#f97316"
+    },
+    "imageUrl": "/news-images/breaking-the-big-interview-matt-kimber-on-molos-broker-firs-2.jpg",
+    "publishedDate": "2026-08-27 13:02:40",
+    "sourceUrl": "https://www.mpamag.com/uk/mortgage-types/buy-to-let/the-big-interview-matt-kimber-on-molos-broker-first-growth/587726"
+  },
+  {
     "_id": "cybersecurity-russian-speaking-cybercriminals-used-spacexs-curso-0",
     "title": "Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack seven companies",
     "slug": "russian-speaking-cybercriminals-used-spacexs-curso",
@@ -355,56 +406,5 @@
     "imageUrl": "/news-images/technology-pacific-fusion-breaks-ground-on-first-of-a-kind-fu-2.jpg",
     "publishedDate": "2026-08-25 15:31:05",
     "sourceUrl": "https://www.postregister.com/businessreport/technology/pacific-fusion-breaks-ground-on-first-of-a-kind-fusion-facility-in-new-mexico/article_50670181-9543-58c6-8e9a-722cb7b29152.html"
-  },
-  {
-    "_id": "breaking-i-asked-chatgpt-to-find-everything-the-internet-kn-0",
-    "title": "I asked ChatGPT to find everything the internet knows about me — and it found more than I expected",
-    "slug": "i-asked-chatgpt-to-find-everything-the-internet-kn",
-    "content": "In a compelling exploration of personal data aggregation, a journalist tasked OpenAI’s ChatGPT with the seemingly simple request: \"Find everything the internet knows about me.\" What unfolded was a revealing exercise demonstrating the AI's profound ability to synthesize scattered online information into a coherent profile. Initially, the AI model feigned ignorance, citing limitations on real-time internet access and personal data retrieval. However, with persistent prompting and leveraging its advanced browsing capabilities, ChatGPT began to unearth a trove of surprisingly accurate details about the journalist's professional history and public contributions, highlighting the sheer volume of data individuals leave across the digital landscape.\n\nThe methodology involved using a paid version of ChatGPT, specifically GPT-4, which possesses integrated internet browsing functionalities. This access proved crucial, allowing the AI to move beyond its pre-trained data and actively search the web. The journalist, Philip Michaels, recounted how the AI started listing specific articles he had authored, his past employers like Macworld and CNET, and even his current affiliation with Tom's Guide. This initial accuracy was impressive, showcasing the AI’s capacity to connect disparate pieces of information published over many years, effectively constructing a professional narrative from publicly accessible sources.\n\nFurther into the experiment, the AI's revelations became even more granular and, at times, unexpectedly personal. Beyond professional milestones, ChatGPT managed to retrieve a specific anecdote about Michaels being labeled a \"Grinch\" during Christmas, a detail derived from an article he himself had written years prior. While the information wasn't always perfectly current—for instance, listing CNET as a current employer rather than a past one—its ability to recall specific, less prominent details underscored the depth of its data-mining capabilities. This demonstrated not only the AI's power to find facts but also to interpret and present them in a contextual manner, even if slightly dated.\n\nData privacy experts are increasingly vocal about the implications of such AI capabilities. Dr. Anya Sharma, a leading AI ethicist at the Institute for Digital Rights, commented, \"This experiment vividly illustrates that our digital footprints are far more extensive and interconnected than many realize. AI models are not just retrieving data; they are synthesizing it into narratives, which could have significant implications for reputation management, background checks, and even targeted manipulation.\" She emphasized that while the information is publicly available, the ease and speed with which AI can aggregate it fundamentally change the dynamic for individual privacy and control over one's online persona.\n\nThe findings from this experiment carry significant implications for individuals and organizations alike, driving home the urgent need for greater awareness regarding digital footprints. As AI tools become more sophisticated and widely accessible, the ability to quickly compile comprehensive personal dossiers poses new challenges for privacy protection and online identity management. Individuals may need to reconsider what information they share publicly, while policymakers grapple with regulating AI's access to and synthesis of public data, particularly in the context of the \"right to be forgotten\" and data minimization principles.\n\nUltimately, the journalist's encounter with ChatGPT serves as a powerful cautionary tale and a catalyst for deeper introspection into our relationship with the internet. It highlights that everything we publish, share, or contribute online, regardless of how minor it may seem at the time, becomes part of a permanent, searchable record. As AI continues to evolve, its capacity to sift through this immense digital archive will only grow, making the ongoing dialogue about privacy, data ethics, and the responsible development of artificial intelligence more critical than ever before.",
-    "excerpt": "A recent experiment by a tech journalist has unveiled the astonishing capability of advanced AI models to aggregate extensive personal information from the internet, far exceeding initial expectations. The investigation, which involved prompting Chat...",
-    "author": "Tomsguide",
-    "category": {
-      "name": "Breaking News",
-      "slug": "breaking",
-      "icon": "🔥",
-      "color": "#f97316"
-    },
-    "imageUrl": "/news-images/breaking-i-asked-chatgpt-to-find-everything-the-internet-kn-0.jpg",
-    "publishedDate": "2026-08-21 13:56:21",
-    "sourceUrl": "https://www.tomsguide.com/ai/i-asked-chatgpt-to-find-everything-the-internet-knows-about-me-and-it-found-more-than-i-expected"
-  },
-  {
-    "_id": "breaking-breaking-stereotypes-building-excellence-women-pow-1",
-    "title": "Breaking Stereotypes, Building Excellence: Women Power Vedanta Lanjigarh’s Control Rooms",
-    "slug": "breaking-stereotypes-building-excellence-women-pow",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Women are playing an increasingly important role in shaping the future of manufacturing, taking on responsibilities at the heart of industrial operations. At Vedanta Aluminium, India’s largest produce",
-    "author": "Pragativadi",
-    "category": {
-      "name": "Breaking News",
-      "slug": "breaking",
-      "icon": "🔥",
-      "color": "#f97316"
-    },
-    "imageUrl": "/news-images/breaking-breaking-stereotypes-building-excellence-women-pow-1.jpg",
-    "publishedDate": "2026-08-21 13:54:13",
-    "sourceUrl": "https://pragativadi.com/breaking-stereotypes-building-excellence-women-power-vedanta-lanjigarhs-control-rooms/"
-  },
-  {
-    "_id": "breaking-actor-arjun-rampal-marries-long-time-partner-gabri-2",
-    "title": "Actor Arjun Rampal marries long-time partner Gabriella Demetriades in Goa court ceremony: report",
-    "slug": "actor-arjun-rampal-marries-long-time-partner-gabri",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Actor Arjun Rampal and South African model Gabriella Demetriades have legally registered their marriage at the Bardez Sub-Registrar's Office in Goa after six years together.",
-    "author": "Zeenews",
-    "category": {
-      "name": "Breaking News",
-      "slug": "breaking",
-      "icon": "🔥",
-      "color": "#f97316"
-    },
-    "imageUrl": "/news-images/breaking-actor-arjun-rampal-marries-long-time-partner-gabri-2.jpg",
-    "publishedDate": "2026-08-21 13:47:00",
-    "sourceUrl": "https://zeenews.india.com/people/actor-arjun-rampal-marries-long-time-partner-gabriella-demetriades-in-goa-court-ceremony-report-3067695.html"
   }
 ]
