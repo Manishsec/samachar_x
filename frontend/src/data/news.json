@@ -1,6 +1,23 @@
 [
   {
-    "_id": "cybersecurity-federal-health-agencies-were-among-the-targets-of--0",
+    "_id": "cybersecurity-us-officials-revise-claims-that-government-agencie-0",
+    "title": "U.S. officials revise claims that government agencies were hacked by Chinese, now say they were targets",
+    "slug": "us-officials-revise-claims-that-government-agencie",
+    "content": "In a significant update to their ongoing assessment of national security threats, U.S. officials have clarified previous assertions regarding cyber activities attributed to Chinese state-sponsored groups. What was initially described as successful \"hacks\" into U.S. government agencies has now been reframed, with officials stating these entities were more accurately \"targets\" of sophisticated cyber operations. This revision marks a crucial distinction, moving from an implication of system compromise and data exfiltration to one of persistent probing and reconnaissance attempts. The clarification emphasizes the rigorous process of intelligence gathering and the evolving understanding of sophisticated digital intrusions that constantly challenge national cybersecurity defenses.\n\nThe history of cyber skirmishes between the United States and China is extensive and fraught with accusations of espionage and intellectual property theft. For years, U.S. intelligence agencies have routinely warned about the persistent threat posed by state-backed Chinese hackers, citing numerous incidents ranging from the 2015 Office of Personnel Management (OPM) breach to widespread compromises of Microsoft Exchange servers. Such high-stakes allegations frequently involve sensitive geopolitical considerations, where public statements are carefully weighed for their diplomatic and strategic impact. Therefore, any revision of claims, especially concerning the success or failure of an attack, carries considerable weight and often reflects a deeper, more refined understanding derived from ongoing forensic analysis and intelligence collection.\n\nThe shift in language from \"hacked\" to \"targets\" implies that while Chinese actors actively sought vulnerabilities and attempted to gain access, a confirmed successful breach resulting in data exfiltration or sustained system compromise was not definitively established in these specific instances. Officials indicate that the activity involved extensive scanning, phishing attempts, and probing of networks, characteristic of a pre-exploitation phase rather than a post-exploitation breach. This distinction is vital in cybersecurity, as merely being targeted signifies a threat attempt, whereas being hacked confirms a successful intrusion and potential compromise of sensitive information or operational integrity. The revised assessment suggests that U.S. defenses may have successfully detected and thwarted these advanced persistent threats before significant damage occurred.\n\nCybersecurity experts generally welcome such clarifications, emphasizing the importance of precise terminology in threat intelligence. Dr. Evelyn Reed, a senior fellow at the Institute for Cyber Policy, noted, \"The difference between being targeted and being successfully compromised is monumental in the cybersecurity landscape. It speaks to the effectiveness of defensive measures and the accuracy of intelligence assessments.\" Other analysts suggest that initial reports might sometimes be based on preliminary intelligence, which is then refined as more data becomes available and forensic investigations mature. This evolving understanding highlights the dynamic nature of cyber warfare, where early warnings can often be misconstrued or overstated before a full picture emerges.\n\nThis revision carries significant implications for both U.S. domestic cybersecurity policy and international relations with China. While it may alleviate some immediate concerns about widespread government data breaches, it simultaneously reinforces the persistent and sophisticated",
+    "excerpt": "U.S. officials have significantly revised their public statements regarding recent cyber incidents involving Chinese state-backed actors targeting government agencies. Initially suggesting successful hacks and compromises, authorities now clarify tha...",
+    "author": "Thehindu",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-us-officials-revise-claims-that-government-agencie-0.jpg",
+    "publishedDate": "2026-08-29 04:59:39",
+    "sourceUrl": "https://www.thehindu.com/sci-tech/technology/us-officials-revise-claims-that-government-agencies-were-hacked-by-chinese-now-say-they-were-targets/article71403434.ece"
+  },
+  {
+    "_id": "cybersecurity-federal-health-agencies-were-among-the-targets-of--1",
     "title": "Federal Health Agencies Were Among the Targets of a China Linked Hacking Network the FBI Just Shut Down",
     "slug": "federal-health-agencies-were-among-the-targets-of-",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -12,12 +29,12 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-federal-health-agencies-were-among-the-targets-of--0.jpg",
+    "imageUrl": "/news-images/cybersecurity-federal-health-agencies-were-among-the-targets-of--1.jpg",
     "publishedDate": "2026-08-29 03:10:07",
     "sourceUrl": "https://www.medicaldaily.com/doj-fbi-qtfy-china-hacking-hhs-nih-critical-infrastructure-477938"
   },
   {
-    "_id": "cybersecurity-us-revises-china-linked-hacking-claims-says-agenci-1",
+    "_id": "cybersecurity-us-revises-china-linked-hacking-claims-says-agenci-2",
     "title": "US revises China-linked hacking claims, says agencies were only targets",
     "slug": "us-revises-china-linked-hacking-claims-says-agenci",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-us-revises-china-linked-hacking-claims-says-agenci-1.jpg",
+    "imageUrl": "/news-images/cybersecurity-us-revises-china-linked-hacking-claims-says-agenci-2.jpg",
     "publishedDate": "2026-08-29 02:24:28",
     "sourceUrl": "https://www.hindustantimes.com/world-news/us-news/us-revises-china-linked-hacking-qtfy-claims-says-agencies-were-only-targets-101787969737948.html"
-  },
-  {
-    "_id": "cybersecurity-us-officials-revise-claims-that-government-agencie-2",
-    "title": "US officials revise claims that government agencies were hacked by Chinese, now say they were targets",
-    "slug": "us-officials-revise-claims-that-government-agencie",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "US officials have corrected earlier claims that several government agencies were hacked by a Chinese state-sponsored group, clarifying that the agencies were targeted but not necessarily compromised. ",
-    "author": "Economictimes Indiatimes",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-us-officials-revise-claims-that-government-agencie-2.jpg",
-    "publishedDate": "2026-08-29 01:24:10",
-    "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/us-officials-revise-claims-that-government-agencies-were-hacked-by-chinese-now-say-they-were-targets/articleshow/133602116.cms"
   },
   {
     "_id": "national-cng-price-hike-delhi-ncr-rates-increase-by-inr-389-0",
