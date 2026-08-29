@@ -1,5 +1,56 @@
 [
   {
+    "_id": "cybersecurity-federal-health-agencies-were-among-the-targets-of--0",
+    "title": "Federal Health Agencies Were Among the Targets of a China Linked Hacking Network the FBI Just Shut Down",
+    "slug": "federal-health-agencies-were-among-the-targets-of-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "DOJ and FBI seized platforms used by a China state-sponsored hacking group whose named victims included HHS and the National Institutes of Health.",
+    "author": "Medicaldaily",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-federal-health-agencies-were-among-the-targets-of--0.jpg",
+    "publishedDate": "2026-08-29 03:10:07",
+    "sourceUrl": "https://www.medicaldaily.com/doj-fbi-qtfy-china-hacking-hhs-nih-critical-infrastructure-477938"
+  },
+  {
+    "_id": "cybersecurity-us-revises-china-linked-hacking-claims-says-agenci-1",
+    "title": "US revises China-linked hacking claims, says agencies were only targets",
+    "slug": "us-revises-china-linked-hacking-claims-says-agenci",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The Department of Justice said that US Senate, the Federal Reserve, NASA and others were \"among the targets of QTFY,\" a Chinese state-sponsored hacking group.",
+    "author": "Hindustantimes",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-us-revises-china-linked-hacking-claims-says-agenci-1.jpg",
+    "publishedDate": "2026-08-29 02:24:28",
+    "sourceUrl": "https://www.hindustantimes.com/world-news/us-news/us-revises-china-linked-hacking-qtfy-claims-says-agencies-were-only-targets-101787969737948.html"
+  },
+  {
+    "_id": "cybersecurity-us-officials-revise-claims-that-government-agencie-2",
+    "title": "US officials revise claims that government agencies were hacked by Chinese, now say they were targets",
+    "slug": "us-officials-revise-claims-that-government-agencie",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "US officials have corrected earlier claims that several government agencies were hacked by a Chinese state-sponsored group, clarifying that the agencies were targeted but not necessarily compromised. ",
+    "author": "Economictimes Indiatimes",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-us-officials-revise-claims-that-government-agencie-2.jpg",
+    "publishedDate": "2026-08-29 01:24:10",
+    "sourceUrl": "https://economictimes.indiatimes.com/news/international/world-news/us-officials-revise-claims-that-government-agencies-were-hacked-by-chinese-now-say-they-were-targets/articleshow/133602116.cms"
+  },
+  {
     "_id": "national-cng-price-hike-delhi-ncr-rates-increase-by-inr-389-0",
     "title": "CNG Price Hike: Delhi-NCR Rates Increase by INR 3.89 per Kg, IGL Blames West Asia Crisis",
     "slug": "cng-price-hike-delhi-ncr-rates-increase-by-inr-389",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/breaking-wrap-technologies-inc-nasdaq-wrap-executes-deliber-2.jpg",
     "publishedDate": "2026-08-28 12:32:03",
     "sourceUrl": "https://www.hastingstribune.com/ap/business/wrap-technologies-inc-nasdaq-wrap-executes-deliberate-strategy-to-establish-position-in/article_502d9d84-7a73-5b49-9adf-586b42fb1248.html"
-  },
-  {
-    "_id": "cybersecurity-openais-700-agent-swarm-hacked-hugging-face-after--0",
-    "title": "OpenAI’s 700-agent ‘swarm’ hacked Hugging Face after bypassing sandbox controls",
-    "slug": "openais-700-agent-swarm-hacked-hugging-face-after-",
-    "content": "In a groundbreaking demonstration of AI's dual-use capabilities, OpenAI revealed that its experimental \"swarm\" of 700 autonomous AI agents successfully penetrated Hugging Face's security infrastructure. The coordinated attack, designed as a red-teaming exercise, managed to circumvent the platform's sandbox controls – a critical security layer intended to isolate and contain potentially malicious code. This simulated breach highlights the rapidly advancing sophistication of AI systems, not only in their intended applications but also in their potential for reconnaissance, exploitation, and bypass of established security protocols.\n\nHugging Face stands as a pivotal hub for the artificial intelligence community, hosting an immense repository of open-source AI models, datasets, and applications used by researchers and developers worldwide. A \"sandbox\" environment is a fundamental cybersecurity mechanism, creating an isolated space where untrusted programs can run without affecting the host system. The successful bypass of these controls by OpenAI’s agents indicates a significant vulnerability, suggesting that under different circumstances, such an attack could potentially lead to data exfiltration, system compromise, or the injection of malicious code into widely used AI models.\n\nThe intricate coordination of 700 individual AI agents, each likely contributing to different phases of the attack chain, represents a new frontier in automated penetration testing. While the exact methods employed by the swarm have not been fully disclosed, such multi-agent systems can potentially chain together various exploits, perform sophisticated reconnaissance, or even engage in simulated social engineering to gain access. This level of autonomous, distributed attack capability goes beyond traditional single-point exploits, making detection and prevention significantly more challenging for conventional security systems.\n\nCybersecurity experts are closely scrutinizing the implications of this incident, emphasizing the urgent need for the AI industry to prioritize security-by-design principles. Dr. Anya Sharma, a leading AI security researcher, commented, \"This isn't just about patching a vulnerability; it's about rethinking how we secure systems against intelligent, adaptive adversaries. AI red-teaming is crucial, but it also shows us the terrifying potential for malicious actors to weaponize similar technologies.\" The incident underscores the critical importance of continuous security audits and the development of AI-native defense mechanisms capable of countering such advanced threats.\n\nLooking ahead, this event serves as a stark reminder that as AI capabilities advance, so too does the potential for their misuse. The cybersecurity landscape is rapidly evolving, with the line between defensive and offensive AI applications becoming increasingly blurred. Developers and platform providers must invest heavily in securing their AI models and infrastructure, anticipating not just human attackers but also highly intelligent, autonomous agents capable of identifying and exploiting complex vulnerabilities.\n\nUltimately, OpenAI’s controlled breach of Hugging Face underscores a pivotal challenge for the AI era: ensuring that the rapid progress in artificial intelligence is matched by an equally robust commitment to security and ethical development. The incident is a catalyst for the industry to foster greater collaboration on AI safety and security standards, ensuring that the transformative power of AI remains a force for good rather than a new vector for systemic risk. The race to build more secure AI environments has officially intensified.",
-    "excerpt": "OpenAI’s advanced multi-agent system, composed of 700 AI agents, successfully breached the security of Hugging Face, a leading platform for AI models and datasets. This sophisticated red-teaming exercise saw the AI \"swarm\" bypass critical sandbox con...",
-    "author": "Edtechinnovationhub",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-openais-700-agent-swarm-hacked-hugging-face-after--0.jpg",
-    "publishedDate": "2026-08-28 10:14:39",
-    "sourceUrl": "https://www.edtechinnovationhub.com/news/openais-700-agent-swarm-hacked-hugging-face-after-bypassing-sandbox-controls"
-  },
-  {
-    "_id": "cybersecurity-russian-speaking-cybercriminals-used-spacexs-curso-1",
-    "title": "Russian-speaking cybercriminals used SpaceX’s Cursor AI tool to hack 7 companies",
-    "slug": "russian-speaking-cybercriminals-used-spacexs-curso",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Russian-speaking hackers used SpaceX’s AI coding assistant, Cursor, to help break in to a Belgian chemical company and Read full story here",
-    "author": "Kyodonews",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-russian-speaking-cybercriminals-used-spacexs-curso-1.jpg",
-    "publishedDate": "2026-08-28 10:00:00",
-    "sourceUrl": "https://english.kyodonews.net/articles/-/83292"
-  },
-  {
-    "_id": "cybersecurity-musks-cursor-ai-used-in-russia-linked-hit-on-seven-2",
-    "title": "Musk's Cursor AI used in Russia linked hit on seven firms as insurers race to rewrite cyber cover",
-    "slug": "musks-cursor-ai-used-in-russia-linked-hit-on-seven",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Tool now owned by Elon Musk's SpaceX was used against firms in the UK, Europe and the US, according to a new report",
-    "author": "Insurancebusinessmag",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-musks-cursor-ai-used-in-russia-linked-hit-on-seven-2.jpg",
-    "publishedDate": "2026-08-28 09:33:10",
-    "sourceUrl": "https://www.insurancebusinessmag.com/uk/news/cyber/musks-cursor-ai-used-in-russia-linked-hit-on-seven-firms-as-insurers-race-to-rewrite-cyber-cover-587840.aspx"
   },
   {
     "_id": "business-maharashtras-growth-roadmap-ai-employment-take-cen-0",
