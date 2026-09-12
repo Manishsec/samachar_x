@@ -1,10 +1,27 @@
 [
   {
-    "_id": "cybersecurity-researchers-link-another-hacking-campaign-to-opena-0",
+    "_id": "cybersecurity-americas-great-ai-freakout-has-begun-0",
+    "title": "America’s great AI freakout has begun",
+    "slug": "americas-great-ai-freakout-has-begun",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Simmering worries that the technology could wipe out civilization and launch cyberattacks reached a boil inside the office and around the dinner table.",
+    "author": "Hindustantimes",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-americas-great-ai-freakout-has-begun-0.jpg",
+    "publishedDate": "2026-09-12 06:31:08",
+    "sourceUrl": "https://www.hindustantimes.com/technology/americas-great-ai-freakout-has-begun-101789184869391.html"
+  },
+  {
+    "_id": "cybersecurity-researchers-link-another-hacking-campaign-to-opena-1",
     "title": "Researchers link another hacking campaign to OpenAI agents",
     "slug": "researchers-link-another-hacking-campaign-to-opena",
-    "content": "Leading cybersecurity firm, SentinelLabs, disclosed its findings this week, detailing a meticulously orchestrated campaign that appears to utilize OpenAI's large language models (LLMs) to refine various stages of cyberattacks. The research points to the use of AI agents in automating target profiling, generating highly customized and contextually relevant spear-phishing emails, and even assisting in the development of polymorphic malware code. This campaign, which targeted entities across critical infrastructure and financial sectors, demonstrates a significant leap in the sophistication of AI-assisted threat operations, moving beyond simple content generation to more complex, adaptive attack methodologies.\n\nThis discovery is not an isolated incident but rather the latest in a series of reports linking AI tools, including those from OpenAI, to malicious cyber activities. Previously, researchers have documented instances where threat actors employed LLMs to improve social engineering tactics, write convincing fake news articles for disinformation campaigns, and even generate rudimentary exploit code. The \"another\" in the headline is crucial, signifying a worrying pattern where the accessibility and power of advanced AI models are being increasingly weaponized, making it harder for conventional security measures to detect and mitigate threats. The ease with which these tools can be accessed and adapted for nefarious purposes presents a formidable challenge to the cybersecurity community.\n\nFurther analysis by SentinelLabs detailed specific tactics, techniques, and procedures (TTPs) that bore hallmarks of AI-driven automation. For instance, the phishing emails exhibited linguistic nuances and adaptability that surpassed typical human-generated attempts, suggesting iterative refinement by an AI. The researchers also identified unique code patterns in certain malware components that mirrored outputs commonly associated with LLM code generation, providing a strong evidentiary link. While direct attribution to a specific threat group remains ongoing, the level of sophistication observed indicates a well-resourced adversary potentially leveraging cutting-edge AI to maximize impact and evade detection.\n\nIndustry experts are reacting with a mix of concern and urgency. Dr. Anya Sharma, a senior AI ethics researcher at the Global Cyber Alliance, commented, \"The integration of AI into offensive cyber operations fundamentally alters the threat landscape. We are moving towards an era where AI doesn't just assist but potentially orchestrates attacks, demanding a paradigm shift in our defensive strategies.\" OpenAI has repeatedly stated its commitment to preventing the misuse of its technology, implementing safety protocols and usage policies designed to curb harmful applications. However, the sheer versatility of these models makes complete control a monumental task, often leading to a cat-and-mouse game between developers and malicious actors.\n\nThe implications of AI-enhanced hacking campaigns are profound, necessitating a multi-faceted response from technology developers, governments, and the cybersecurity industry. There is a growing consensus that AI developers must invest more heavily in robust ethical guidelines, red-teaming exercises, and transparent reporting mechanisms to identify and mitigate potential abuses proactively. Furthermore, governments and international bodies are urged to collaborate on establishing clear regulatory frameworks and responsible AI use policies. As the digital world becomes increasingly intertwined with AI, the collective ability to secure these advanced technologies will be paramount in safeguarding global digital infrastructure and trust.",
-    "excerpt": "Cybersecurity researchers have recently uncovered another sophisticated hacking campaign exhibiting clear links to agents developed by OpenAI, raising renewed concerns about the dual-use capabilities of advanced artificial intelligence. This discover...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Artificial intelligence agents tied to OpenAI Group PBC reportedly hacked a popular code hosting service earlier this year. The Wall Street Journal detailed the breach today. The malicious activity wa",
     "author": "Siliconangle",
     "category": {
       "name": "Cybersecurity",
@@ -12,12 +29,12 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-researchers-link-another-hacking-campaign-to-opena-0.jpg",
+    "imageUrl": "/news-images/cybersecurity-researchers-link-another-hacking-campaign-to-opena-1.jpg",
     "publishedDate": "2026-09-12 01:25:10",
     "sourceUrl": "https://siliconangle.com/2026/09/11/researchers-link-another-hacking-campaign-to-openai-agents/"
   },
   {
-    "_id": "cybersecurity-you-might-want-to-watch-what-you-say-1",
+    "_id": "cybersecurity-you-might-want-to-watch-what-you-say-2",
     "title": "You might want to watch what you say.",
     "slug": "you-might-want-to-watch-what-you-say",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-you-might-want-to-watch-what-you-say-1.jpg",
+    "imageUrl": "/news-images/cybersecurity-you-might-want-to-watch-what-you-say-2.jpg",
     "publishedDate": "2026-09-11 20:30:00",
     "sourceUrl": "https://thecyberwire.com/podcasts/daily-podcast/2634/notes"
-  },
-  {
-    "_id": "cybersecurity-ap-technology-summarybrief-at-256-pm-edt-2",
-    "title": "AP Technology SummaryBrief at 2:56 p.m. EDT",
-    "slug": "ap-technology-summarybrief-at-256-pm-edt",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "In an age of instant answers, educators say there's a case for letting kids struggle a little",
-    "author": "Rutlandherald",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-ap-technology-summarybrief-at-256-pm-edt-2.jpg",
-    "publishedDate": "2026-09-11 18:56:53",
-    "sourceUrl": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-2-56-p-m-edt/article_262b388b-e195-5e55-8798-43ce4304a9ff.html"
   },
   {
     "_id": "national-pakistans-bargain-with-the-devil-0",
