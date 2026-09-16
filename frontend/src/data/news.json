@@ -1,10 +1,44 @@
 [
   {
-    "_id": "cybersecurity-major-cyber-threat-detection-vendors-shift-from-mi-0",
+    "_id": "cybersecurity-anthropic-openai-meta-why-are-companies-hyping-up--0",
+    "title": "Anthropic, OpenAI, Meta, – Why are Companies Hyping Up Their Rogue AI?",
+    "slug": "anthropic-openai-meta-why-are-companies-hyping-up-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "From claims of rogue AI Agents hacking companies to a mind-blowing math breakthrough, AI’s IPO season is throwing a lot of entertaining dramas, writes Satyen K. Bordoloi – tongue firmly in cheek. In e",
+    "author": "Sify",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-anthropic-openai-meta-why-are-companies-hyping-up--0.jpg",
+    "publishedDate": "2026-09-16 04:29:03",
+    "sourceUrl": "https://www.sify.com/ai-analytics/anthropic-openai-meta-why-are-companies-hyping-up-their-rogue-ai/"
+  },
+  {
+    "_id": "cybersecurity-ransomware-activity-rises-across-middle-east-as-cr-1",
+    "title": "Ransomware activity rises across Middle East as criminal groups attack Gulf",
+    "slug": "ransomware-activity-rises-across-middle-east-as-cr",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "New cybersecurity report shows rising ransomware activity as hackers increase focus on Gulf businesses and infrastructure",
+    "author": "Thenationalnews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-ransomware-activity-rises-across-middle-east-as-cr-1.jpg",
+    "publishedDate": "2026-09-16 03:30:00",
+    "sourceUrl": "https://www.thenationalnews.com/future/technology/2026/09/16/ransomware-activity-rises-across-middle-east-as-criminal-groups-attack-gulf/"
+  },
+  {
+    "_id": "cybersecurity-major-cyber-threat-detection-vendors-shift-from-mi-2",
     "title": "Major Cyber Threat Detection Vendors Shift from MITRE to UK Testing Program",
     "slug": "major-cyber-threat-detection-vendors-shift-from-mi",
-    "content": "The cybersecurity landscape is witnessing a notable recalibration of how leading threat detection vendors validate their product capabilities, with a pronounced shift away from the widely recognized MITRE Engenuity ATT&CK evaluations. Companies such as CrowdStrike, Microsoft, and SentinelOne are reportedly redirecting substantial resources towards the UK’s Centre for Protection of National Infrastructure (CPNI) Host-Based Sensor (HBS) testing program. This strategic move underscores a growing industry preference for evaluation frameworks that deliver more tangible, real-world insights into product performance, especially concerning prevention and response in high-stakes environments. The implications of this trend could reshape how security solutions are assessed and procured globally.\n\nFor years, MITRE Engenuity ATT&CK evaluations have served as a prominent benchmark for assessing how well security products detect known adversary tactics and techniques. These evaluations, based on the comprehensive MITRE ATT&CK knowledge base, aimed to provide transparency into vendor capabilities and help organizations understand their defensive posture. However, despite their widespread adoption, criticisms have mounted regarding the evaluations' practical utility for end-users. Many in the industry found the results complex and difficult to interpret without significant expertise, often requiring consultants to translate the intricate data into actionable insights for procurement decisions. Furthermore, the resource-intensive nature of participating in these evaluations became a considerable burden for vendors, prompting a search for more efficient and impactful testing avenues.\n\nIn stark contrast, the UK's CPNI Host-Based Sensor (HBS) testing program is gaining significant traction due to its reputation for rigor and its focus on real-world effectiveness, particularly for critical national infrastructure. The CPNI program evaluates security solutions against sophisticated, persistent threats, emphasizing not just detection but also the crucial aspects of prevention and response. Unlike MITRE's nuanced scoring, CPNI delivers clear \"pass/fail\" results across specific capabilities, making it much simpler for organizations to understand a product's baseline effectiveness. This straightforward approach provides a more definitive answer regarding a solution's ability to protect vital systems, aligning directly with the urgent needs of governmental and critical infrastructure entities.\n\nThis evolving preference is not merely anecdotal; it reflects a strategic business decision by major players. Vendors like CrowdStrike have publicly acknowledged the CPNI program's direct relevance to critical infrastructure security and government procurement standards, often citing its ability to demonstrate robust prevention capabilities. Similarly, SentinelOne has highlighted the program's practical, outcome-focused methodology, which offers clearer validation for their customers than the more academic MITRE evaluations. This gravitation towards CPNI indicates a broader industry desire for testing that directly addresses the operational challenges faced by security teams, moving beyond theoretical detection metrics to concrete protective measures.\n\nThe implications of this shift are profound, potentially signaling a new era for cybersecurity product validation. If more vendors continue to prioritize programs like CPNI, it could diminish the long-standing influence of MITRE Engenuity ATT&CK evaluations as the de facto industry standard. This transition might encourage the development of more regionally focused, yet globally respected, testing frameworks tailored to specific operational contexts and threat landscapes. For organizations, particularly those managing critical infrastructure, this could lead to clearer, more actionable data during product selection, ultimately enhancing their defensive capabilities against increasingly sophisticated cyber threats.\n\nUltimately, the move by leading cyber threat detection vendors from MITRE to the UK's CPNI program underscores a maturing industry's demand for practical, outcome-driven security evaluations. It highlights a pivot from complex, data-rich detection reports to simpler, more definitive assessments of a solution's ability to prevent and respond to actual attacks. As the global threat landscape continues to evolve rapidly, the pursuit of tangible security outcomes over purely theoretical detection capabilities will likely remain a paramount consideration, driving further innovation in how cybersecurity products are developed, tested, and ultimately trusted by the organizations they protect.",
-    "excerpt": "A significant shift is underway in the cybersecurity industry as several major threat detection vendors, including prominent names like CrowdStrike, Microsoft, and SentinelOne, are reportedly re-evaluating their participation in MITRE Engenuity ATT&C...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "A group of cyber threat detection providers, including CrowdStrike, Palo Alto Networks and Sophos, have joined SE Labs’ PIVOT program",
     "author": "Infosecurity Magazine",
     "category": {
       "name": "Cybersecurity",
@@ -12,43 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-major-cyber-threat-detection-vendors-shift-from-mi-0.jpg",
+    "imageUrl": "/news-images/cybersecurity-major-cyber-threat-detection-vendors-shift-from-mi-2.jpg",
     "publishedDate": "2026-09-16 00:00:00",
     "sourceUrl": "https://www.infosecurity-magazine.com/news/cyber-vendors-mitre-uk-testing/"
-  },
-  {
-    "_id": "cybersecurity-it-security-news-daily-summary-2026-09-15-1",
-    "title": "IT Security News Daily Summary 2026-09-15",
-    "slug": "it-security-news-daily-summary-2026-09-15",
-    "content": "Today's IT Security News Daily Summary for September 15, 2026, opens with the confirmation of a significant data exfiltration incident at QuantumTech Solutions, a leading developer of post-quantum cryptographic systems. Initial reports suggest that highly sensitive research data and proprietary algorithms were compromised, potentially by a sophisticated persistent threat actor. The breach, which was detected late yesterday, has immediately triggered a high-level investigation involving national security agencies, given QuantumTech's critical role in future-proofing global digital communications. This incident serves as a stark reminder of the relentless targeting of cutting-edge technology firms.\n\nThe attack on QuantumTech Solutions is believed to be a testament to the evolving sophistication of cyber adversaries, leveraging advanced AI-driven reconnaissance and social engineering techniques. Industry analysts suggest the breach likely exploited a complex supply chain vulnerability, amplified by deepfake-assisted phishing campaigns targeting key personnel. This incident follows a broader trend observed throughout 2026, where nation-state actors and well-resourced criminal syndicates have increasingly focused on intellectual property theft and disruptive attacks against critical infrastructure and emerging technology sectors. The sheer precision and stealth of the operation indicate a significant investment in advanced cyber warfare capabilities.\n\nFurther compounding the day's security concerns, the summary also brought to light a newly discovered zero-day vulnerability (CVE-2026-XXXX) within the omnipresent \"AegisGuard\" AI governance and compliance platform. This critical flaw, if exploited, could allow unauthorized access to sensitive AI model parameters and decision logs, posing severe risks to data integrity and algorithmic fairness across countless organizations. Cybersecurity vendors have scrambled to issue emergency patches and mitigation strategies, urging all users to immediately update their AegisGuard installations. The widespread adoption of AegisGuard means this vulnerability has far-reaching implications for regulatory compliance and trust in AI systems.\n\nDr. Anya Sharma, lead cybersecurity analyst at Global CyberWatch, commented on the day's developments, stating, \"The QuantumTech breach and the AegisGuard vulnerability are not isolated events; they represent the ongoing weaponization of advanced technologies against themselves. We are witnessing a paradigm shift where AI is both the target and the tool in cyber warfare.\" She emphasized the critical need for proactive, adaptive security architectures that integrate AI-enhanced threat detection with robust human oversight and intelligence sharing. Dr. Sharma also highlighted the urgent necessity for international cooperation to establish norms and frameworks for responsible AI development and cybersecurity.\n\nThe implications of these events are profound, extending beyond the immediate financial and reputational damages. The compromise of QuantumTech's data could accelerate the arms race in post-quantum cryptography, potentially undermining future secure communications. Meanwhile, the AegisGuard vulnerability exposes the inherent risks in centralizing control over AI ethics and compliance, demanding a re-evaluation of current security protocols for AI platforms. Businesses and governments worldwide face heightened pressure to not only bolster their defenses but also invest in next-generation security research and talent development to stay ahead of increasingly resourceful threats.\n\nIn conclusion, September 15, 2026, marks another challenging day in the relentless battle for digital security, as evidenced by the QuantumTech breach and the critical AegisGuard vulnerability. These incidents serve as a stark reminder that the digital frontier remains a highly contested space, where technological advancement is constantly met with sophisticated adversarial innovation. The daily summary underscores the imperative for continuous vigilance, adaptive security strategies, and collaborative efforts across public and private sectors to safeguard our increasingly interconnected and AI-driven world against evolving cyber threats.",
-    "excerpt": "The latest IT Security News Daily Summary for September 15, 2026, highlights a concerning surge in sophisticated cyber threats, with a prominent breach affecting QuantumTech Solutions underscoring the escalating risks to advanced technology sectors. ...",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-daily-summary-2026-09-15-1.jpg",
-    "publishedDate": "2026-09-15 21:55:26",
-    "sourceUrl": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-09-15/"
-  },
-  {
-    "_id": "cybersecurity-kyc-data-leak-hits-revolut-as-hackers-demand-payme-2",
-    "title": "KYC Data Leak Hits Revolut as Hackers Demand Payment for Stolen Customer Information",
-    "slug": "kyc-data-leak-hits-revolut-as-hackers-demand-payme",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The Revolut data breach has exposed a difficult truth about modern fintech: a company does not always need to be technically hacked for sensitive customer information to fall into criminal hands. In t",
-    "author": "Tekedia",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-kyc-data-leak-hits-revolut-as-hackers-demand-payme-2.jpg",
-    "publishedDate": "2026-09-15 21:37:49",
-    "sourceUrl": "https://www.tekedia.com/kyc-data-leak-hits-revolut-as-hackers-demand-payment-for-stolen-customer-information/"
   },
   {
     "_id": "national-school-assembly-news-today-september-16-2026-top-h-0",
