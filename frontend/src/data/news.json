@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-opinion-idaho-town-sees-major-tech-investment-with-0",
+    "title": "Opinion: Idaho town sees major tech investment with new data center",
+    "slug": "opinion-idaho-town-sees-major-tech-investment-with",
+    "content": "A global technology giant has confirmed plans to build a cutting-edge data center in Pocatello, Idaho, marking one of the most substantial tech investments the region has seen in decades. While specific financial figures remain undisclosed, industry experts estimate the project to be valued in the hundreds of millions of dollars, encompassing land acquisition, construction, and advanced technological infrastructure. This ambitious undertaking is anticipated to generate a significant number of construction jobs over the next several years, followed by a smaller, but highly skilled and well-compensated, permanent workforce to manage the facility's operations.\n\nIdaho has increasingly become an attractive location for data center development, owing to its combination of affordable land, access to cooler climates that reduce cooling costs, and a growing availability of renewable energy sources. For Pocatello, a city traditionally rooted in manufacturing, transportation, and agricultural support, this investment represents a strategic pivot towards diversifying its economic base. The arrival of such a high-profile tech operation is expected to not only create direct employment opportunities but also stimulate growth in ancillary services, from construction suppliers to local hospitality and retail, fostering a more resilient and modern economy.\n\nThe new data center will feature advanced computing infrastructure designed to support cloud services, artificial intelligence, and other data-intensive operations critical to the global digital economy. Beyond the immediate economic benefits, the project is also expected to significantly upgrade the local utility infrastructure, including power grids and fiber optic networks, which will benefit the broader community and potentially attract further tech investments. Community leaders have expressed optimism about the long-term impact, viewing it as a catalyst for attracting a younger, tech-savvy workforce and retaining local talent who might otherwise seek opportunities elsewhere.\n\nLocal officials and economic development agencies have largely welcomed the news, highlighting the potential for increased tax revenues that can be reinvested into public services and community projects. \"This investment is a game-changer for Pocatello,\" stated a representative from the city's economic development office, underscoring the strategic importance of attracting high-tech industries. While acknowledging the significant demands on local resources such as power and water, proponents emphasize that the company has committed to sustainable practices and collaboration with local utilities to manage these requirements responsibly, ensuring minimal disruption to existing services.\n\nLooking ahead, the successful integration of this data center could position Pocatello as a vital node in the national digital infrastructure, potentially fostering a \"cluster effect\" where other tech companies and startups are drawn to the area. This long-term vision includes developing specialized educational programs to train the future workforce, ensuring a sustainable talent pipeline for the growing tech sector. The data center project is not merely an investment in infrastructure; it is an investment in Pocatello's future, signaling a bold step towards an innovative, diversified, and technologically advanced economic landscape for the Idaho town.",
+    "excerpt": "Pocatello, Idaho, is poised for a significant economic transformation following the announcement of a major tech investment: a new, state-of-the-art data center. This multi-million dollar project by a leading technology firm is expected to inject sub...",
+    "author": "Idahostatejournal",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-opinion-idaho-town-sees-major-tech-investment-with-0.jpg",
+    "publishedDate": "2026-09-25 17:20:00",
+    "sourceUrl": "https://www.idahostatejournal.com/freeaccess/opinion-idaho-town-sees-major-tech-investment-with-new-data-center/article_9e59127c-561d-4194-93c9-9700509ea921.html"
+  },
+  {
+    "_id": "business-fg-generates-n393bn-in-tax-revenue-from-dangote-ni-1",
+    "title": "FG Generates N393bn in Tax Revenue from Dangote, Nine Other Corporates",
+    "slug": "fg-generates-n393bn-in-tax-revenue-from-dangote-ni",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "The Federal Government of Nigeria has announced that it raked in a substantial N393 billion in tax revenue from Dangote Group and nine other major companies, underscoring the critical role of large co",
+    "author": "Theinfostride",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-fg-generates-n393bn-in-tax-revenue-from-dangote-ni-1.jpg",
+    "publishedDate": "2026-09-25 17:10:10",
+    "sourceUrl": "https://www.theinfostride.com/fg-generates-n393bn-in-tax-revenue-from-dangote-nine-other-corporates/"
+  },
+  {
+    "_id": "business-landlord-tax-cut-was-about-the-labour-party-not-pr-2",
+    "title": "Landlord tax cut was about the Labour Party, not property – Thomas Coughlan",
+    "slug": "landlord-tax-cut-was-about-the-labour-party-not-pr",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "OPINION: Labour's decision to reinstate the interest deduction ban has rocked the party.",
+    "author": "Nzherald",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-landlord-tax-cut-was-about-the-labour-party-not-pr-2.jpg",
+    "publishedDate": "2026-09-25 17:00:00",
+    "sourceUrl": "https://www.nzherald.co.nz/nz/politics/landlord-tax-cut-was-about-the-labour-party-not-property-thomas-coughlan/premium/XAJQQRNY3JF7LIG3QP2UCSAFRM/"
+  },
+  {
     "_id": "cybersecurity-australias-medicare-website-hacked-by-openai-agent-0",
     "title": "Australia’s Medicare website hacked by OpenAI agent",
     "slug": "australias-medicare-website-hacked-by-openai-agent",
@@ -151,57 +202,6 @@
     "imageUrl": "/news-images/entertainment-sajid-nadiadwalas-nadiadwala-grandson-seals-11-mon-2.jpg",
     "publishedDate": "2026-09-24 17:50:03",
     "sourceUrl": "https://www.swapupdate.in/sajid-nadiadwalas-nadiadwala-grandson-seals-11-month-andheri-office-space-deal-pays-rs-55-lakhs-upfront-bollywood-news/"
-  },
-  {
-    "_id": "business-fg-reforms-must-now-translate-into-jobs-lower-cost-0",
-    "title": "FG reforms must now translate into jobs, lower costs, better living conditions — Akume",
-    "slug": "fg-reforms-must-now-translate-into-jobs-lower-cost",
-    "content": "Senator George Akume, a prominent voice within the President Bola Tinubu administration, recently articulated the pressing demand for the Federal Government's ambitious economic reforms to deliver palpable improvements in the lives of ordinary Nigerians. Speaking at a recent public engagement, Akume stressed that the time for policy conceptualization is transitioning into an era where citizens must directly experience the positive outcomes of these adjustments, particularly through the creation of sustainable jobs, a noticeable reduction in the cost of essential goods and services, and a general uplift in living standards. This directive highlights the administration's awareness of the public's growing impatience for tangible results following initial, often challenging, reform measures.\n\nThe Tinubu administration embarked on a series of bold economic reforms shortly after assuming office, most notably the removal of the petrol subsidy and the unification of the foreign exchange market. These decisions, while lauded by economic experts for their long-term potential to stabilize the economy and attract foreign investment, have concurrently triggered significant short-term hardship for many Nigerians, manifesting as soaring inflation, increased transportation costs, and a general erosion of purchasing power. Akume's statement serves as a critical acknowledgment that the initial painful phase of these reforms must now give way to a period where the promised benefits begin to materialize, justifying the sacrifices made by citizens.\n\nAkume's call for lower costs directly addresses the pervasive inflationary pressures that have burdened households across the country. He implicitly challenges various government agencies and economic ministries to devise and implement strategies that will actively bring down prices of food, energy, and other essential commodities, ensuring that the average Nigerian's income can stretch further. Similarly, the emphasis on job creation points to the need for accelerated private sector growth, targeted youth empowerment programmes, and an improved business environment capable of stimulating investment and employment opportunities across diverse sectors. These outcomes are crucial for fostering economic stability and alleviating widespread poverty.\n\nEconomic analysts and civil society groups have largely echoed Akume's sentiment, emphasizing that successful economic reforms are ultimately measured by their impact on human welfare. Dr. Ngozi Okonjo, an Abuja-based development economist, noted that \"while structural reforms are necessary, their effectiveness hinges on a clear communication strategy and, more importantly, a rapid demonstration of benefits to the populace.\" She added that without visible improvements in livelihoods, public trust in government policies could wane, making future policy implementation more challenging. Experts suggest that targeted interventions in agriculture, infrastructure, and small-to-medium enterprises (SMEs) are vital for translating macroeconomic stability into microeconomic prosperity.\n\nThe SGF's statement carries significant implications, signaling an internal government recognition of the urgency required to translate policy into prosperity. It suggests that the administration is acutely aware of the pressure to deliver beyond mere policy pronouncements, especially as the economic realities continue to bite for many. Moving forward, the government is expected to intensify its focus on implementation, monitoring, and evaluation of its economic policies, possibly introducing new initiatives aimed at mitigating the immediate hardships while accelerating the delivery of long-term benefits such as job creation and cost stabilization.\n\nIn conclusion, Senator Akume's powerful admonition serves as a clear internal directive and a public commitment that the Federal Government's reform agenda must now pivot decisively towards delivering tangible, positive outcomes for the Nigerian populace. The administration's success will ultimately be judged not just by the soundness of its economic policies, but by its ability to demonstrably improve living conditions, create jobs, and bring down the exorbitant cost of living that has become a defining feature of the current economic landscape. This call marks a critical juncture, demanding accountability and accelerated action from all government sectors to ensure that the reforms truly serve the people they are intended to benefit.",
-    "excerpt": "Secretary to the Government of the Federation (SGF), Senator George Akume, has issued a powerful call for the Federal Government's ongoing reforms to swiftly translate into tangible benefits for Nigerian citizens. Akume emphasized the urgent need for...",
-    "author": "Sunnewsonline",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-fg-reforms-must-now-translate-into-jobs-lower-cost-0.jpg",
-    "publishedDate": "2026-09-24 17:13:06",
-    "sourceUrl": "https://thesun.ng/fg-reforms-must-now-translate-into-jobs-lower-costs-better-living-conditions-akume/"
-  },
-  {
-    "_id": "business-one-conference-one-day-a-clearer-future-1",
-    "title": "One conference. One day. A clearer future.",
-    "slug": "one-conference-one-day-a-clearer-future",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "One conference. One day. A clearer future. msk23@calvin.edu Thu, 09/24/2026 - 13:11 By 8 a.m., senior David Terpstra was already balancing a plate of breakfast and a notebook, surrounded by hundreds o",
-    "author": "Calvin Edu",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-one-conference-one-day-a-clearer-future-1.jpg",
-    "publishedDate": "2026-09-24 17:11:31",
-    "sourceUrl": "https://calvin.edu/stories/one-conference-one-day-clearer-future"
-  },
-  {
-    "_id": "business-presidency-ready-to-clear-investment-bottlenecks-f-2",
-    "title": "Presidency ready to clear investment bottlenecks for Volta projects - Brogya Genfi",
-    "slug": "presidency-ready-to-clear-investment-bottlenecks-f",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "The Presidency has pledged to work with the Volta Regional Minister and relevant government institutions to help clear avoidable bureaucratic and institutional bottlenecks that may delay credible inve",
-    "author": "Ghanaweb",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-presidency-ready-to-clear-investment-bottlenecks-f-2.jpg",
-    "publishedDate": "2026-09-24 17:09:38",
-    "sourceUrl": "https://www.ghanaweb.com/GhanaHomePage/business/Presidency-ready-to-clear-investment-bottlenecks-for-Volta-projects-Brogya-Genfi-2053668"
   },
   {
     "_id": "international-qantas-had-the-worlds-best-airport-lounge-but-thin-0",
