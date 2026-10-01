@@ -1,6 +1,23 @@
 [
   {
-    "_id": "cybersecurity-autonomous-ai-agents-attempted-cyber-intrusion-on--0",
+    "_id": "cybersecurity-pentagon-data-breach-exposes-personal-data-of-more-0",
+    "title": "Pentagon Data Breach Exposes Personal Data of More Than 3 Million",
+    "slug": "pentagon-data-breach-exposes-personal-data-of-more",
+    "content": "The U.S. Pentagon has confirmed a substantial data breach, revealing that the personal data of more than three million individuals associated with the Department of Defense has been exposed. This extensive compromise affects a wide array of personnel, including active-duty military members, reservists, civilian employees, and contractors, whose sensitive information is now potentially in the hands of malicious actors. The breach reportedly originated not within the Pentagon’s primary networks but through a third-party contractor responsible for managing certain administrative services, highlighting a significant vulnerability within the defense supply chain.\n\nInitial reports indicate that the compromised data includes a range of Personally Identifiable Information (PII), such as full names, social security numbers, contact details, and potentially even financial or health-related data. While the full extent of the exposed information is still under investigation, the sheer volume of affected individuals underscores the severity of the incident. This breach follows a pattern of sophisticated cyberattacks targeting government agencies and their vendors, which often serve as an easier entry point into more secure systems. The Pentagon has swiftly launched an internal investigation, working with federal law enforcement and cybersecurity agencies to understand the breach's origins and mitigate further risks.\n\nFurther details emerging from the ongoing investigation suggest that the breach was discovered several weeks ago, with officials working diligently to secure affected systems before public disclosure. The contractor involved, whose identity has not yet been publicly revealed, was reportedly responsible for managing travel and logistics data for military personnel. This vector often contains highly sensitive PII necessary for official duties. The Department of Defense is now in the process of notifying affected individuals and offering credit monitoring and identity protection services, a standard response to such large-scale data compromises aimed at safeguarding victims from potential identity theft and fraud.\n\nCybersecurity experts are weighing in on the profound implications of such a breach, particularly given the sensitive nature of the individuals involved. Dr. Evelyn Reed, a leading cybersecurity analyst, noted, \"Breaches of this magnitude, especially involving defense personnel, are not just about financial fraud; they pose significant national security risks. The exposed PII could be leveraged for sophisticated phishing campaigns, blackmail, or even targeted espionage against military and intelligence assets.\" Experts emphasize that nation-state actors frequently target such data to build profiles on key personnel, potentially compromising operational security and intelligence efforts.\n\nLooking ahead, this incident is expected to prompt a rigorous review of cybersecurity protocols across all third-party vendors contracted by the U.S. government. The Department of Defense faces immense pressure to not only contain the current fallout but also to implement more stringent vetting and monitoring processes for its vast network of contractors. Affected individuals are advised to remain vigilant, monitor their financial accounts, and take advantage of the identity protection services offered. The long-term consequences of this data exposure could manifest in various forms, from widespread identity theft to more insidious attempts at infiltration and intelligence gathering, posing a continuous challenge for both individuals and national security agencies.",
+    "excerpt": "A significant cybersecurity incident has struck the U.S. Department of Defense, with a data breach exposing the personal information of over three million individuals. The breach, believed to have originated through a third-party vendor, compromised ...",
+    "author": "Globalgovernancenews",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-pentagon-data-breach-exposes-personal-data-of-more-0.jpg",
+    "publishedDate": "2026-10-01 08:02:43",
+    "sourceUrl": "https://globalgovernancenews.com/pentagon-data-breach-exposes-personal-data-of-more-than-3-million/"
+  },
+  {
+    "_id": "cybersecurity-autonomous-ai-agents-attempted-cyber-intrusion-on--1",
     "title": "Autonomous AI Agents Attempted Cyber Intrusion on Canadian Government Website",
     "slug": "autonomous-ai-agents-attempted-cyber-intrusion-on-",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -12,12 +29,12 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-autonomous-ai-agents-attempted-cyber-intrusion-on--0.jpg",
+    "imageUrl": "/news-images/cybersecurity-autonomous-ai-agents-attempted-cyber-intrusion-on--1.jpg",
     "publishedDate": "2026-10-01 06:11:47",
     "sourceUrl": "https://indiathisweek.in/technology/ai-agents-attempted-hack-canadian-government-website/"
   },
   {
-    "_id": "cybersecurity-ai-agents-failed-hack-on-canada-govt-site-exposes--1",
+    "_id": "cybersecurity-ai-agents-failed-hack-on-canada-govt-site-exposes--2",
     "title": "AI Agent’s Failed Hack on Canada Govt Site Exposes a New Security Problem",
     "slug": "ai-agents-failed-hack-on-canada-govt-site-exposes-",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-ai-agents-failed-hack-on-canada-govt-site-exposes--1.jpg",
+    "imageUrl": "/news-images/cybersecurity-ai-agents-failed-hack-on-canada-govt-site-exposes--2.jpg",
     "publishedDate": "2026-10-01 04:05:27",
     "sourceUrl": "https://www.devdiscourse.com/article/law-order/3984900-ai-agents-failed-hack-on-canada-govt-site-exposes-a-new-security-problem"
-  },
-  {
-    "_id": "cybersecurity-pentagon-warns-of-major-data-breach-affecting-3-mi-2",
-    "title": "Pentagon Warns of Major Data Breach Affecting 3 Million Military Personnel",
-    "slug": "pentagon-warns-of-major-data-breach-affecting-3-mi",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "A breach of the Defense Manpower Data Center has exposed sensitive personal data of more than three million service members, prompting the Pentagon to issue warnings and offer credit‑monitoring servic",
-    "author": "Headtopics",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-pentagon-warns-of-major-data-breach-affecting-3-mi-2.jpg",
-    "publishedDate": "2026-10-01 01:57:00",
-    "sourceUrl": "https://us.headtopics.com/news/pentagon-warns-of-major-data-breach-affecting-3-million-88324811"
   },
   {
     "_id": "national-exclusive-from-a-journalist-to-tv-actress-donal-bi-0",
