@@ -1,5 +1,56 @@
 [
   {
+    "_id": "business-on-the-street-langford-shop-taking-euros-new-board-0",
+    "title": "On the Street: Langford shop taking euros, new board chair at Camosun",
+    "slug": "on-the-street-langford-shop-taking-euros-new-board",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Co-owner Allan Nichols says Ramen Arashi Langford will gladly accept loose bills and change from the EU at a €1 to $1.50 rate.",
+    "author": "Timescolonist",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-on-the-street-langford-shop-taking-euros-new-board-0.jpg",
+    "publishedDate": "2026-10-02 17:30:00",
+    "sourceUrl": "https://www.timescolonist.com/business/on-the-street-langford-shop-taking-euros-new-board-chair-at-camosun-12838645"
+  },
+  {
+    "_id": "business-us-jobs-growth-stalls-at-29000-in-september-wages--1",
+    "title": "US Jobs Growth Stalls at 29,000 in September, Wages Lag Inflation",
+    "slug": "us-jobs-growth-stalls-at-29000-in-september-wages-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "US employers added just 29,000 jobs in September 2026 as unemployment rose to 4.2% and wage growth lagged inflation, new federal data show.",
+    "author": "Hoodline",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-us-jobs-growth-stalls-at-29000-in-september-wages--1.jpg",
+    "publishedDate": "2026-10-02 17:19:42",
+    "sourceUrl": "https://hoodline.com/2026/10/us-jobs-growth-stalls-at-29-000-in-september-wages-lag-inflation/"
+  },
+  {
+    "_id": "business-tennessee-senate-district-5-and-7-voters-guide-mee-2",
+    "title": "Tennessee Senate District 5 and 7 voter's guide: Meet the candidates",
+    "slug": "tennessee-senate-district-5-and-7-voters-guide-mee",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Knox County voters who live in two different Tennessee Senate districts have a choice in the Nov. 3 election. Hear from them in their own words.",
+    "author": "Knoxnews",
+    "category": {
+      "name": "Business",
+      "slug": "business",
+      "icon": "💼",
+      "color": "#059669"
+    },
+    "imageUrl": "/news-images/business-tennessee-senate-district-5-and-7-voters-guide-mee-2.jpg",
+    "publishedDate": "2026-10-02 17:14:14",
+    "sourceUrl": "https://www.knoxnews.com/story/news/politics/elections/2026/10/02/tennessee-senate-general-election-voters-guide-candidates-district-5-7/92004811007/"
+  },
+  {
     "_id": "cybersecurity-openai-rogue-ai-agents-trigger-alerts-to-100-organ-0",
     "title": "OpenAI Rogue AI Agents Trigger Alerts to 100+ Organizations: What CISOs Need to Know",
     "slug": "openai-rogue-ai-agents-trigger-alerts-to-100-organ",
@@ -253,57 +304,6 @@
     "imageUrl": "/news-images/sports-the-full-runa-casino-review-what-indian-players-ne-2.jpg",
     "publishedDate": "2026-10-01 17:07:20",
     "sourceUrl": "https://www.fijitimes.com.fj/the-full-runa-casino-review-what-indian-players-need-to-know/"
-  },
-  {
-    "_id": "business-iraqs-growing-innovation-business-ecosystem-at-lea-0",
-    "title": "Iraq’s Growing Innovation & Business Ecosystem at LEAP 2026: Insights from Narden Mohammed Arif, General Manager of Qafia Creative Agency",
-    "slug": "iraqs-growing-innovation-business-ecosystem-at-lea",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Riyadh, Saudi Arabia, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Iraq marked a significant presence at LEAP 2026 in Riyadh through a unified Iraq Pavilion, bringing together a diverse group of Iraqi companies",
-    "author": "Manilatimes",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-iraqs-growing-innovation-business-ecosystem-at-lea-0.jpg",
-    "publishedDate": "2026-09-29 17:47:35",
-    "sourceUrl": "https://www.manilatimes.net/2026/09/30/tmt-newswire/globenewswire/iraqs-growing-innovation-business-ecosystem-at-leap-2026-insights-from-narden-mohammed-arif-general-manager-of-qafia-creative-agency/2435540"
-  },
-  {
-    "_id": "business-grid-connections-2026-whos-going-where-and-doing-w-1",
-    "title": "Grid Connections 2026: Who’s going where and doing what in Australia’s green energy transition",
-    "slug": "grid-connections-2026-whos-going-where-and-doing-w",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Greens leader steps down, new CEO named for Momentum. Plus new CEOs at CS Energy, CER, CEFC. and appointments at GHD, Snowy, CEC. The post Grid Connections 2026: Who’s going where and doing what in Au",
-    "author": "Reneweconomy",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-grid-connections-2026-whos-going-where-and-doing-w-1.jpg",
-    "publishedDate": "2026-09-29 17:41:00",
-    "sourceUrl": "https://reneweconomy.com.au/grid-connections-2026-whos-going-where-and-doing-what-in-australias-green-energy-transition/"
-  },
-  {
-    "_id": "business-iraqs-growing-innovation-business-ecosystem-at-lea-2",
-    "title": "Iraq’s Growing Innovation & Business Ecosystem at LEAP 2026: Insights from Narden Mohammed Arif, General Manager of Qafia Creative Agency",
-    "slug": "iraqs-growing-innovation-business-ecosystem-at-lea",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Riyadh, Saudi Arabia, Sept. 29, 2026 (GLOBE NEWSWIRE) -- Iraq marked a significant presence at LEAP 2026 in Riyadh through a unified Iraq Pavilion, bringing together a diverse group of Iraqi companies",
-    "author": "Globenewswire Fr",
-    "category": {
-      "name": "Business",
-      "slug": "business",
-      "icon": "💼",
-      "color": "#059669"
-    },
-    "imageUrl": "/news-images/business-iraqs-growing-innovation-business-ecosystem-at-lea-2.jpg",
-    "publishedDate": "2026-09-29 17:35:00",
-    "sourceUrl": "https://www.globenewswire.com/fr/news-release/2026/09/29/3371259/0/en/iraq-s-growing-innovation-business-ecosystem-at-leap-2026-insights-from-narden-mohammed-arif-general-manager-of-qafia-creative-agency.html"
   },
   {
     "_id": "breaking-wrap-technologies-inc-nasdaq-wrap-executes-deliber-0",
