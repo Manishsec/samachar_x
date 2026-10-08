@@ -1,5 +1,56 @@
 [
   {
+    "_id": "sports-what-do-canberra-sports-make-of-the-bold-new-city--0",
+    "title": "What do Canberra sports make of the bold new city stadium proposal?",
+    "slug": "what-do-canberra-sports-make-of-the-bold-new-city-",
+    "content": "The ACT government recently unveiled a speculative proposal to construct a brand-new stadium in the heart of Canberra's city centre, a move that has quickly become the focal point of discussions around the future of elite sports in the capital. While specific architectural designs, precise locations, and detailed costings are yet to be fully disclosed, the concept aims to deliver a state-of-the-art facility capable of hosting major sporting events and enhancing the fan experience. This unexpected announcement immediately prompted reactions from the city's two premier professional sporting clubs, the Canberra Raiders (NRL) and the ACT Brumbies (Super Rugby Pacific), whose tenancy at the current GIO Stadium is central to the debate.\n\nFor years, the need for a modern sporting venue in Canberra has been a recurring theme, with the existing GIO Stadium in Bruce increasingly showing its age. Built in 1977 and last significantly upgraded for the 2000 Sydney Olympics, GIO Stadium lacks many of the contemporary amenities and corporate facilities expected of a major professional sports arena today. Previous proposals have often centred on a significant redevelopment of the Bruce site, with strong advocacy from the Raiders who have a deep-seated history and established training facilities there. The current city stadium proposal represents a significant departure from this long-held preference, introducing a new variable into a complex, decades-long discussion about infrastructure investment.\n\nCanberra Raiders CEO Don Furner has voiced considerable scepticism regarding the new city proposal, reiterating the club’s long-standing preference for a redevelopment of the current Bruce site. Furner highlighted concerns about the logistical challenges of a city stadium, particularly regarding parking, transport, and the disruption to existing infrastructure during construction. He emphasised the established fan base and community connections at Bruce, questioning the wisdom of moving away from a known quantity. In contrast, ACT Brumbies CEO Phil Thomson has shown a more open, albeit cautiously optimistic, stance. While acknowledging the potential benefits of a city-centric venue for revitalising the CBD and attracting new audiences, Thomson stressed the importance of ensuring any new facility meets the specific needs of rugby, including adequate training facilities and accessibility for players and fans.\n\nBeyond the immediate concerns of the sporting clubs, the proposal has sparked broader conversations among urban planners, sports economists, and the general public. Proponents argue that a city stadium could act as a catalyst for urban renewal, drawing more activity and economic benefits directly into the CBD, boosting hospitality and retail sectors. However, critics raise valid points about the significant public expenditure involved, especially when juxtaposed against other pressing community needs. Experts suggest that a comprehensive cost-benefit analysis, including detailed studies on traffic management, environmental impact, and long-term financial viability, will be crucial in swaying public opinion and securing political consensus for such a monumental project.\n\nThe path forward for this bold city stadium proposal is undoubtedly complex and protracted. It will necessitate extensive feasibility studies, detailed public consultations, and rigorous financial modelling to determine its true viability. The ACT government will need to carefully weigh the ambitious vision for a city stadium against the practical considerations and strong preferences expressed by key sporting stakeholders and the wider community. The decision will not only shape the future of Canberra’s sporting landscape but also have significant implications for urban development, public transport infrastructure, and the city’s identity as a hub for major events.\n\nUltimately, the debate boils down to a fundamental choice: to invest in modernising an existing, familiar precinct or to embark on a transformative, albeit challenging, project in a new urban core. While the allure of a state-of-the-art stadium in the heart of the city is undeniable, the concerns raised by the Raiders, Brumbies, and various community groups highlight the intricate balance between aspiration, practicality, and fiscal responsibility. Canberra’s sporting future hangs in the balance, awaiting a decision that will redefine its infrastructure for generations to come.",
+    "excerpt": "The ACT government’s surprise proposal for a new city-based stadium has ignited a fresh wave of debate within Canberra’s sporting community, with key clubs expressing a mix of caution and strategic interest. While the prospect of modern facilities is...",
+    "author": "Canberratimes",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-what-do-canberra-sports-make-of-the-bold-new-city--0.jpg",
+    "publishedDate": "2026-10-07 18:30:00",
+    "sourceUrl": "https://www.canberratimes.com.au/story/9364246/canberra-stadium-raiders-brumbies-react-to-new-city-proposal/?src=rss"
+  },
+  {
+    "_id": "sports-i-will-definitely-remember-this-for-the-rest-of-my-1",
+    "title": "'I will definitely remember this for the rest of my life' – No Pogačar, no problem as veteran Primož Roglič saves Slovenia at the last with fairytale European title triumph",
+    "slug": "i-will-definitely-remember-this-for-the-rest-of-my",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "'Maybe I'll only wear the jersey at home because we haven't decided yet what I'll do next, but no matter what, I'll wear it' says 36-year-old",
+    "author": "Cyclingnews",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-i-will-definitely-remember-this-for-the-rest-of-my-1.jpg",
+    "publishedDate": "2026-10-07 18:09:58",
+    "sourceUrl": "https://www.cyclingnews.com/pro-cycling/racing/i-will-definitely-remember-this-for-the-rest-of-my-life-no-pogacar-no-problem-as-veteran-primoz-roglic-saves-slovenia-at-the-last-with-fairytale-european-title-triumph/"
+  },
+  {
+    "_id": "sports-disney-to-stream-super-bowl-in-2027-2",
+    "title": "Disney+ to stream Super Bowl in 2027",
+    "slug": "disney-to-stream-super-bowl-in-2027",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "Game scheduled to take place on Feb 14 in Inglewood, California",
+    "author": "Tribune Pk",
+    "category": {
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "⚽",
+      "color": "#dc2626"
+    },
+    "imageUrl": "/news-images/sports-disney-to-stream-super-bowl-in-2027-2.jpg",
+    "publishedDate": "2026-10-07 17:45:55",
+    "sourceUrl": "https://tribune.com.pk/story/2633589/disney-to-stream-super-bowl-in-2027"
+  },
+  {
     "_id": "cybersecurity-hackers-demand-ransom-from-slate-valley-school-dis-0",
     "title": "Hackers demand ransom from Slate Valley school district after compromising teachers’ personal data",
     "slug": "hackers-demand-ransom-from-slate-valley-school-dis",
@@ -202,57 +253,6 @@
     "imageUrl": "/news-images/entertainment-maanvi-gagroos-heer-sara-monologue-on-body-image-s-2.jpg",
     "publishedDate": "2026-10-06 16:08:13",
     "sourceUrl": "https://www.bollywoodhungama.com/news/features/maanvi-gagroos-heer-sara-monologue-on-body-image-strikes-a-chord-online-the-messages-and-response-im-getting-for-the-monologue-is-honestly-amazing/"
-  },
-  {
-    "_id": "sports-he-carried-indias-flag-across-the-world-who-will-c-0",
-    "title": "He Carried India’s Flag Across the World. Who Will Carry His Dream Forward?",
-    "slug": "he-carried-indias-flag-across-the-world-who-will-c",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "OnlyKashmir.in There are moments when an athlete wins a medal and an entire region celebrates. Photographs circulate, congratulations pour in and for a brief moment, the athlete becomes a symbol of pr",
-    "author": "Onlykashmir",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-he-carried-indias-flag-across-the-world-who-will-c-0.jpg",
-    "publishedDate": "2026-10-06 18:06:23",
-    "sourceUrl": "https://onlykashmir.in/33151/he-carried-indias-flag-across-the-world-who-will-carry-his-dream-forward/"
-  },
-  {
-    "_id": "sports-australia-sells-itself-as-a-reef-a-rock-and-a-harb-1",
-    "title": "Australia sells itself as ‘a reef, a rock and a harbour’. Melbourne wants to be its new face",
-    "slug": "australia-sells-itself-as-a-reef-a-rock-and-a-harb",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Victoria boasts about being home to Australia’s sports and arts capital. We explore what it needs to do to retain this status and attract more international visitors.",
-    "author": "Brisbanetimes",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-australia-sells-itself-as-a-reef-a-rock-and-a-harb-1.jpg",
-    "publishedDate": "2026-10-06 18:00:00",
-    "sourceUrl": "https://www.brisbanetimes.com.au/national/victoria/australia-sells-itself-as-a-reef-a-rock-and-a-harbour-melbourne-wants-to-be-its-new-face-20261007-p60jxs.html"
-  },
-  {
-    "_id": "sports-australia-sells-itself-as-a-reef-a-rock-and-a-harb-2",
-    "title": "Australia sells itself as ‘a reef, a rock and a harbour’. Melbourne wants to be its new face",
-    "slug": "australia-sells-itself-as-a-reef-a-rock-and-a-harb",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Victoria boasts about being home to Australia’s sports and arts capital. We explore what it needs to do to retain this status and attract more international visitors.",
-    "author": "Theage",
-    "category": {
-      "name": "Sports",
-      "slug": "sports",
-      "icon": "⚽",
-      "color": "#dc2626"
-    },
-    "imageUrl": "/news-images/sports-australia-sells-itself-as-a-reef-a-rock-and-a-harb-2.jpg",
-    "publishedDate": "2026-10-06 18:00:00",
-    "sourceUrl": "https://www.theage.com.au/national/victoria/australia-sells-itself-as-a-reef-a-rock-and-a-harbour-melbourne-wants-to-be-its-new-face-20261007-p60jxs.html"
   },
   {
     "_id": "business-on-the-street-langford-shop-taking-euros-new-board-0",
