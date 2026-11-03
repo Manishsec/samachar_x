@@ -1,6 +1,23 @@
 [
   {
-    "_id": "cybersecurity-it-security-news-roundup-2026-11-03-overnight-0",
+    "_id": "cybersecurity-crypto-hack-top-114b-as-cyber-threats-spread-acros-0",
+    "title": "Crypto Hack Top $11.4B as Cyber Threats Spread Across 10 Countries",
+    "slug": "crypto-hack-top-114b-as-cyber-threats-spread-acros",
+    "content": "The staggering $11.4 billion figure represents the cumulative losses from 785 distinct hacking incidents, painting a grim picture of the vulnerabilities inherent in the rapidly evolving crypto space. While the geographic spread of these attacks spans across a minimum of 10 nations, the financial impact reverberates globally, affecting countless individuals and institutional investors. The report by Crystal Intelligence, a prominent blockchain analytics firm, pinpoints DeFi protocols as the epicenter of these security breaches, accounting for over 80% of the total stolen funds. This concentration on DeFi highlights the complex interplay of smart contract vulnerabilities, nascent security infrastructure, and the allure of large, uncollateralized funds for cybercriminals.\n\nTracing the trajectory of these cyber assaults reveals a disturbing trend of escalating sophistication and frequency. The year 2022 stands out as particularly devastating, witnessing an unprecedented $3.7 billion siphoned off through various exploits, making it the worst year on record for crypto hacks. Attack vectors are diverse and constantly evolving, ranging from well-known flash loan attacks and re-entrancy exploits to more insidious rug pulls, phishing scams, and critical private key compromises. These incidents often leverage intricate smart contract flaws or exploit human vulnerabilities, demonstrating the multi-faceted approach taken by threat actors to penetrate even seemingly secure systems.\n\nWhile the overall trend remains concerning, recent data offers a glimmer of hope, albeit with strong caveats. The first quarter of 2024 saw a notable reduction in stolen funds, with approximately $336 million lost, a significant decrease compared to the $735 million stolen in Q1 2023. This 50% drop, however, does not diminish the gravity of the ongoing threat; it merely indicates a shift in the immediate landscape. Emerging threats, such as Maximal Extractable Value (MEV) bots, are now being actively exploited, with hackers leveraging these automated tools to identify and exploit on-chain vulnerabilities, particularly on popular blockchains like Ethereum and Binance Smart Chain (BSC).\n\nIndustry experts are unanimous in their call for continuous vigilance and adaptive security strategies. Marina Khaustova, CEO of Crystal Intelligence, emphasized that despite the recent quarterly decline, \"the total amount stolen remains significant, highlighting the ongoing need for robust security measures.\" This sentiment is echoed across the cybersecurity community, urging developers to prioritize rigorous code audits, implement bug bounty programs, and enhance real-time on-chain monitoring. Moreover, educating users about common attack vectors and promoting best practices for securing digital assets are crucial steps in building a more resilient and trustworthy crypto ecosystem.\n\nThe long-term implications of these persistent hacks extend beyond immediate financial losses, posing a substantial risk to the broader acceptance and regulatory future of cryptocurrencies. Governments and financial authorities worldwide are increasingly scrutinizing the security shortcomings of digital assets, potentially leading to stricter regulations and compliance requirements. For the crypto industry to mature and achieve widespread adoption, a concerted, collaborative effort is essential, involving developers, security firms, regulators, and users working in tandem to fortify defenses against an ever-evolving landscape of cyber threats. The $11.4 billion benchmark serves as a stark reminder that the battle for digital asset security is far from over.",
+    "excerpt": "The global cryptocurrency landscape continues to grapple with an escalating cyber threat, as total funds stolen from crypto hacks have now surpassed an alarming $11.4 billion, impacting at least 10 countries worldwide. A comprehensive report by Cryst...",
+    "author": "Coinpedia",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-crypto-hack-top-114b-as-cyber-threats-spread-acros-0.jpg",
+    "publishedDate": "2026-11-03 06:38:08",
+    "sourceUrl": "https://coinpedia.org/news/crypto-hack-top-11-4b-as-cyber-threats-spread-across-10-countries/"
+  },
+  {
+    "_id": "cybersecurity-it-security-news-roundup-2026-11-03-overnight-1",
     "title": "IT Security News Roundup: 2026-11-03 Overnight",
     "slug": "it-security-news-roundup-2026-11-03-overnight",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -12,12 +29,12 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-roundup-2026-11-03-overnight-0.jpg",
+    "imageUrl": "/news-images/cybersecurity-it-security-news-roundup-2026-11-03-overnight-1.jpg",
     "publishedDate": "2026-11-03 05:05:49",
     "sourceUrl": "https://www.itsecuritynews.info/it-security-news-roundup-2026-11-03-overnight/"
   },
   {
-    "_id": "cybersecurity-seoul-races-to-contain-data-leak-exposing-lee-his--1",
+    "_id": "cybersecurity-seoul-races-to-contain-data-leak-exposing-lee-his--2",
     "title": "Seoul races to contain data leak exposing Lee, his aides and bodyguards",
     "slug": "seoul-races-to-contain-data-leak-exposing-lee-his-",
     "content": "ONLY AVAILABLE IN PAID PLANS",
@@ -29,26 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-seoul-races-to-contain-data-leak-exposing-lee-his--1.jpg",
+    "imageUrl": "/news-images/cybersecurity-seoul-races-to-contain-data-leak-exposing-lee-his--2.jpg",
     "publishedDate": "2026-11-03 04:49:14",
     "sourceUrl": "https://www.koreaherald.com/article/10924108"
-  },
-  {
-    "_id": "cybersecurity-from-sbi-to-binance-how-financial-institutions-are-2",
-    "title": "From SBI to Binance, how financial institutions are becoming cyberattack targets",
-    "slug": "from-sbi-to-binance-how-financial-institutions-are",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "Recent incidents involving cryptocurrency exchange Binance and Indian public sector lender State Bank of India (SBI) have once again put the spotlight on the issue. While Binance reported a security b",
-    "author": "Economictimes Indiatimes",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-from-sbi-to-binance-how-financial-institutions-are-2.jpg",
-    "publishedDate": "2026-11-03 04:41:17",
-    "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/from-sbi-to-binance-how-financial-institutions-are-becoming-cyberattack-targets/articleshow/135482338.cms"
   },
   {
     "_id": "national-pre-election-borrowings-suspicious-not-absolute-no-0",
