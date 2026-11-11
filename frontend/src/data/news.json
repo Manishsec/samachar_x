@@ -1,10 +1,44 @@
 [
   {
-    "_id": "cybersecurity-it-security-news-roundup-2026-11-11-overnight-0",
+    "_id": "cybersecurity-news-today-anthropic-leak-hits-100-korean-firms-0",
+    "title": "[News Today] Anthropic leak hits 100 Korean firms",
+    "slug": "news-today-anthropic-leak-hits-100-korean-firms",
+    "content": "The cybersecurity community in South Korea is grappling with the fallout from a substantial data leak originating from Anthropic, a prominent artificial intelligence company. Discovered by the South Korean cybersecurity firm S2W, the breach exposed API keys and, more critically, internal prompts from more than 100 domestic companies, ranging from large conglomerates to startups and public institutions. This incident, confirmed by Anthropic, has raised alarms about the security of proprietary information fed into generative AI models and the potential for severe intellectual property compromise.\n\nAccording to Anthropic's statement, the leak stemmed from \"an issue that occurred during the process of providing information to external partners for service improvement.\" This suggests that user data, which included sensitive API keys and detailed prompts, was inadvertently exposed or improperly handled when shared with third-party vendors involved in enhancing Anthropic's services. As companies globally rapidly adopt AI for tasks ranging from content generation to strategic planning, the reliance on these platforms often entails submitting highly confidential or proprietary data, making such security vulnerabilities particularly perilous.\n\nThe exposed data is not merely technical but deeply strategic. Beyond API keys, which could grant unauthorized access to Anthropic's models, the leaked internal prompts contained highly sensitive business intelligence. Reports indicate that these prompts included detailed business plans, financial strategies, customer information, and other trade secrets that companies input to guide AI model responses. Upon discovery by S2W, Anthropic promptly revoked the compromised API keys and began notifying affected organizations, while the Korea Internet & Security Agency (KISA) initiated its own investigation to assist impacted firms.\n\nCybersecurity experts are weighing in on the gravity of the situation, emphasizing the profound implications of prompt exposure. Jeon Ho-woo, a researcher at S2W, highlighted that \"the prompt itself is the most critical part of AI security,\" as it often encapsulates a company's unique insights, strategies, and competitive advantages. The potential for malicious actors to exploit this leaked information for industrial espionage, competitive intelligence gathering, or even unauthorized access to other systems, represents a significant threat to corporate security and market competitiveness.\n\nThis incident carries substantial implications for the broader landscape of AI adoption and data governance. It serves as a stark reminder that while generative AI offers immense potential, its integration must be accompanied by rigorous security protocols and due diligence regarding data handling by AI providers. Affected Korean firms are now likely reviewing their data submission practices and internal security measures, while regulators may consider strengthening guidelines for AI service providers to ensure robust data protection and transparent communication regarding third-party data processing.\n\nUltimately, the Anthropic leak underscores an evolving frontier in cybersecurity, where the very inputs designed to enhance AI performance can become a critical vulnerability. As businesses increasingly rely on AI to process and generate sensitive information, the imperative for both AI developers and corporate users to prioritize data security, ensure proper anonymization, and scrutinize third-party data-sharing agreements has never been more urgent. This incident will undoubtedly prompt a re-evaluation of trust frameworks and security standards across the rapidly expanding AI ecosystem.",
+    "excerpt": "A significant data leak from leading AI developer Anthropic has exposed sensitive information, including API keys and proprietary internal prompts, from over 100 South Korean companies. The breach, discovered by a domestic cybersecurity firm, highlig...",
+    "author": "Kbs Kr",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-news-today-anthropic-leak-hits-100-korean-firms-0.jpg",
+    "publishedDate": "2026-11-11 07:40:19",
+    "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8709986"
+  },
+  {
+    "_id": "cybersecurity-risky-business-859-artex-damage-approaches-crisis--1",
+    "title": "Risky Business #859 -- ARTEX damage approaches crisis levels",
+    "slug": "risky-business-859-artex-damage-approaches-crisis-",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "On this week’s show Patrick Gray and James Wilson are joined by special guest co-host Chris Krebs to talk through the week’s cybersecurity news, including: Everyone’s using the ARTEX pentesting framew",
+    "author": "Risky Biz",
+    "category": {
+      "name": "Cybersecurity",
+      "slug": "cybersecurity",
+      "icon": "🔒",
+      "color": "#475569"
+    },
+    "imageUrl": "/news-images/cybersecurity-risky-business-859-artex-damage-approaches-crisis--1.jpg",
+    "publishedDate": "2026-11-11 06:09:15",
+    "sourceUrl": "https://risky.biz/RB859/"
+  },
+  {
+    "_id": "cybersecurity-it-security-news-roundup-2026-11-11-overnight-2",
     "title": "IT Security News Roundup: 2026-11-11 Overnight",
     "slug": "it-security-news-roundup-2026-11-11-overnight",
-    "content": "Global cybersecurity agencies are scrambling to respond to a rapidly unfolding, multi-stage ransomware attack that emerged overnight, impacting several key organizations within the energy and logistics sectors across multiple continents. The sophisticated campaign, dubbed \"Project Chimera\" by early responders, exploits a previously unknown vulnerability in the popular \"NexusConnect\" enterprise collaboration suite, allowing attackers to gain initial access before deploying highly customized ransomware payloads. Initial reports suggest the attackers demonstrated a deep understanding of victim networks, moving laterally with alarming speed to compromise critical operational technology (OT) systems.\n\nThe exploitation of a zero-day vulnerability in a widely used platform like NexusConnect underscores a growing concern among cybersecurity professionals regarding supply chain integrity and software resilience. NexusConnect, a staple for millions of businesses, offers integrated communication, project management, and data sharing functionalities, making it a lucrative target for advanced persistent threat (APT) groups. This incident follows a series of similar attacks earlier in 2026, where vulnerabilities in common business applications served as the initial breach point, highlighting a persistent strategic shift by threat actors towards exploiting foundational enterprise tools rather than individual endpoints.\n\nAs investigations continue, preliminary analysis indicates that \"Project Chimera\" employs advanced evasion techniques, including polymorphic code and AI-assisted reconnaissance, making traditional signature-based defenses less effective. The ransomware itself, a variant dubbed \"ChrysalisLocker,\" not only encrypts data but also exfiltrates sensitive operational blueprints and proprietary information, adding an espionage dimension to the incident. Several affected organizations have confirmed service disruptions, with some forced to initiate manual failover procedures, though none have yet publicly disclosed ransom demands or paid any cryptocurrency. Incident response teams are working around the clock to patch the newly identified vulnerability and contain further spread.\n\n\"This isn't just another ransomware attack; it represents a significant escalation in sophistication and targeting,\" stated Dr. Anya Sharma, a leading cybersecurity analyst at the Global Institute for Digital Security. \"The combination of a zero-day exploit in a critical enterprise platform, coupled with AI-driven lateral movement and data exfiltration, points towards a well-resourced, potentially state-sponsored actor. Organizations must immediately prioritize patching NexusConnect and review their OT network segmentation.\" Mark Davies, Head of Threat Intelligence at CyberGuard Solutions, echoed this sentiment, emphasizing the need for proactive threat hunting and robust incident response plans that account for multi-vector attacks.\n\nThe immediate implications of \"Project Chimera\" are far-reaching, potentially disrupting global supply chains and critical services if containment efforts falter. Beyond the technical challenges, the incident is likely to reignite debates in legislative bodies regarding mandatory vulnerability disclosure policies and international cooperation on cyber warfare. Senator Evelyn Reed, Chair of the Senate Committee on Technology and National Security, indicated that her committee would be holding emergency hearings to address the escalating threat landscape. Businesses are urged to implement multi-factor authentication across all systems, enhance employee training on phishing resistance, and conduct comprehensive audits of their third-party software dependencies.\n\nAdding to the complex overnight picture, cybersecurity firms also reported a marked increase in highly convincing, AI-generated spear-phishing campaigns. These sophisticated attacks leverage publicly available information and deepfake technologies to craft incredibly personalized emails and voice messages, bypassing traditional spam filters and tricking even vigilant employees. This dual threat of zero-day exploits targeting critical infrastructure and advanced social engineering tactics underscores the dynamic and relentless nature of modern cyber warfare, demanding continuous adaptation and investment in advanced security measures from every sector.",
-    "excerpt": "The overnight hours of November 11, 2026, have brought a flurry of critical cybersecurity updates, with a newly identified, sophisticated ransomware campaign targeting critical infrastructure dominating headlines. Leveraging an undisclosed zero-day v...",
+    "content": "ONLY AVAILABLE IN PAID PLANS",
+    "excerpt": "IT Security News: Overnight roundup, 2026-11-11 Summary Between midnight and six this morning, the stories clustered around three threads: AI systems acting as tools, targets and security products at ",
     "author": "Itsecuritynews Info",
     "category": {
       "name": "Cybersecurity",
@@ -12,43 +46,9 @@
       "icon": "🔒",
       "color": "#475569"
     },
-    "imageUrl": "/news-images/cybersecurity-it-security-news-roundup-2026-11-11-overnight-0.jpg",
+    "imageUrl": "/news-images/cybersecurity-it-security-news-roundup-2026-11-11-overnight-2.jpg",
     "publishedDate": "2026-11-11 05:06:30",
     "sourceUrl": "https://www.itsecuritynews.info/it-security-news-roundup-2026-11-11-overnight/"
-  },
-  {
-    "_id": "cybersecurity-fbi-wanted-north-korean-hacker-back-in-spotlight-1",
-    "title": "FBI-wanted North Korean hacker back in spotlight",
-    "slug": "fbi-wanted-north-korean-hacker-back-in-spotlight",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "North Korean programmer Park Jin-hyok, wanted by US authorities since 2018, offers a glimpse into Pyongyang’s evolving cyber operations. SEOUL – A North Korean programmer accused of helping orchestrat",
-    "author": "Phnompenhpost",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-fbi-wanted-north-korean-hacker-back-in-spotlight-1.jpg",
-    "publishedDate": "2026-11-11 01:50:06",
-    "sourceUrl": "https://phnompenhpost.com/international/fbi-wanted-north-korean-hacker-back-in-spotlight/"
-  },
-  {
-    "_id": "cybersecurity-france-blames-iran-for-supermarket-fridge-attacks--2",
-    "title": "France blames Iran for supermarket fridge attacks, Ransomware gang hits Vanderbilt, Microsoft fixes 1,235 flaws",
-    "slug": "france-blames-iran-for-supermarket-fridge-attacks-",
-    "content": "ONLY AVAILABLE IN PAID PLANS",
-    "excerpt": "France Blames Iran for Supermarket Fridge Sabotage, Vanderbilt Restores Systems After Cyberattack, and Microsoft Patches 1,235 Flaws France has formally… Read more → The post France blames Iran for su",
-    "author": "Itsecuritynews Info",
-    "category": {
-      "name": "Cybersecurity",
-      "slug": "cybersecurity",
-      "icon": "🔒",
-      "color": "#475569"
-    },
-    "imageUrl": "/news-images/cybersecurity-france-blames-iran-for-supermarket-fridge-attacks--2.jpg",
-    "publishedDate": "2026-11-11 01:31:19",
-    "sourceUrl": "https://www.itsecuritynews.info/france-blames-iran-for-supermarket-fridge-attacks-ransomware-gang-hits-vanderbilt-microsoft-fixes-1235-flaws/"
   },
   {
     "_id": "national-the-real-challenge-of-rebuilding-sri-lanka-i-0",
